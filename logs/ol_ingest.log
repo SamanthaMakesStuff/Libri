@@ -1,0 +1,24 @@
+catalog index: 87,031 distinct normalised titles
+
+pass 1/3: works dump (title match)...
+    ...works 4,000,000 lines
+    ...works 8,000,000 lines
+    ...works 12,000,000 lines
+    ...works 16,000,000 lines
+    ...works 20,000,000 lines
+    ...works 24,000,000 lines
+    ...works 28,000,000 lines
+    ...works 32,000,000 lines
+    ...works 36,000,000 lines
+    ...works 40,000,000 lines
+  41,368,238 works scanned -> 1,254,121 title-matched, 690,497 authors to resolve
+
+pass 2/3: authors dump (resolve names)...
+    ...authors 4,000,000 lines
+    ...authors 8,000,000 lines
+    ...authors 12,000,000 lines
+  resolved 690,460/690,497
+  confirmed work->book matches: 275,342 covering 85,828 distinct books
+  [checkpoint] persisted 85,828 books (descriptions/subjects) before the editions pass
+
+pass 3/3: editions (from combined dump — this is the slow one)...

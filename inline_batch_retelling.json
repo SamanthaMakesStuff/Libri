@@ -1,0 +1,992 @@
+[
+ {
+  "id": "charm",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL10243891W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15058678W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15082790W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16342584W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16682108W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL23304711W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL23304719W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL274490W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL2963072W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL451054W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL46873W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL8065891W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL859795W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "poison1",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL112094W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15136800W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15227626W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20607656W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL23193490W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL2382360W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL259010W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL2920563W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15518343W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16010195W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16414294W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16471217W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL18017092W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19984539W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20003690W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL2997485W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL396062W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL4135305W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL45429W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL516753W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1417808W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL14908300W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16805944W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1875008W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19207464W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1957676W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19714W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20006604W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20036168W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL22058441W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL28694W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL455546W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15712928W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL17640796W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1854097W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19670222W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19744545W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19979049W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL315268W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL38828W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15105748W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1814451W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15381776W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1685821W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1941465W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20940766W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL23223192W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL3914593W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL8909095W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15082625W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15414058W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16161705W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL16470015W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1871499W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19728177W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20028041W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20049037W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL23281950W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL24208538W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL547106W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL5748345W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL118715W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19716686W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL20702143W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL24290176W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL446645W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL50386W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL5790692W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL6699502W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL800804W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL15178537W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL2022175W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL24714759W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL24715971W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL9200598W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ }
+]

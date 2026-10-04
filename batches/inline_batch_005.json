@@ -1,0 +1,63 @@
+[
+  {"id": "openlibrary_OL25313428W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["vampire-romance", "revenge-plot", "found-family", "forbidden-love", "exes-to-lovers"],
+   "tags": ["sapphic", "lesbian", "paranormal-romance", "funny", "dark", "adventurous"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "cryptonomicon", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dual-timeline", "espionage-double-agent", "resistance-spy-work-during-wartime", "multiple-pov", "forbidden-knowledge"],
+   "tags": ["hard-sci-fi", "challenging", "funny", "adventurous"],
+   "pacing": "Slow", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL137397W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["closed-circle-of-suspects", "isolated-setting", "red-herring", "unreliable-narrator"],
+   "tags": ["whodunit", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL5715365W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["coming-of-age", "found-family", "first-love", "identity-and-self-discovery"],
+   "tags": ["emotional", "hopeful", "lighthearted"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL16705382W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "survival-narrative", "multiple-pov", "ancient-evil-awakening", "found-family"],
+   "tags": ["post-apocalyptic", "dark", "tense", "emotional"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "upgrade", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Mystery/crime — it is a near-future sci-fi thriller",
+   "tropes": ["genetic-engineering", "transhumanism", "ethics-of-scientific-progress", "race-against-time", "what-does-it-mean-to-be-human"],
+   "tags": ["techno-thriller", "tense", "challenging"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "sea_of_tranquility", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["simulated-reality", "dual-timeline", "space-colonization", "multiple-pov", "generation-spanning-saga"],
+   "tags": ["time-travel", "reflective", "mysterious", "sad", "hopeful"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL21685700W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["tragic-past", "sibling-bond-as-central-relationship", "dual-timeline", "unreliable-narrator", "kidnapping"],
+   "tags": ["psychological-thriller", "dark", "tense", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "circe", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'Romantasy' — romance is present but not central; this is a literary mythology retelling",
+   "tropes": ["identity-and-self-discovery", "immortal-mortal-romance", "the-outcast-hero", "coming-of-age", "forbidden-magic"],
+   "tags": ["mythology-retelling", "reflective", "emotional", "adventurous"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL14865044W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["real-historical-figure-as-secondary-character", "war-and-its-aftermath-on-ordinary-lives", "mental-health-narrative", "interpersonal-character-study"],
+   "tags": ["war-fiction", "reflective", "sad", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "record_of_a_spaceborn_few", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["generation-ship-society", "multiple-pov", "interpersonal-character-study", "found-family", "identity-and-self-discovery"],
+   "tags": ["soft-sci-fi", "reflective", "hopeful", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "the_galaxy_and_the_ground_within", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["found-family", "forced-proximity", "interpersonal-character-study", "first-contact-with-aliens"],
+   "tags": ["soft-sci-fi", "hopeful", "relaxing", "reflective", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"}
+]

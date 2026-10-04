@@ -1,0 +1,61 @@
+﻿kind,slug,uses_total,uses_in_lesfic,suggested_kind,why,example_book
+,sapphic,525,465,tag,"identity, setting or demographic descriptor",Written in the Stars
+,lesbian,461,453,tag,"identity, setting or demographic descriptor",Bid Number Nine
+,contemporary,966,325,tag,"identity, setting or demographic descriptor",Written in the Stars
+,royalty,294,284,trope,relationship dynamic / character archetype readers search by,Girlfriend Goals
+,ice-queen,260,260,trope,relationship dynamic / character archetype readers search by,Lullaby
+,american,515,252,tag,"identity, setting or demographic descriptor",Begin Again
+,masc-femme,252,252,trope,relationship dynamic / character archetype readers search by,Lark and Legion
+,low-angst,230,230,trope,relationship dynamic / character archetype readers search by,Begin Again
+,femme,200,200,tag,"identity, setting or demographic descriptor",Forged in Deception
+,25-39-lead,188,188,tag,"identity, setting or demographic descriptor",Bid Number Nine
+,angsty-romance,160,160,trope,relationship dynamic / character archetype readers search by,Girlfriend Goals
+,age-gap,186,149,trope,relationship dynamic / character archetype readers search by,The Rookie
+,low-angst-romance,125,125,trope,relationship dynamic / character archetype readers search by,The Rookie
+,40-lead,121,121,tag,"identity, setting or demographic descriptor",Girlfriend Goals
+,action,550,119,drop,too broad to discriminate; already covered by genre,Bid Number Nine
+,masculine,116,116,tag,"identity, setting or demographic descriptor",Lark and Legion
+,sunshine,116,116,trope,relationship dynamic / character archetype readers search by,Dr. Margaret Morgan
+,workplace,119,115,trope,relationship dynamic / character archetype readers search by,Bid Number Nine
+,cinnamon-roll,112,110,trope,relationship dynamic / character archetype readers search by,The Flatshare
+,futuristic,126,93,tag,"identity, setting or demographic descriptor",Lark and Legion
+,speculative-fiction,178,89,tag,"identity, setting or demographic descriptor",The Devil She Knows
+,bisexual,111,89,tag,"identity, setting or demographic descriptor",Lark and Legion
+,bisexual-or-pansexual,86,86,tag,"identity, setting or demographic descriptor",Lark and Legion
+,british,326,73,tag,"identity, setting or demographic descriptor",Girlfriend Goals
+,small-town,115,64,trope,relationship dynamic / character archetype readers search by,Begin Again
+,hot-and-spicy,64,64,tag,"identity, setting or demographic descriptor",Windburn
+,femme-femme,59,59,trope,relationship dynamic / character archetype readers search by,The Second Draft
+,celebrity,62,57,trope,relationship dynamic / character archetype readers search by,Beyond her Manner
+,slow-burn-romance,278,55,trope,relationship dynamic / character archetype readers search by,Pride and Prejudice
+,war,4751,54,drop,too broad to discriminate; already covered by genre,Bid Number Nine
+,coming-out,54,54,trope,relationship dynamic / character archetype readers search by,The Second Draft
+,action-novels,49,49,drop,too broad to discriminate; already covered by genre,Lark and Legion
+,paranormal,172,42,tag,"identity, setting or demographic descriptor",The Devil She Knows
+,small-business-owner,42,42,tag,"identity, setting or demographic descriptor",The Rookie
+,medical-professional,42,42,tag,"identity, setting or demographic descriptor",An Unexpected Fate
+,pet-parent,39,39,tag,defaulting to tag — please correct if it is a plot device,Magdalene Nox
+,ceo,38,38,tag,defaulting to tag — please correct if it is a plot device,The Mogul Meets Her Match
+,listings,38,38,tag,defaulting to tag — please correct if it is a plot device,"Mafia Girl, Maybe?"
+,touch-starved,38,37,trope,relationship dynamic / character archetype readers search by,The Lady's Guide to Celestial Mechanic
+,straight-to-gay,36,36,trope,defaulting to tag — please correct if it is a plot device,The Second Draft
+,new-adult-18-24-lead,35,35,tag,demographic/structural descriptor,Dr. Margaret Morgan
+,includes-adult-toys,35,35,tag,defaulting to tag — please correct if it is a plot device,Windburn
+,comedy-novels,35,35,tag,defaulting to tag — please correct if it is a plot device,Vengeance Planning for Amateurs
+,adventure-novels,34,34,tag,defaulting to tag — please correct if it is a plot device,Lovers of the Unbound Kingdoms: Volume
+,romantic-subplot,33,33,tag,defaulting to tag — please correct if it is a plot device,Bid Number Nine
+,trapped-together,31,31,trope,defaulting to tag — please correct if it is a plot device,Girlfriend Goals
+,black,40,31,tag,defaulting to tag — please correct if it is a plot device,Forged in Deception
+,author-writer,30,30,tag,"identity, setting or demographic descriptor",Lullaby
+,short-story-or-novella,30,30,tag,"identity, setting or demographic descriptor",Lullaby
+,political-intrigue,253,30,tag,defaulting to tag — please correct if it is a plot device,"Red, White & Royal Blue"
+,teacher-professor,30,30,tag,"identity, setting or demographic descriptor",Dr. Margaret Morgan
+,light-and-fluffy,30,30,tag,defaulting to tag — please correct if it is a plot device,Just a Touch Away
+,magic-user,29,29,tag,defaulting to tag — please correct if it is a plot device,The Witch's Pet
+,author-of-colour,29,29,drop,defaulting to tag — please correct if it is a plot device,When Tara Met Farah
+,competence-kink,39,28,tag,defaulting to tag — please correct if it is a plot device,Gideon the Ninth
+,cop,28,28,tag,defaulting to tag — please correct if it is a plot device,Bid Number Nine
+,worldbuilding,56,26,tag,defaulting to tag — please correct if it is a plot device,Gideon the Ninth
+,artist,26,26,tag,"identity, setting or demographic descriptor",Forged in Deception
+,divorcee,25,25,tag,defaulting to tag — please correct if it is a plot device,The Second Draft
+,musician,27,24,tag,defaulting to tag — please correct if it is a plot device,Beyond her Manner

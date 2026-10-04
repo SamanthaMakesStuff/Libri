@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Samantha\BookRec\scrape_moodreads.py", line 279, in <module>
+    main()
+  File "C:\Users\Samantha\BookRec\scrape_moodreads.py", line 258, in main
+    elif merge_into(match, s):
+  File "C:\Users\Samantha\BookRec\scrape_moodreads.py", line 168, in merge_into
+    changed |= _add_unique(entry, "genre", s["genres"])
+  File "C:\Users\Samantha\BookRec\scrape_moodreads.py", line 159, in _add_unique
+    cur.append(v)
+AttributeError: 'str' object has no attribute 'append'

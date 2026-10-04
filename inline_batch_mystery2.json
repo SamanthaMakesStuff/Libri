@@ -1,0 +1,226 @@
+[
+ {
+  "id": "hardcover_12609",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "amnesia"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_137573",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping",
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_182692",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1162700",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_157345",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "spy-espionage-thriller"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_121555",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_140384",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_11180",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1254451",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_117922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_137484",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_147314",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_150150",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "girl_with_dragon_tattoo",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1218611",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_112341",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_134190",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1386594",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_166872",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "spy-espionage-thriller"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1360139",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "spy-espionage-thriller"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ }
+]

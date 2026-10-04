@@ -1,0 +1,65 @@
+[
+  {"id": "openlibrary_OL15920488W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["queer-coming-of-age", "coming-of-age", "identity-and-self-discovery", "rebellion-against-an-oppressive-system", "first-love"],
+   "tags": ["sapphic", "lesbian", "young-adult", "literary-fiction", "sad", "emotional", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL19664590W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["forbidden-love", "enemies-to-lovers", "queer-coming-of-age", "survival-against-historical-injustice", "class-social-commentary"],
+   "tags": ["sapphic", "lesbian", "young-adult", "historical-fiction", "emotional", "challenging", "tense"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL17900754W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "was classed childrens — it is YA with an intersex protagonist",
+   "tropes": ["identity-and-self-discovery", "coming-of-age", "the-outcast-hero", "first-love"],
+   "tags": ["young-adult", "emotional", "challenging", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL31923W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dual-timeline", "found-family", "small-town-secrets", "interpersonal-character-study", "midlife-reckoning"],
+   "tags": ["sapphic", "historical-fiction", "emotional", "funny", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL2771987W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["class-social-commentary", "first-contact-with-aliens", "different-worlds", "hidden-history-untold-women-s-history"],
+   "tags": ["utopian", "challenging", "reflective", "funny"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL19349605W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "environmental-collapse-narrative", "coming-of-age", "revenge-plot", "class-social-commentary"],
+   "tags": ["dystopian", "dark", "challenging", "sad"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "station_eleven", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "multiple-pov", "dual-timeline", "survival-narrative", "interpersonal-character-study"],
+   "tags": ["post-apocalyptic", "literary-fiction", "reflective", "hopeful", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17569713W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'Romantasy' — it is dystopian satire",
+   "tropes": ["corporate-dystopia", "dystopian-government-totalitarian-regime", "surveillance-state", "class-social-commentary"],
+   "tags": ["dystopian", "dark", "funny", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Medium Spice"},
+
+  {"id": "oryx_and_crake", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'Romantasy' — it is post-apocalyptic literary sci-fi",
+   "tropes": ["post-apocalyptic-wasteland", "genetic-engineering", "corporate-dystopia", "ethics-of-scientific-progress", "sole-survivor", "dual-timeline"],
+   "tags": ["post-apocalyptic", "dystopian", "dark", "challenging", "reflective"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19781733W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "OL description was just a URL — enriched from knowledge; genres said contemporary romance but it is literary fiction about loneliness and trauma",
+   "tropes": ["mental-health-narrative", "tragic-past", "identity-and-self-discovery", "interpersonal-character-study", "neurodivergent-protagonist"],
+   "tags": ["literary-fiction", "emotional", "funny", "sad", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "the_immortals", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["serial-killer", "secret-magical-society-hidden-in-the-mundane-world", "immortal-mortal-romance", "lone-detective-maverick-investigator"],
+   "tags": ["urban-fantasy", "mythology-retelling", "tense", "adventurous"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL2909420W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["serial-killer", "bodyguard-romance", "race-against-time", "cat-and-mouse-pursuit"],
+   "tags": ["romantic-suspense", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Medium Spice"}
+]

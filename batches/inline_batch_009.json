@@ -1,0 +1,76 @@
+[
+  {"id": "openlibrary_OL505010W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "was classed childrens — it is landmark YA lesbian romance (1982)",
+   "tropes": ["queer-coming-of-age", "first-love", "forbidden-love", "coming-of-age", "identity-and-self-discovery"],
+   "tags": ["sapphic", "lesbian", "young-adult", "emotional", "hopeful", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL500710W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["age-gap-may-december-romance", "queer-coming-of-age", "teacher-student", "first-love", "forbidden-love"],
+   "tags": ["sapphic", "lesbian", "literary-fiction", "emotional", "reflective"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL2965102W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Romance/contemporary — it is literary fiction; neurodivergent narrator is explicit in the text and subjects",
+   "tropes": ["neurodivergent-protagonist", "unreliable-narrator", "coming-of-age", "missing-person", "identity-and-self-discovery"],
+   "tags": ["literary-fiction", "emotional", "funny", "challenging"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "None"},
+
+  {"id": "fahrenheit_451", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "forbidden-knowledge", "rebellion-against-an-oppressive-system", "surveillance-state", "identity-and-self-discovery"],
+   "tags": ["dystopian", "dark", "reflective", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "animal_farm", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Sci-Fi — it is political allegory/satire",
+   "tropes": ["talking-animals", "class-social-commentary", "rebellion-against-an-oppressive-system", "dystopian-government-totalitarian-regime"],
+   "tags": ["literary-fiction", "dark", "challenging", "reflective"],
+   "pacing": "Fast", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16796166W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["small-town-secrets", "class-social-commentary", "multiple-pov", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "dark", "challenging", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19711744W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["midlife-reckoning", "identity-and-self-discovery", "coming-of-age", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "funny", "reflective", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL675689W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["novel-in-stories-linked-short-stories-structure", "interpersonal-character-study", "domestic-fiction"],
+   "tags": ["literary-fiction", "reflective", "dark"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "hardcover_436336", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["uploaded-consciousness-digital-immortality", "what-does-it-mean-to-be-human", "multiple-pov", "post-apocalyptic-wasteland"],
+   "tags": ["dystopian", "soft-sci-fi", "dark", "reflective"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20058947W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["conspiracy", "quest-journey-narrative", "mac-guffin", "buddy-cop-mismatched-partners"],
+   "tags": ["adventurous", "funny", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL76837W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["conspiracy", "race-against-time", "forbidden-knowledge", "mac-guffin", "government-cover-up"],
+   "tags": ["action-thriller", "tense", "adventurous", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL362427W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "a narrative play, not a poetry/drama collection — classed fiction so its central trope is preserved",
+   "tropes": ["star-crossed-lovers", "forbidden-love", "tragic-past", "love-at-first-sight"],
+   "tags": ["literary-fiction", "sad", "emotional"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL53168W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["quest-journey-narrative", "forbidden-knowledge", "prophecy", "mentor-figure"],
+   "tags": ["adventurous", "reflective", "inspiring"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL13716952W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "genres said Literary Fiction — it is a fantasy companion bestiary",
+   "tropes": ["magical-creatures-bestiary-style-worldbuilding", "magical-creatures-as-companions"],
+   "tags": ["lighthearted", "adventurous"],
+   "pacing": "Fast", "focus": "World", "spice_level": "N/A"}
+]

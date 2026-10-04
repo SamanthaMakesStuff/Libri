@@ -1,0 +1,103 @@
+[2026-07-17 21:49:36] === hardcover enrichment driver started ===
+[2026-07-17 21:49:36] batch 1: enriching up to 4000...
+[2026-07-17 23:41:35] batch 1: processed 4000, enriched 1447
+[2026-07-17 23:42:17] batch 1: synced.
+Refreshed 1416 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-17 23:42:19] batch 2: enriching up to 4000...
+[2026-07-17 23:52:20] === hardcover enrichment driver started ===
+[2026-07-17 23:52:20] [enrich] batch 1: up to 4000...
+[2026-07-18 01:43:29] [enrich] batch 1: processed 4000, enriched 1475
+[2026-07-18 01:44:07] [enrich] synced.
+Refreshed 1516 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 01:44:09] [enrich] batch 2: up to 4000...
+[2026-07-18 03:31:46] [enrich] batch 2: processed 4000, enriched 975
+[2026-07-18 03:32:25] [enrich] synced.
+Refreshed 964 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 03:32:27] [enrich] batch 3: up to 4000...
+[2026-07-18 05:17:54] [enrich] batch 3: processed 4000, enriched 940
+[2026-07-18 05:18:34] [enrich] synced.
+Refreshed 931 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 05:18:36] [enrich] batch 4: up to 4000...
+[2026-07-18 07:01:30] [enrich] batch 4: processed 4000, enriched 1289
+[2026-07-18 07:02:07] [enrich] synced.
+Refreshed 1267 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 07:02:09] [enrich] batch 5: up to 4000...
+[2026-07-18 08:44:27] [enrich] batch 5: processed 4000, enriched 1126
+[2026-07-18 08:45:03] [enrich] synced.
+Refreshed 1087 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 08:45:05] [enrich] batch 6: up to 4000...
+[2026-07-18 10:27:43] [enrich] batch 6: processed 4000, enriched 1222
+[2026-07-18 10:28:23] [enrich] synced.
+Refreshed 1156 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 10:28:25] [enrich] batch 7: up to 4000...
+[2026-07-18 12:10:05] [enrich] batch 7: processed 4000, enriched 857
+[2026-07-18 12:10:49] [enrich] synced.
+Refreshed 816 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 12:10:51] [enrich] batch 8: up to 4000...
+[2026-07-18 13:58:47] [enrich] batch 8: processed 4000, enriched 624
+[2026-07-18 13:59:30] [enrich] synced.
+Refreshed 655 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 13:59:32] [enrich] batch 9: up to 4000...
+[2026-07-18 15:47:39] [enrich] batch 9: processed 4000, enriched 507
+[2026-07-18 15:48:18] [enrich] synced.
+Refreshed 532 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 15:48:21] [enrich] batch 10: up to 4000...
+[2026-07-18 17:36:09] [enrich] batch 10: processed 4000, enriched 541
+[2026-07-18 17:36:50] [enrich] synced.
+Refreshed 569 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 17:36:52] [enrich] batch 11: up to 4000...
+[2026-07-18 19:25:10] [enrich] batch 11: processed 4000, enriched 471
+[2026-07-18 19:25:50] [enrich] synced.
+Refreshed 484 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 19:25:52] [enrich] batch 12: up to 4000...
+[2026-07-18 21:12:08] [enrich] batch 12: processed 4000, enriched 595
+[2026-07-18 21:12:50] [enrich] synced.
+Refreshed 608 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 21:12:52] [enrich] batch 13: up to 4000...
+[2026-07-18 22:57:52] [enrich] batch 13: processed 4000, enriched 485
+[2026-07-18 22:58:35] [enrich] synced.
+Refreshed 503 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-18 22:58:37] [enrich] batch 14: up to 4000...
+[2026-07-19 00:14:03] [enrich] batch 14: processed 2974, enriched 336
+[2026-07-19 00:14:42] [enrich] synced.
+Refreshed 328 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 0 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-19 00:14:44] [enrich] batch 15: up to 4000...
+[2026-07-19 00:14:48] [enrich] batch 15: processed 0, enriched 0
+[2026-07-19 00:14:48] [enrich] complete — nothing left to enrich.
+[2026-07-19 00:14:49] [discover] adding new Hardcover books (users_count >= 25)...
+[2026-07-19 00:51:10] [discover] Now run: python sync_db.py --refresh
+[2026-07-19 00:52:33] [discover] synced.
+Refreshed 44 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 79 of 152 previously unmatched imported books (profile updates automatically)
+[2026-07-19 00:52:33] === hardcover driver finished (enrich + discover) ===

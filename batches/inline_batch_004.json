@@ -1,0 +1,74 @@
+[
+  {"id": "hardcover_427773", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "ethics-of-scientific-progress", "transhumanism"],
+   "tags": ["soft-sci-fi", "reflective", "challenging", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL24756073W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres had 'Romantasy' — wrong; this is corporate-dystopia satire",
+   "tropes": ["corporate-dystopia", "surveillance-state", "dystopian-government-totalitarian-regime", "class-social-commentary", "rebellion-against-an-oppressive-system"],
+   "tags": ["dystopian", "challenging", "dark", "funny"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "the_marriage_act", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "surveillance-state", "multiple-pov", "twist-ending", "class-social-commentary"],
+   "tags": ["dystopian", "psychological-thriller", "dark", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "the_one", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["multiple-pov", "soulmates", "twist-ending", "ethics-of-scientific-progress", "genetic-engineering"],
+   "tags": ["psychological-thriller", "tense", "dark", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL25344431W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["workplace-romance", "single-dad-mom", "grief-and-loss-as-central-theme", "class-social-commentary", "identity-and-self-discovery"],
+   "tags": ["historical-fiction", "emotional", "funny", "inspiring", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "proxima", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-colonization", "survival-narrative", "space-exploration", "ancient-ruins", "generation-spanning-saga"],
+   "tags": ["hard-sci-fi", "challenging", "adventurous"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "a_psalm_for_the_wild_built", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "quest-journey-narrative", "identity-and-self-discovery", "post-scarcity-society"],
+   "tags": ["soft-sci-fi", "hopeful", "relaxing", "reflective", "lighthearted"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16160499W", "known": true, "book_class": "childrens", "confidence": "high",
+   "_note": "I Can Read Level 2, ages 4-6 — was classed fiction",
+   "tropes": ["war-between-good-and-evil", "unlikely-hero"],
+   "tags": ["adventurous", "lighthearted"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "hardcover_480934", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'fantasy romance' — it is an occult/supernatural detective thriller",
+   "tropes": ["deal-with-a-devil-demon", "lone-detective-maverick-investigator", "ancient-curse", "tragic-past", "race-against-time"],
+   "tags": ["occult-horror", "dark", "tense", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL27965402W", "known": true, "book_class": "childrens", "confidence": "medium",
+   "_note": "picture book retelling Haida flood folklore — was classed fiction",
+   "tropes": ["talking-animals", "sinister-warning-ignored", "survival-narrative"],
+   "tags": ["adventurous", "hopeful"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "hardcover_450843", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "description was only 'Large print edition' — enriched from knowledge, not grounded",
+   "tropes": ["ghost-vengeful-spirit", "grief-and-loss-as-central-theme", "interpersonal-character-study", "class-social-commentary"],
+   "tags": ["reflective", "emotional", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "evolution", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "OL description was for a PBS TV companion book — WRONG MATCH, not grounded on it",
+   "tropes": ["generation-spanning-saga", "survival-narrative", "what-does-it-mean-to-be-human", "environmental-collapse-narrative"],
+   "tags": ["hard-sci-fi", "challenging", "reflective"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16341229W", "known": false, "confidence": "unknown_book",
+   "_note": "OL description was for Anouilh's play 'The Lark' — wrong match; subjects (grief, homicide) look right but too thin to trope from",
+   "tropes": [], "tags": []},
+
+  {"id": "openlibrary_OL13591588W", "known": false, "confidence": "unknown_book",
+   "tropes": [], "tags": []}
+]

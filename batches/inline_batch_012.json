@@ -1,0 +1,59 @@
+[
+  {"id": "hardcover_571965", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "grounded on description + subjects (Lesbian/Sapphic/Romance) — one of the Clare Ashton titles previously unenrichable",
+   "tropes": ["friends-to-lovers", "second-chance", "small-town", "coming-out", "low-angst"],
+   "tags": ["sapphic", "lesbian", "small-town-romance", "contemporary-romance", "lighthearted", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Medium Spice"},
+
+  {"id": "openlibrary_OL675713W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dual-timeline", "tragic-past", "interpersonal-character-study", "identity-and-self-discovery", "mental-health-narrative"],
+   "tags": ["literary-fiction", "reflective", "dark", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL27822W", "known": true, "book_class": "childrens", "confidence": "medium",
+   "tropes": ["alien-invasion", "shapeshifters", "found-family", "rebellion-against-an-oppressive-system"],
+   "tags": ["adventurous", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "hardcover_427511", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "multiple-pov", "epistolary-structure", "government-cover-up", "what-does-it-mean-to-be-human"],
+   "tags": ["hard-sci-fi", "tense", "challenging"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20652090W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["teacher-student", "dual-timeline", "unreliable-narrator", "tragic-past", "mental-health-narrative"],
+   "tags": ["literary-fiction", "dark", "challenging", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Explicit",
+   "content_warnings": ["dubcon"],
+   "proposed_new": [{"term": "grooming", "kind": "warning", "why": "central subject; no existing warning slug covers it"}]},
+
+  {"id": "openlibrary_OL17640880W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["novel-in-stories-linked-short-stories-structure", "interpersonal-character-study", "the-outcast-hero"],
+   "tags": ["literary-fiction", "dark", "challenging", "funny"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL8260078W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["multi-generational-family-saga", "class-divide", "corporate-conspiracy", "revenge-plot"],
+   "tags": ["adventurous", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Explicit"},
+
+  {"id": "moodreads_9211", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["single-dad-mom", "coming-of-age", "identity-and-self-discovery", "class-divide", "first-love"],
+   "tags": ["young-adult", "emotional", "hopeful", "inspiring"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "hardcover_427710", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["alternate-timeline", "rebellion-against-an-oppressive-system", "multiple-pov", "hidden-history-untold-women-s-history", "class-social-commentary"],
+   "tags": ["time-travel", "challenging", "tense", "adventurous"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "the_testaments", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "multiple-pov", "rebellion-against-an-oppressive-system", "secret-identity", "sacrifice-for-the-greater-good"],
+   "tags": ["dystopian", "tense", "dark", "hopeful"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL2028034W", "known": true, "book_class": "childrens", "confidence": "medium",
+   "tropes": ["coming-of-age", "quest-journey-narrative", "survival-narrative"],
+   "tags": ["historical-fiction", "adventurous"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"}
+]

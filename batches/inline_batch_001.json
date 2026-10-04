@@ -1,0 +1,102 @@
+[
+  {"id": "the_year_of_the_flood", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "corporate-dystopia", "environmental-collapse-narrative", "multiple-pov", "survival-narrative", "dystopian-government-totalitarian-regime"],
+   "tags": ["dystopian", "post-apocalyptic", "dark", "reflective", "tense"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19744024W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["interpersonal-character-study", "identity-and-self-discovery", "neurodivergent-protagonist", "quiet-literary-slow-burn"],
+   "tags": ["reflective", "funny", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "brave_new_world", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "class-stratification-in-a-future-society", "genetic-engineering", "ethics-of-scientific-progress", "what-does-it-mean-to-be-human"],
+   "tags": ["dystopian", "dark", "reflective", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL15917217W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "survival-narrative", "grief-and-loss-as-central-theme", "quiet-literary-slow-burn", "non-linear-timeline"],
+   "tags": ["post-apocalyptic", "dark", "reflective", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL17415W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "what-does-it-mean-to-be-human", "post-human-society", "generation-spanning-saga", "sacrifice-for-the-greater-good"],
+   "tags": ["reflective", "mysterious", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL103134W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-colonization", "first-contact-with-aliens", "novel-in-stories-linked-short-stories-structure", "the-last-of-their-kind"],
+   "tags": ["reflective", "sad", "mysterious"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "the_caves_of_steel", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["buddy-cop-mismatched-partners", "human-ai-relationship", "class-stratification-in-a-future-society", "red-herring", "lone-detective-maverick-investigator"],
+   "tags": ["detective-fiction", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL19339910W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "corporate-dystopia", "genetic-engineering", "ethics-of-scientific-progress", "transhumanism"],
+   "tags": ["biopunk", "challenging", "tense", "reflective"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "moodreads_9119", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "deep-space-mission", "space-exploration", "survival-narrative", "alien-invasion"],
+   "tags": ["space-opera", "adventurous", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL2737410W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-colonization", "survival-narrative", "identity-and-self-discovery", "the-last-of-their-kind"],
+   "tags": ["reflective", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low",
+   "proposed_new": [{"term": "sapphic", "kind": "tag", "why": "central f/f relationship, all-women world"}]},
+
+  {"id": "openlibrary_OL19763347W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["first-contact-with-aliens", "alien-invasion", "non-linear-timeline", "mind-control-mind-reading-technology"],
+   "tags": ["dark", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "hardcover_438623", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["magic-system-with-a-cost", "twist-ending", "simulated-reality", "apprenticeship-training-arc"],
+   "tags": ["hard-sci-fi", "challenging", "mysterious"],
+   "pacing": "Fast", "focus": "World", "spice_level": "None"},
+
+  {"id": "hardcover_444909", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "tropes": [],
+   "tags": ["psychology", "narrative-nonfiction", "reflective", "challenging", "funny"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL16795887W", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "tropes": [],
+   "tags": ["psychology", "narrative-nonfiction", "funny", "challenging", "reflective"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "hardcover_375543", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "tropes": [],
+   "tags": ["psychology", "self-help", "narrative-nonfiction", "challenging", "dark"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL16307211W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["amateur-sleuth-stumbling-into-a-case", "red-herring", "mysterious-stranger"],
+   "tags": ["historical-mystery", "adventurous", "mysterious"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL1807056W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["heist", "conspiracy", "cat-and-mouse-pursuit", "race-against-time"],
+   "tags": ["action-thriller", "tense", "adventurous"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL108791W", "known": true, "book_class": "childrens", "confidence": "high",
+   "tropes": [],
+   "tags": ["lighthearted", "funny", "adventurous"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "change_of_heart", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "when_dc_loved_iowa", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "discovering_nicola", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "tempting_olivia", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "hardcover_1905929", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "learning_curves", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "hardcover_1687809", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "truth_and_fear", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []},
+  {"id": "the_passage", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []}
+]

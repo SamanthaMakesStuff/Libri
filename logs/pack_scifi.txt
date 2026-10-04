@@ -1,0 +1,44 @@
+sci-fi: skipped 45 contents-list descriptions
+
+=== sci-fi ===
+scanned 3,134 trope-less sci-fi fiction with descriptions (both)
+books with >=1 match: 350 (11%)
+total trope assignments: 391 | by tier (books): {'B': 61, 'A': 282, 'A+B': 7}
+   [A]   41  post-apocalyptic-wasteland
+   [A]   29  genetic-engineering
+   [A]   25  parallel-universe-multiverse
+   [A]   24  cybernetic-enhancement
+   [B]   23  mind-control-mind-reading-technology
+   [A]   22  virtual-reality-world
+   [A]   19  space-station-setting
+   [A]   18  cloning
+   [A]   18  terraforming
+   [B]   16  alternate-timeline
+   [B]   13  galactic-empire
+   [A]   12  intergalactic-war
+   [A]   11  teleportation
+   [A]   11  cryosleep-suspended-animation
+   [A]   10  what-does-it-mean-to-be-human
+   [A]   10  nanotechnology
+   [A]   10  wormhole-hyperspace-travel
+   [A]   10  first-contact-with-aliens
+   [B]    9  space-exploration
+   [A]    9  dystopian-government-totalitarian-regime
+   [A]    8  alien-invasion
+   [A]    7  surveillance-state
+   [A]    6  generation-ship
+   [A]    5  rogue-sentient-ai
+   [A]    4  faster-than-light-travel
+   [A]    4  environmental-collapse-narrative
+   [B]    3  transhumanism
+   [A]    3  hive-mind
+   [A]    2  uploaded-consciousness-digital-immortality
+   [B]    2  resource-scarcity-conflict
+   [A]    1  space-colonization
+   [A]    1  time-loop
+   [B]    1  simulated-reality
+   [B]    1  class-stratification-in-a-future-society
+   [A]    1  deep-space-mission
+   [A]    1  robot-uprising
+   [A]    1  warp-speed
+-> trope_review_sci-fi.csv

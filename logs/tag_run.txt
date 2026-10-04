@@ -1,0 +1,40 @@
+scanning 22,373 untagged fiction with descriptions (both), chunk=2000
+  ...2,000/22,373 | 801 matches
+  ...4,000/22,373 | 1,105 matches
+  ...6,000/22,373 | 1,864 matches
+  ...8,000/22,373 | 1,978 matches
+  ...10,000/22,373 | 2,300 matches
+  ...12,000/22,373 | 2,433 matches
+  ...14,000/22,373 | 2,558 matches
+  ...16,000/22,373 | 2,741 matches
+  ...18,000/22,373 | 2,986 matches
+  ...20,000/22,373 | 3,160 matches
+  ...22,000/22,373 | 3,216 matches
+  ...22,373/22,373 | 3,267 matches
+skipped 1,683 boilerplate
+books with >=1 tag match: 2,651 (12%)
+total tag assignments: 3,267 | by tier (books): {'A': 2240, 'B': 236, 'A+B': 175}
+   [A]  676  ghosts
+   [A]  480  vampires
+   [A]  301  witches
+   [A]  238  aliens
+   [B]  196  supernatural
+   [A]  186  pirates
+   [A]  152  zombies
+   [A]  134  space
+   [A]  118  spies
+   [B]  115  paranormal
+   [A]   98  gothic
+   [B]   95  retelling
+   [B]   92  lgbtq
+   [A]   87  mythology
+   [A]   63  lesbian
+   [A]   62  superheroes
+   [A]   48  occult
+   [A]   47  noir
+   [A]   36  mermaids
+   [B]   17  gay
+   [A]   11  bisexual
+   [A]   10  steampunk
+   [A]    5  transgender
+-> tag_review.csv

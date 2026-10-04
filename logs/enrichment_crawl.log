@@ -1,0 +1,96 @@
+[2026-07-17 02:14:18] === enrichment crawl started ===
+[2026-07-17 02:14:18] START tropetrove all-remaining-genres: scrape_tropetrove.py crime-fiction fantasy horror romance thriller-mystery
+[2026-07-17 02:43:30] END   tropetrove all-remaining-genres (exit 0, 29.2 min)
+  thriller-mystery page 5: 11 books
+Book pages to scrape: 916
+
+
+Done. Updated 0, added-new 0, already-complete 787, skipped-incomplete 129 (see tropetrove_unmatched.json)
+Now run: python sync_db.py --refresh
+[2026-07-17 02:43:30] START moodreads 2-1501: scrape_moodreads.py 2 1501
+[2026-07-17 03:13:19] END   moodreads 2-1501 (exit 0, 29.8 min)
+[1499] HTTP 403
+[1500] HTTP 403
+[1501] HTTP 403
+
+Done. Added 2, updated 1, already-complete 13, missing/empty ids 12.
+Now run: python sync_db.py --refresh
+[2026-07-17 03:13:19] START moodreads 1502-3001: scrape_moodreads.py 1502 3001
+[2026-07-17 03:43:06] END   moodreads 1502-3001 (exit 0, 29.8 min)
+[2999] HTTP 403
+[3000] HTTP 403
+[3001] HTTP 403
+
+Done. Added 22, updated 0, already-complete 0, missing/empty ids 6.
+Now run: python sync_db.py --refresh
+[2026-07-17 03:43:06] START moodreads 3002-4501: scrape_moodreads.py 3002 4501
+[2026-07-17 04:12:44] END   moodreads 3002-4501 (exit 0, 29.6 min)
+[4499] HTTP 403
+[4500] HTTP 403
+[4501] HTTP 403
+
+Done. Added 3, updated 3, already-complete 0, missing/empty ids 22.
+Now run: python sync_db.py --refresh
+[2026-07-17 04:12:44] START moodreads 4502-6001: scrape_moodreads.py 4502 6001
+[2026-07-17 04:43:00] END   moodreads 4502-6001 (exit 0, 30.3 min)
+[5999] HTTP 403
+[6000] HTTP 403
+[6001] HTTP 403
+
+Done. Added 18, updated 9, already-complete 0, missing/empty ids 15.
+Now run: python sync_db.py --refresh
+[2026-07-17 04:43:01] START moodreads 6002-7501: scrape_moodreads.py 6002 7501
+[2026-07-17 05:12:45] END   moodreads 6002-7501 (exit 0, 29.7 min)
+[7499] HTTP 403
+[7500] HTTP 403
+[7501] HTTP 403
+
+Done. Added 10, updated 2, already-complete 1, missing/empty ids 15.
+Now run: python sync_db.py --refresh
+[2026-07-17 05:12:45] START moodreads 7502-9001: scrape_moodreads.py 7502 9001
+[2026-07-17 05:42:26] END   moodreads 7502-9001 (exit 0, 29.7 min)
+[8999] HTTP 403
+[9000] HTTP 403
+[9001] HTTP 403
+
+Done. Added 17, updated 0, already-complete 0, missing/empty ids 11.
+Now run: python sync_db.py --refresh
+[2026-07-17 05:42:26] START moodreads 9002-10501: scrape_moodreads.py 9002 10501
+[2026-07-17 06:12:05] END   moodreads 9002-10501 (exit 0, 29.7 min)
+[10499] HTTP 403
+[10500] HTTP 403
+[10501] HTTP 403
+
+Done. Added 13, updated 4, already-complete 0, missing/empty ids 11.
+Now run: python sync_db.py --refresh
+[2026-07-17 06:12:05] START moodreads 10502-12001: scrape_moodreads.py 10502 12001
+[2026-07-17 06:41:52] END   moodreads 10502-12001 (exit 0, 29.8 min)
+[11999] HTTP 403
+[12000] HTTP 403
+[12001] HTTP 403
+
+Done. Added 20, updated 1, already-complete 0, missing/empty ids 7.
+Now run: python sync_db.py --refresh
+[2026-07-17 06:41:52] START moodreads 12002-13501: scrape_moodreads.py 12002 13501
+[2026-07-17 07:11:25] END   moodreads 12002-13501 (exit 0, 29.6 min)
+[13499] HTTP 403
+[13500] HTTP 403
+[13501] HTTP 403
+
+Done. Added 0, updated 0, already-complete 0, missing/empty ids 28.
+Now run: python sync_db.py --refresh
+[2026-07-17 07:11:25] START moodreads 13502-13761: scrape_moodreads.py 13502 13761
+[2026-07-17 07:16:37] END   moodreads 13502-13761 (exit 0, 5.2 min)
+[13759] HTTP 403
+[13760] HTTP 403
+[13761] HTTP 403
+
+Done. Added 0, updated 0, already-complete 0, missing/empty ids 0.
+Now run: python sync_db.py --refresh
+[2026-07-17 07:16:37] START sync_db --refresh: sync_db.py --refresh
+[2026-07-17 07:17:13] END   sync_db --refresh (exit 0, 0.6 min)
+Inserted 105 new books (catalog 63964, DB now 63941)
+Refreshed 62 existing books from catalog changes
+Skipped 1 entries missing title/author: ['space_team']
+Re-matched 1 of 153 previously unmatched imported books (profile updates automatically)
+[2026-07-17 07:17:13] === enrichment crawl finished ===

@@ -1,0 +1,19 @@
+[
+  {"id": "hardcover_159870", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Baxter, Manifold: Time — replaces prior junk enrichment (non-taxonomy tags space/audio-book/cosmic-background-radiation). Near-future hard SF: Reid Malenfant, the Fermi paradox / Carter-catastrophe doomsday argument, augmented children, asteroid mining, downstreaming to the end of the universe.",
+   "tropes": ["space-exploration", "ethics-of-scientific-progress", "what-does-it-mean-to-be-human", "genetic-engineering", "generation-spanning-saga"],
+   "tags": ["sci-fi", "hard-sci-fi", "challenging", "reflective", "adventurous"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20652090W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Kate Elizabeth Russell, My Dark Vanessa — dark adult literary fiction on grooming/abuse, dual timeline (2000 & 2017 #MeToo reckoning). 'grooming' isn't in the taxonomy. I included teacher-student because it's how the book is catalogued, but the novel is a CRITIQUE of that romance framing — flag for review if that connotation is unwanted; darkness carried by mood=dark, spice=None.",
+   "tropes": ["dual-timeline", "tragic-past", "mental-health-narrative", "unreliable-narrator", "teacher-student"],
+   "tags": ["literary-fiction", "dark", "challenging", "emotional", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL2028034W", "known": true, "book_class": "childrens", "confidence": "high",
+   "_note": "Joanne Williamson, God King — middle-grade historical fiction, 701 BC: Taharka (Kushite prince who becomes pharaoh) and King Hezekiah of Jerusalem during Sennacherib's Assyrian siege. childrens class keeps tropes, forces spice N/A.",
+   "tropes": ["coming-of-age", "secret-royalty", "court-intrigue", "war-and-its-aftermath-on-ordinary-lives"],
+   "tags": ["young-adult", "historical-fiction", "adventurous"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"}
+]

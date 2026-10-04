@@ -1,0 +1,162 @@
+romance: skipped 347 contents-list descriptions
+
+=== romance ===
+scanned 7,711 trope-less romance fiction with descriptions (both)
+books with >=1 match: 1,571 (20%)
+total trope assignments: 1,905 | by tier (books): {'A': 797, 'B': 641, 'A+B': 133}
+   [B]  454  royalty
+   [A]  281  vampire-romance
+   [B]  161  holiday-seasonal-setup
+   [A]  112  billionaire-love-interest
+   [A]   96  shifter-romance
+   [B]   89  playboy-reformed
+   [A]   68  single-dad-mom
+   [B]   50  matchmaker-setup-gone-right
+   [A]   47  bad-boy
+   [A]   43  sports-star-romance
+   [A]   42  forbidden-love
+   [A]   33  bodyguard-romance
+   [A]   33  marriage-of-convenience
+   [A]   28  one-night-stand-to-lovers
+   [A]   26  small-town
+   [A]   26  arranged-marriage
+   [A]   23  virgin-heroine
+   [A]   21  fake-dating
+   [A]   20  boss-employee-romance
+   [B]   17  neighbors-to-lovers
+   [A]   17  rockstar-romance
+   [A]   15  mail-order-bride
+   [A]   14  love-triangle
+   [A]   13  second-chance
+   [A]   13  age-gap
+   [A]   11  summer-romance
+   [B]   11  divorce-separation-romance
+   [A]   11  runaway-bride-groom
+   [B]    9  road-trip-romance
+   [B]    9  class-divide
+   [A]    8  soulmates
+   [A]    7  opposites-attract
+   [A]    6  fated-mates
+   [A]    6  letters-pen-pal-romance
+   [B]    6  secret-heir-lost-heir-secret-royalty
+   [A]    6  love-at-first-sight
+   [A]    6  enemies-to-lovers
+   [A]    5  grumpy-sunshine
+   [B]    5  widow-finding-love-again
+   [B]    5  coach-athlete
+   [A]    5  friends-to-lovers
+   [B]    5  catfish-mistaken-identity
+   [A]    4  forced-proximity
+   [B]    4  secret-relationship
+   [B]    4  exes-to-lovers
+   [B]    4  touch-her-and-die-possessive-protective-hero
+   [B]    4  nanny-guardian-romance
+   [B]    4  matchmaking-app-dating-app-mishap
+   [A]    3  brother-s-best-friend
+   [A]    3  snowed-in-stranded
+   [A]    3  wake-up-married-vegas-wedding
+   [A]    3  secret-baby
+   [A]    2  workplace-romance
+   [A]    1  alien-romance
+   [B]    1  bet-wager-romance
+   [A]    1  omegaverse-abo
+   [A]    1  best-friend-s-brother
+-> trope_review_romance.csv
+fantasy: skipped 207 contents-list descriptions
+
+=== fantasy ===
+scanned 4,824 trope-less fantasy fiction with descriptions (both)
+books with >=1 match: 538 (11%)
+total trope assignments: 616 | by tier (books): {'A': 411, 'B': 97, 'A+B': 30}
+   [A]  164  dragons
+   [A]   84  prophecy
+   [B]   79  fae-courts
+   [A]   67  elves-dwarves-orcs
+   [A]   35  quest-journey-narrative
+   [A]   33  shapeshifters
+   [A]   32  necromancy
+   [B]   17  apprenticeship-training-arc
+   [A]   10  the-dark-lord-ultimate-evil
+   [A]    9  found-family
+   [A]    9  court-intrigue
+   [A]    8  curse-that-must-be-broken
+   [B]    6  multiple-warring-kingdoms
+   [B]    6  forbidden-magic
+   [B]    5  mentor-figure
+   [A]    5  magical-artifact-relic-of-great-power
+   [A]    5  secret-heir-lost-heir-secret-royalty
+   [A]    5  portal-to-another-world
+   [A]    4  chosen-one
+   [B]    4  rebellion-against-an-oppressive-system
+   [B]    4  discovery-of-hidden-powers
+   [B]    4  farm-boy-orphan-hero
+   [B]    4  tournament-competition
+   [A]    3  blood-magic
+   [A]    3  talking-animals
+   [A]    3  magic-school-magical-academy
+   [A]    2  coup-rebellion-against-the-crown
+   [A]    2  kingdoms-at-war
+   [A]    2  ancient-curse
+   [A]    1  ancient-evil-awakening
+   [A]    1  heist-in-a-fantasy-setting
+-> trope_review_fantasy.csv
+sci-fi: skipped 149 contents-list descriptions
+
+=== sci-fi ===
+scanned 3,139 trope-less sci-fi fiction with descriptions (both)
+books with >=1 match: 317 (10%)
+total trope assignments: 356 | by tier (books): {'B': 49, 'A': 261, 'A+B': 7}
+   [A]   36  post-apocalyptic-wasteland
+   [A]   26  genetic-engineering
+   [A]   24  parallel-universe-multiverse
+   [A]   22  virtual-reality-world
+   [A]   22  cybernetic-enhancement
+   [B]   21  mind-control-mind-reading-technology
+   [A]   18  cloning
+   [A]   17  terraforming
+   [A]   17  space-station-setting
+   [B]   12  alternate-timeline
+   [B]   11  galactic-empire
+   [A]   11  teleportation
+   [A]   11  intergalactic-war
+   [A]   10  nanotechnology
+   [A]   10  cryosleep-suspended-animation
+   [A]   10  first-contact-with-aliens
+   [A]    9  dystopian-government-totalitarian-regime
+   [B]    8  space-exploration
+   [A]    8  wormhole-hyperspace-travel
+   [A]    8  alien-invasion
+   [A]    7  what-does-it-mean-to-be-human
+   [A]    7  surveillance-state
+   [A]    5  generation-ship
+   [A]    5  rogue-sentient-ai
+   [A]    4  environmental-collapse-narrative
+   [A]    3  faster-than-light-travel
+   [B]    3  transhumanism
+   [A]    3  hive-mind
+   [A]    2  uploaded-consciousness-digital-immortality
+   [A]    1  space-colonization
+   [A]    1  time-loop
+   [A]    1  deep-space-mission
+   [B]    1  resource-scarcity-conflict
+   [A]    1  robot-uprising
+   [A]    1  warp-speed
+-> trope_review_sci-fi.csv
+horror: skipped 36 contents-list descriptions
+
+=== horror ===
+scanned 905 trope-less horror fiction with descriptions (both)
+books with >=1 match: 60 (7%)
+total trope assignments: 63 | by tier (books): {'A': 58, 'B': 2}
+   [A]   30  ghost-vengeful-spirit
+   [A]   16  haunted-house-mansion
+   [A]    3  final-girl
+   [A]    3  cannibalistic-backwoods-threat
+   [A]    3  demon-possession
+   [A]    3  remote-isolated-location
+   [B]    1  parasite-infection-horror
+   [A]    1  sole-survivor
+   [A]    1  woods-forest-as-threat
+   [B]    1  folk-horror-ritual-community
+   [A]    1  home-invasion
+-> trope_review_horror.csv

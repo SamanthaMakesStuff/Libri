@@ -1,0 +1,8584 @@
+[
+  {
+    "id": "openlibrary_OL16307211W",
+    "tier": 1,
+    "title": "Pirate King",
+    "author": "Laurie R. King",
+    "genres": [
+      "Thriller"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_444909",
+    "tier": 1,
+    "title": "Cultish: The Language of Fanaticism",
+    "author": "Amanda Montell",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "psychology",
+      "linguistics",
+      "informative",
+      "spirituality-religion",
+      "true-crime",
+      "reflective",
+      "funny",
+      "dark",
+      "lighthearted",
+      "challenging",
+      "hopeful",
+      "relaxing"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "truth_and_fear",
+    "tier": 1,
+    "title": "Truth and Fear",
+    "author": "Peter Higgins",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "urban-fantasy",
+      "urban-fiction",
+      "dark",
+      "noir"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_1905929",
+    "tier": 1,
+    "title": "The Merge",
+    "author": "Grace          Walker",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "sci-fi",
+      "dy",
+      "dark",
+      "tense",
+      "emotional",
+      "mysterious",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_438623",
+    "tier": 1,
+    "title": "Ra",
+    "author": "qntm",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "adventurous",
+      "challenging",
+      "reflective",
+      "metaphysical",
+      "mind-bending",
+      "artificial-intelligence",
+      "world-in-peril",
+      "female-protagonist"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_1687809",
+    "tier": 1,
+    "title": "The Love Lie",
+    "author": "Monica McCallan",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "lgbtq",
+      "funny",
+      "hopeful",
+      "relaxing",
+      "lighthearted",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_119459",
+    "tier": 1,
+    "title": "Like Life",
+    "author": "Lorrie Moore",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "emotional",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_1541256",
+    "tier": 1,
+    "title": "The Repeat Room",
+    "author": "Jesse Ball",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL1807056W",
+    "tier": 1,
+    "title": "Honor Among Thieves",
+    "author": "Jeffrey Archer",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "three_eight_one",
+    "tier": 1,
+    "title": "Three Eight One",
+    "author": "Solaris",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL13591588W",
+    "tier": 1,
+    "title": "Chum",
+    "author": "Mark Spitzer",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL108791W",
+    "tier": 1,
+    "title": "Fortunately",
+    "author": "Remy Charlip",
+    "genres": [
+      "Children's"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "classics",
+      "lighthearted",
+      "funny",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_734875",
+    "tier": 1,
+    "title": "The Memory of Animals",
+    "author": "Claire Fuller",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_512159",
+    "tier": 1,
+    "title": "One's Company",
+    "author": "Ashley Hutson",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "literary-fiction",
+      "lgbtq",
+      "dark",
+      "sad",
+      "reflective",
+      "challenging",
+      "tense",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL16795887W",
+    "tier": 1,
+    "title": "The Psychopath Test",
+    "author": "Jon Ronson",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "psychology",
+      "social-science",
+      "humor",
+      "science",
+      "journalism",
+      "mental-health",
+      "true-crime",
+      "biography",
+      "informative",
+      "reflective",
+      "mysterious",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "the_passage",
+    "tier": 1,
+    "title": "The Passage",
+    "author": "Justin Cronin",
+    "genres": [
+      "Horror"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL19763347W",
+    "tier": 1,
+    "title": "Rosewater",
+    "author": "Tade Thompson, Raúl García Campos",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL11970212W",
+    "tier": 1,
+    "title": "Eyes Like Stars (Théâtre Illuminata, Act I)",
+    "author": "Lisa Mantchev",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "magic"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_375543",
+    "tier": 1,
+    "title": "Why Does He Do That? Inside the Minds of Angry and Controlling Men",
+    "author": "Lundy Bancroft",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "psychology",
+      "family-and-relationships",
+      "abusive-men",
+      "feminism",
+      "sociology",
+      "informative",
+      "challenging",
+      "dark",
+      "inspiring",
+      "reflective",
+      "sad",
+      "abuse"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_630420",
+    "tier": 1,
+    "title": "The Thousand Earths",
+    "author": "Stephen Baxter",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL17915378W",
+    "tier": 1,
+    "title": "Material girls",
+    "author": "Elaine Dimopoulos",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "juvenile-fiction",
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_468797",
+    "tier": 1,
+    "title": "The Observers",
+    "author": "John Scalzi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "space"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_824768",
+    "tier": 1,
+    "title": "The Future",
+    "author": "Naomi Alderman",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "adventurous",
+      "dark",
+      "tense",
+      "mysterious",
+      "inspiring",
+      "challenging",
+      "hopeful",
+      "reflective",
+      "lighthearted",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL16151732W",
+    "tier": 1,
+    "title": "The influencing machine",
+    "author": "Brooke Gladstone",
+    "genres": [
+      "Graphic Novel"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "history",
+      "politics",
+      "narrative-nonfiction",
+      "reflective",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "pattern_seeker",
+    "tier": 1,
+    "title": "Pattern Seeker",
+    "author": "L Keith Wheeler",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_451144",
+    "tier": 1,
+    "title": "The Ninth Metal",
+    "author": "Benjamin Percy",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "adventurous",
+      "dark",
+      "mysterious",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_734614",
+    "tier": 1,
+    "title": "Dykette",
+    "author": "Jenny Fran Davis",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "humor",
+      "contemporary",
+      "butch-femme",
+      "queer-lit",
+      "sapphic",
+      "feminist",
+      "sapphic-romance",
+      "literary-fiction",
+      "unhinged-women",
+      "new-york"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "the_last_gifts_of_the_universe",
+    "tier": 1,
+    "title": "The Last Gifts of the Universe",
+    "author": "Del Rey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "seveneves",
+    "tier": 1,
+    "title": "Seveneves",
+    "author": "Neal Stephenson Novel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "time-travel",
+      "hard-sci-fi",
+      "extinction-level-event",
+      "political-conflict"
+    ],
+    "existing_tropes": [
+      "genetic-engineering"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_675435",
+    "tier": 1,
+    "title": "The Mysterious Case of the Alperton Angels",
+    "author": "Janice Hallett",
+    "genres": [
+      "Mystery"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "cults",
+      "mysterious",
+      "dark",
+      "challenging",
+      "adventurous",
+      "tense",
+      "funny",
+      "reflective",
+      "sad",
+      "emotional",
+      "kobo"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "the_bridge",
+    "tier": 1,
+    "title": "The Bridge",
+    "author": "Iain M Banks",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "accidents"
+    ],
+    "existing_tropes": [
+      "amnesia"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL17901597W",
+    "tier": 1,
+    "title": "The Ministry of SUITs",
+    "author": "Paul Gamble",
+    "genres": [
+      "Children's"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "juvenile-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_1083838",
+    "tier": 1,
+    "title": "Baby X",
+    "author": "Kira Peikoff",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "thriller",
+      "dystopian",
+      "dark",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL24264865W",
+    "tier": 1,
+    "title": "The fighting man",
+    "author": "Alan Irwin",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_427773",
+    "tier": 1,
+    "title": "The Lifecycle of Software Objects",
+    "author": "Ted Chiang",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "artificial-intelligence",
+      "artificial-life",
+      "hard-sci-fi"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_516325",
+    "tier": 1,
+    "title": "SCUM Manifesto",
+    "author": "Valerie Solanas, Avital Ronell",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "literary-criticism",
+      "classics",
+      "lgbtq",
+      "politics"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL24756073W",
+    "tier": 1,
+    "title": "The Every",
+    "author": "Dave Eggers",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "adventurous",
+      "mysterious",
+      "dark",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "the_marriage_act",
+    "tier": 1,
+    "title": "The Marriage Act",
+    "author": "John Marrs",
+    "genres": [
+      "Thriller & Mystery"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "dystopian",
+      "psychological-thriller",
+      "technology-gone-wrong",
+      "government-control-and-surveillance"
+    ],
+    "existing_tropes": [
+      "multiple-pov",
+      "twist-ending"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "the_one",
+    "tier": 1,
+    "title": "The One",
+    "author": "John Marrs",
+    "genres": [
+      "Thriller & Mystery",
+      "romance"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "dystopian",
+      "psychological-thriller",
+      "technology-gone-wrong",
+      "government-control-and-surveillance"
+    ],
+    "existing_tropes": [
+      "multiple-pov",
+      "twist-ending"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_513267",
+    "tier": 1,
+    "title": "Widowland",
+    "author": "C.J. Carey, Jane Thynne",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "some_desperate_glory",
+    "tier": 1,
+    "title": "Some Desperate Glory",
+    "author": "Orbit",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_450843",
+    "tier": 1,
+    "title": "The Sentence",
+    "author": "Louise Erdrich",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "all-souls-day",
+      "reflective",
+      "emotional",
+      "mysterious",
+      "hopeful",
+      "challenging",
+      "lighthearted",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL25344431W",
+    "tier": 1,
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "literature-and-fiction",
+      "feminist",
+      "humorous",
+      "literary-fiction",
+      "emotional",
+      "inspiring",
+      "funny",
+      "reflective",
+      "hopeful",
+      "sad",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "ultimart",
+    "tier": 1,
+    "title": "Ultimart",
+    "author": "Carl Wilhoyte",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "proxima",
+    "tier": 1,
+    "title": "Proxima",
+    "author": "Stephen Baxter",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "evolution",
+    "tier": 1,
+    "title": "Evolution",
+    "author": "Stephen Baxter",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "a_prayer_for_the_crown_shy",
+    "tier": 1,
+    "title": "A Prayer for the Crown-Shy",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "award-winning-series",
+      "solarpunk",
+      "human-robot-friendship",
+      "cozy-sci-fi"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "a_psalm_for_the_wild_built",
+    "tier": 1,
+    "title": "A Psalm for the Wild-Built",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "award-winning-series",
+      "solarpunk",
+      "human-robot-friendship",
+      "cozy-sci-fi"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL16160499W",
+    "tier": 1,
+    "title": "Transformers",
+    "author": "Jennifer Frantz",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_465331",
+    "tier": 1,
+    "title": "Master Class",
+    "author": "Christina Dalcher",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "dark",
+      "tense",
+      "challenging",
+      "emotional",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_480934",
+    "tier": 1,
+    "title": "Nightfall",
+    "author": "Stephen Leather",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "demonology",
+      "magic"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL16341229W",
+    "tier": 1,
+    "title": "Lark",
+    "author": "Tracey Porter",
+    "genres": [
+      "Paranormal"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL27965402W",
+    "tier": 1,
+    "title": "The flood",
+    "author": "Simon Daniel James",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_965930",
+    "tier": 1,
+    "title": "Late Bloomer",
+    "author": "Mazey Eddings",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "lighthearted",
+      "emotional",
+      "funny",
+      "relaxing",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_687776",
+    "tier": 1,
+    "title": "Strong Female Character",
+    "author": "Fern Brady",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "biography",
+      "lgbtq",
+      "emotional",
+      "informative",
+      "funny",
+      "reflective",
+      "sad",
+      "inspiring",
+      "tense",
+      "dark",
+      "challenging",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_832747",
+    "tier": 1,
+    "title": "For the First Time, Again",
+    "author": "Sylvain Neuvel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "space",
+      "extraterrestrial-beings",
+      "emotional",
+      "adventurous",
+      "tense",
+      "sad",
+      "inspiring",
+      "dark",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_440154",
+    "tier": 1,
+    "title": "A History of What Comes Next",
+    "author": "Sylvain Neuvel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "lgbtq",
+      "aliens",
+      "extraterrestrial-beings",
+      "adventurous",
+      "tense",
+      "mysterious",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "mickey7",
+    "tier": 1,
+    "title": "Mickey7",
+    "author": "Solaris",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL25313428W",
+    "tier": 1,
+    "title": "The Lost Girls",
+    "author": "Sonia Hartl",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "cryptonomicon",
+    "tier": 1,
+    "title": "Cryptonomicon",
+    "author": "Neal Stephenson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "codebreaking",
+      "cryptography"
+    ],
+    "existing_tropes": [
+      "dual-timeline"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_547467",
+    "tier": 1,
+    "title": "First, Become Ashes",
+    "author": "K.M. Szpara",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "the_disco_at_the_end_of_the_world",
+    "tier": 1,
+    "title": "The Disco at the End of the World",
+    "author": "Titan Books",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "first-contact",
+      "rebellion",
+      "military",
+      "atmospheric",
+      "philosophy",
+      "hopeful",
+      "oppression",
+      "resistance",
+      "fascism",
+      "community",
+      "moon-base"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "rabbits",
+    "tier": 1,
+    "title": "Rabbits",
+    "author": "Terry Miles",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "mysterious",
+      "adventurous",
+      "tense",
+      "dark",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL137397W",
+    "tier": 1,
+    "title": "The After House",
+    "author": "Mary Roberts Rinehart",
+    "genres": [
+      "Literary Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "literature"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL5715365W",
+    "tier": 1,
+    "title": "Peaches",
+    "author": "Jodi Lynn Anderson",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "juvenile-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1195582",
+    "tier": 1,
+    "title": "The Vessel",
+    "author": "Adam L.G. Nevill",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "dark",
+      "mysterious",
+      "tense",
+      "sad",
+      "reflective",
+      "adventurous",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL16705382W",
+    "tier": 1,
+    "title": "The twelve",
+    "author": "Justin Cronin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "post-apocalyptic",
+      "adventurous",
+      "dark",
+      "emotional",
+      "mysterious",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "upgrade",
+    "tier": 1,
+    "title": "Upgrade",
+    "author": "Blake Crouch",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "sci-fi",
+      "read-next-2024",
+      "psychological-thriller",
+      "adventurous",
+      "tense",
+      "dark",
+      "mysterious",
+      "challenging",
+      "informative",
+      "emotional",
+      "reflective",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_427937",
+    "tier": 1,
+    "title": "Emergency Skin",
+    "author": "N. K. Jemisin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "space",
+      "reflective",
+      "hopeful",
+      "funny",
+      "adventurous",
+      "challenging",
+      "emotional",
+      "inspiring",
+      "mysterious",
+      "informative",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "sea_of_tranquility",
+    "tier": 1,
+    "title": "Sea of Tranquility",
+    "author": "Emily St. John Mandel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "time-travel"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL21685700W",
+    "tier": 1,
+    "title": "Girl A",
+    "author": "Abigail Dean",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "brothers-and-sisters",
+      "realistic-fiction",
+      "dark",
+      "sad",
+      "emotional",
+      "tense",
+      "reflective",
+      "melancholy",
+      "abuse",
+      "family-trauma",
+      "child-neglect"
+    ],
+    "existing_tropes": [
+      "family-saga-across-generations"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "circe",
+    "tier": 1,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "morally-grey-characters",
+      "exploration-of-identity-and-belonging",
+      "exile-and-isolation",
+      "mythology-retelling",
+      "motherhood"
+    ],
+    "existing_tropes": [
+      "slow-burn-romance"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL14865044W",
+    "tier": 1,
+    "title": "Regeneration",
+    "author": "Pat Barker",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "war",
+      "lgbtq",
+      "anthropologists",
+      "wwi",
+      "reflective",
+      "sad",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "powers",
+    "tier": 1,
+    "title": "Powers",
+    "author": "Brian Michael Bendis",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "record_of_a_spaceborn_few",
+    "tier": 1,
+    "title": "Record of a Spaceborn Few",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "space-opera",
+      "artificial-intelligence-ai",
+      "award-winning-series"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "multiple-pov"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "the_galaxy_and_the_ground_within",
+    "tier": 1,
+    "title": "The Galaxy, and the Ground Within",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "space-opera",
+      "artificial-intelligence-ai",
+      "award-winning-series"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "multiple-pov"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_427540",
+    "tier": 1,
+    "title": "Axiom's End",
+    "author": "Lindsay Ellis",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "extraterrestrial-beings",
+      "adventurous",
+      "mysterious",
+      "tense",
+      "emotional",
+      "dark",
+      "funny",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL22089746W",
+    "tier": 1,
+    "title": "Hitler's daughter",
+    "author": "Jackie French",
+    "genres": [
+      "Children's"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "war",
+      "juvenile-fiction",
+      "family"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL1892617W",
+    "tier": 1,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "science",
+      "cosmology",
+      "space-and-time",
+      "literary-criticism",
+      "space",
+      "classics",
+      "informative",
+      "challenging",
+      "reflective",
+      "funny",
+      "physics",
+      "metaphysics"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL16811862W",
+    "tier": 1,
+    "title": "Red Hill",
+    "author": "Jamie McGuire",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "end-of-the-world"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "we_need_to_talk_about_kevin",
+    "tier": 1,
+    "title": "We Need to Talk About Kevin",
+    "author": "Shriver",
+    "genres": [
+      "Thriller & Mystery"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "gaslighting",
+      "trauma-and-healing",
+      "family-legacy",
+      "existential-dread",
+      "motherhood",
+      "moral-dilemma"
+    ],
+    "existing_tropes": [
+      "unreliable-narrator",
+      "dual-timeline"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL675696W",
+    "tier": 1,
+    "title": "The Edible Woman",
+    "author": "Margaret Atwood",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "psychology",
+      "women",
+      "cabinet-mid",
+      "food",
+      "identity"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "martian",
+    "tier": 1,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "hard-sci-fi",
+      "competence-kink",
+      "locked-room-mystery",
+      "survival-and-resilience",
+      "first-person-pov",
+      "survival"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "ready_player_one",
+    "tier": 1,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "pop-culture-references",
+      "gaming"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "virtual-reality-world"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL1911334W",
+    "tier": 1,
+    "title": "The Chrysalids",
+    "author": "John Wyndham",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "mutation-biology",
+      "dark",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL8110269W",
+    "tier": 1,
+    "title": "The Mother Lode",
+    "author": "Gary Franklin",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL17038327W",
+    "tier": 1,
+    "title": "The Girl with All the Gifts",
+    "author": "Mike Carey",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_carhullan_army",
+    "tier": 1,
+    "title": "The Carhullan Army",
+    "author": "Sarah Hall",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "communal-living"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL20883297W",
+    "tier": 1,
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "greek-mythology",
+      "contemporary",
+      "friendship",
+      "literary-fiction",
+      "reflective",
+      "emotional",
+      "sad",
+      "hopeful",
+      "mysterious",
+      "inspiring",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL17782786W",
+    "tier": 1,
+    "title": "The Book of Life",
+    "author": "Deborah Harkness",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "literature-and-fiction-romance-science-fiction-and-fantasy",
+      "dark",
+      "adventurous",
+      "mysterious",
+      "tense",
+      "emotional",
+      "reflective",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_514718",
+    "tier": 1,
+    "title": "We Do What We Do in the Dark",
+    "author": "Michelle  Hart",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "lgbtq",
+      "emotional",
+      "hopeful",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_470914",
+    "tier": 1,
+    "title": "The Cartographers",
+    "author": "Peng Shepherd",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "literature-and-fiction",
+      "genre-fiction",
+      "magical-realism",
+      "mysterious",
+      "adventurous",
+      "emotional",
+      "tense",
+      "dark",
+      "informative",
+      "inspiring",
+      "hopeful",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL21916301W",
+    "tier": 1,
+    "title": "We Could Be Heroes",
+    "author": "Mike Chen",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "adventurous",
+      "hopeful",
+      "mysterious",
+      "funny",
+      "lighthearted"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL20642211W",
+    "tier": 1,
+    "title": "To Be Taught, If Fortunate",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "space",
+      "dystopian",
+      "aliens",
+      "adventurous",
+      "reflective",
+      "emotional",
+      "inspiring",
+      "hopeful",
+      "sad",
+      "informative",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL468431W",
+    "tier": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "literature",
+      "man-woman-relationships",
+      "spanish",
+      "reflective",
+      "sad",
+      "emotional",
+      "mysterious",
+      "dark",
+      "funny",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "a_closed_and_common_orbit",
+    "tier": 1,
+    "title": "A Closed and Common Orbit",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "space-opera",
+      "artificial-intelligence-ai",
+      "award-winning-series"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "multiple-pov"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "long_way_small_angry_planet",
+    "tier": 1,
+    "title": "The Long Way to a Small, Angry Planet",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space-opera",
+      "sapphic",
+      "worldbuilding",
+      "lgbtq",
+      "artificial-intelligence-ai",
+      "award-winning-series",
+      "cozy-sci-fi"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "multiple-pov"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_man_in_the_high_castle",
+    "tier": 1,
+    "title": "The Man in the high castle",
+    "author": "Philip K Dick",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "i_robot",
+    "tier": 1,
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "hard-sci-fi",
+      "classics",
+      "space",
+      "anthologies-and-short-stories",
+      "reflective",
+      "adventurous",
+      "challenging",
+      "informative",
+      "thought-provoking",
+      "emotional",
+      "funny",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "foundation",
+    "tier": 1,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space-opera",
+      "space",
+      "hard-sci-fi",
+      "classics",
+      "forecasting",
+      "life-on-other-planets",
+      "adventurous",
+      "mysterious",
+      "challenging",
+      "reflective",
+      "relaxing",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "ready_player_two",
+    "tier": 1,
+    "title": "Ready Player Two",
+    "author": "Ernest Cline Novel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "pop-culture-references",
+      "gaming"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "virtual-reality-world"
+    ],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL8383188W",
+    "tier": 1,
+    "title": "The sugar queen",
+    "author": "Sarah Addison Allen",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "literature",
+      "magic",
+      "friendship"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL17821431W",
+    "tier": 1,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genres": [
+      "Romance",
+      "contemporary"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "family-life",
+      "genre-fiction",
+      "contemporary-fiction",
+      "world-literature",
+      "united-states",
+      "asian-american-and-pacific-islander",
+      "emotional",
+      "mysterious",
+      "reflective",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL461302W",
+    "tier": 1,
+    "title": "Camouflage",
+    "author": "Joe Haldeman",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "aliens"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL11999891W",
+    "tier": 1,
+    "title": "The Help",
+    "author": "Kathryn Stockett, Álvaro Abella Villar, Alvaro Abella",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL83535W",
+    "tier": 1,
+    "title": "Everything you need",
+    "author": "A.L. Kennedy",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "classics"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "the_push",
+    "tier": 1,
+    "title": "The Push",
+    "author": "Ashley Audrain",
+    "genres": [
+      "Thriller & Mystery"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "domestic-suspense",
+      "dark-secrets",
+      "trauma-and-healing",
+      "mystery-and-secrets-revealed",
+      "family-legacy",
+      "motherhood"
+    ],
+    "existing_tropes": [
+      "unreliable-narrator"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_429528",
+    "tier": 1,
+    "title": "Rubyfruit Jungle",
+    "author": "Rita Mae Brown",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "classics",
+      "lgbtq",
+      "emotional",
+      "reflective",
+      "sad",
+      "challenging",
+      "inspiring",
+      "lighthearted",
+      "adventurous",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "the_hunger",
+    "tier": 1,
+    "title": "The Hunger",
+    "author": "Bantam Books",
+    "genres": [
+      "Horror"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_art_of_war",
+    "tier": 1,
+    "title": "The Art of War",
+    "author": "David Wingrove",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL1918804W",
+    "tier": 1,
+    "title": "Oranges Are Not the Only Fruit",
+    "author": "Jeanette Winterson",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "narrativa",
+      "lgbtq",
+      "england",
+      "discrimination",
+      "family",
+      "bildungsromans",
+      "romanzo",
+      "emotional",
+      "cabinet-film-lit"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL1918801W",
+    "tier": 1,
+    "title": "Written on the Body",
+    "author": "Jeanette Winterson",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "lgbtq",
+      "married-women",
+      "juvenile-nonfiction",
+      "reflective",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL3140822W",
+    "tier": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "juvenile-fiction",
+      "juvenile-nonfiction",
+      "african-americans",
+      "spanish",
+      "reflective",
+      "emotional",
+      "sad",
+      "inspiring",
+      "dark",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [
+      "coming-of-age"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_159870",
+    "tier": 1,
+    "title": "Time",
+    "author": "Stephen Baxter",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "extraterrestrial-beings",
+      "cosmic-background-radiation",
+      "audio-book",
+      "adventurous",
+      "reflective",
+      "tense"
+    ],
+    "existing_tropes": [
+      "genetic-engineering"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "n_space",
+    "tier": 1,
+    "title": "N-Space",
+    "author": "Larry Niven",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_254147",
+    "tier": 1,
+    "title": "Manifold: Space",
+    "author": "Stephen Baxter",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_434885",
+    "tier": 1,
+    "title": "What Comes After",
+    "author": "JoAnne  Tompkins",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "emotional",
+      "mysterious",
+      "tense",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL4778031W",
+    "tier": 1,
+    "title": "The Firebrand (Mira (Audio))",
+    "author": "Susan Childress",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL918301W",
+    "tier": 1,
+    "title": "Odd Man Out",
+    "author": "Sarah Ellis",
+    "genres": [
+      "Humor"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL15836370W",
+    "tier": 1,
+    "title": "Follies",
+    "author": "Ann Beattie",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_437423",
+    "tier": 1,
+    "title": "When Katie Met Cassidy",
+    "author": "Camille Perri",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "women",
+      "lgbtq",
+      "lighthearted",
+      "funny",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL134874W",
+    "tier": 1,
+    "title": "Olivia",
+    "author": "V.C. Andrews",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "family"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL19996022W",
+    "tier": 1,
+    "title": "Women",
+    "author": "Chloé Caldwell",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "recursion",
+    "tier": 1,
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "time-travel",
+      "memory-manipulation",
+      "alternate-realities",
+      "moral-dilemma"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL17862776W",
+    "tier": 1,
+    "title": "The secret daughter of the tsar",
+    "author": "Jennifer Laam",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL18766691W",
+    "tier": 1,
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genres": [
+      "Mystery",
+      "romantic suspense"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "young-women",
+      "literary-collections",
+      "murder",
+      "nature",
+      "emotional",
+      "mysterious",
+      "reflective",
+      "sad",
+      "adventurous",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_449067",
+    "tier": 1,
+    "title": "The Wall",
+    "author": "John Lanchester",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "science-fiction-and-fantasy-science-fiction-post-apocalyptic"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL14857996W",
+    "tier": 1,
+    "title": "Mr. and Miss Anonymous",
+    "author": "Fern Michaels",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL18144316W",
+    "tier": 1,
+    "title": "The Mars Room",
+    "author": "Rachel Kushner",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dark",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "the_long_earth",
+    "tier": 1,
+    "title": "The Long Earth",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "genesis",
+    "tier": 1,
+    "title": "Genesis",
+    "author": "Poul Anderson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_427475",
+    "tier": 1,
+    "title": "Vox",
+    "author": "Christina Dalcher",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "thriller",
+      "women",
+      "psychological",
+      "authoritarianism",
+      "dark",
+      "tense",
+      "challenging",
+      "emotional",
+      "suspenseful",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL891942W",
+    "tier": 1,
+    "title": "Vanishing acts",
+    "author": "Jodi Picoult",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "literature",
+      "fathers-and-daughters",
+      "adult-children-of-divorced-parents"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL19711744W",
+    "tier": 1,
+    "title": "Mrs. Fletcher",
+    "author": "Tom Perrotta",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "maddaddam",
+    "tier": 1,
+    "title": "MaddAddam",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "survival-after-extinction"
+    ],
+    "existing_tropes": [
+      "genetic-engineering",
+      "environmental-collapse-narrative"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL675689W",
+    "tier": 1,
+    "title": "Bluebeard's Egg and other stories",
+    "author": "Margaret Atwood",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL16796166W",
+    "tier": 1,
+    "title": "The Casual Vacancy",
+    "author": "J. K. Rowling, Tom Hollander",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL505010W",
+    "tier": 1,
+    "title": "Annie on My Mind",
+    "author": "Nancy Garden",
+    "genres": [
+      "Children's",
+      "romance"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "classics",
+      "lgbtq",
+      "juvenile-fiction",
+      "lesbian-couples",
+      "emotional",
+      "reflective",
+      "sad",
+      "challenging",
+      "hopeful",
+      "tense",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "fahrenheit_451",
+    "tier": 1,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "classics",
+      "politics",
+      "adventure-stories",
+      "klassikot",
+      "juvenile-fiction",
+      "reflective",
+      "dark",
+      "tense",
+      "challenging",
+      "emotional",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL20058947W",
+    "tier": 1,
+    "title": "Dangerous minds",
+    "author": "Janet Evanovich",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_436336",
+    "tier": 1,
+    "title": "The Companions",
+    "author": "Katie M. Flynn",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "the_outside",
+    "tier": 1,
+    "title": "The Outside",
+    "author": "Angry Robot Books",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL362427W",
+    "tier": 1,
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genres": [
+      "Literary Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "drama",
+      "literature",
+      "general-certificate-of-secondary-education",
+      "tragedy",
+      "emotional",
+      "sad",
+      "funny",
+      "dark",
+      "challenging",
+      "reflective",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL53168W",
+    "tier": 1,
+    "title": "The Celestine Prophecy - An Adventure",
+    "author": "James Redfield",
+    "genres": [
+      "Adventure"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL13716952W",
+    "tier": 1,
+    "title": "Fantastic Beasts and Where to Find Them",
+    "author": "J. K. Rowling",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL76837W",
+    "tier": 1,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genres": [
+      "Thriller"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "russian",
+      "cryptographers",
+      "museum",
+      "adventurous",
+      "mysterious",
+      "informative",
+      "tense",
+      "challenging",
+      "dark",
+      "relaxing",
+      "scary",
+      "joshua"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "the_half_blood_prince",
+    "tier": 1,
+    "title": "The Half Blood Prince",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_chamber_of_secrets",
+    "tier": 1,
+    "title": "The Chamber of Secrets",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL2965102W",
+    "tier": 1,
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "author": "Mark Haddon",
+    "genres": [
+      "Romance",
+      "contemporary"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "family-life",
+      "psychology",
+      "contemporary",
+      "emotional",
+      "adventurous",
+      "sad",
+      "informative",
+      "reflective",
+      "challenging",
+      "funny",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "the_goblet_of_fire",
+    "tier": 1,
+    "title": "The Goblet of Fire",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_order_of_the_phoenix",
+    "tier": 1,
+    "title": "The Order of the Phoenix",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_prisoner_of_azkaban",
+    "tier": 1,
+    "title": "The Prisoner of Azkaban",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "inherit_the_flame",
+    "tier": 1,
+    "title": "Inherit the Flame",
+    "author": "Megan O'Keefe",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "heist-and-rebellions",
+      "political-intrigue",
+      "power-struggles",
+      "loyal-companions",
+      "loveable-rogue",
+      "steampunk",
+      "deception",
+      "mystery",
+      "magic-with-unique-roles"
+    ],
+    "existing_tropes": [
+      "found-family"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "animal_farm",
+    "tier": 1,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "systemic-injustice",
+      "political-intrigue",
+      "power-and-corruption",
+      "propaganda-and-misinformation"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL500710W",
+    "tier": 1,
+    "title": "Pages for You",
+    "author": "Sylvia Brownrigg",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL23204W",
+    "tier": 1,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "novella",
+      "american-literature",
+      "cowboys",
+      "friendship",
+      "sad",
+      "emotional",
+      "dark",
+      "reflective",
+      "challenging",
+      "tense",
+      "relaxing"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL19969226W",
+    "tier": 1,
+    "title": "Revenge wears Prada",
+    "author": "Lauren Weisberger",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL261794W",
+    "tier": 1,
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL16701776W",
+    "tier": 1,
+    "title": "The Kanellis Scandal",
+    "author": "Michelle Reid",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "large-type-books"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL19353452W",
+    "tier": 1,
+    "title": "My Absolute Darling: A Novel",
+    "author": "Gabriel Tallent",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "friendship",
+      "bildungsromans",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL16803752W",
+    "tier": 1,
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL3335245W",
+    "tier": 1,
+    "title": "The Catcher in the Rye",
+    "author": "J. D. Salinger, Shao jia yun",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL82586W",
+    "tier": 1,
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "juvenile-fiction",
+      "magic",
+      "middle-grade",
+      "classics",
+      "low-fantasy",
+      "adventurous",
+      "dark",
+      "emotional",
+      "tense",
+      "mysterious",
+      "sad",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL30838W",
+    "tier": 1,
+    "title": "The hours",
+    "author": "Michael Cunningham",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "lgbtq",
+      "women",
+      "etc",
+      "sad",
+      "reflective",
+      "dark",
+      "mysterious",
+      "emotional",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL59038W",
+    "tier": 1,
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "psychological",
+      "literary-fiction",
+      "war",
+      "reflective",
+      "emotional",
+      "sad",
+      "dark",
+      "mysterious",
+      "challenging",
+      "tense",
+      "hopeful"
+    ],
+    "existing_tropes": [
+      "coming-of-age"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL675783W",
+    "tier": 1,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "classics",
+      "canadian-fiction",
+      "comics-and-graphic-novels",
+      "canadian-literature",
+      "dark",
+      "tense",
+      "sad",
+      "emotional",
+      "reflective",
+      "challenging",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL8024260W",
+    "tier": 1,
+    "title": "The Lucifer Effect",
+    "author": "Philip G. Zimbardo",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "psychology"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL505001W",
+    "tier": 1,
+    "title": "Good Moon Rising",
+    "author": "Nancy Garden",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL39349W",
+    "tier": 1,
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_377927",
+    "tier": 1,
+    "title": "Fascism: A Warning",
+    "author": "Madeleine K. Albright",
+    "genres": [
+      "Romance",
+      "historical"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "political-science",
+      "war",
+      "historical",
+      "philosophy",
+      "politics",
+      "authoritarianism",
+      "government",
+      "informative",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "the_price_of_safety",
+    "tier": 1,
+    "title": "The Price of Safety",
+    "author": "The Price of Safety",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_434745",
+    "tier": 1,
+    "title": "Trust Exercise",
+    "author": "Susan Choi, Suehyla El-Attar, Jennifer Lim, Adina Verson",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "challenging",
+      "dark",
+      "emotional",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "hardcover_188248",
+    "tier": 1,
+    "title": "Ask Again, Yes",
+    "author": "Mary Beth Keane, Molly Pope",
+    "genres": [
+      "Mystery",
+      "romantic suspense"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "police",
+      "forgiveness",
+      "emotional",
+      "reflective",
+      "sad",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_435693",
+    "tier": 1,
+    "title": "The Beach",
+    "author": "Alex Garland",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "literature",
+      "adventurous",
+      "dark",
+      "tense",
+      "sad",
+      "mysterious",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "hardcover_452066",
+    "tier": 1,
+    "title": "Pulp",
+    "author": "Robin Talley",
+    "genres": [
+      "Young Adult",
+      "romance"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "young-adult-fiction",
+      "lgbtq"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_1221805",
+    "tier": 1,
+    "title": "A Lonely Broadcast: Book One",
+    "author": "Kel Byron",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "psychological-thriller",
+      "supernatural",
+      "mysterious",
+      "dark",
+      "tense",
+      "funny",
+      "challenging",
+      "adventurous",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_469584",
+    "tier": 1,
+    "title": "The Space Between the Stars",
+    "author": "Anne Corlett",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "the_end_of_her",
+    "tier": 1,
+    "title": "The End of Her",
+    "author": "Shari Lapena",
+    "genres": [
+      "Thriller & Mystery"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "deception",
+      "domestic-suspense",
+      "gaslighting",
+      "dark-secrets",
+      "mystery-and-secrets-revealed",
+      "motherhood"
+    ],
+    "existing_tropes": [
+      "twist-ending",
+      "unreliable-narrator"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_796176",
+    "tier": 1,
+    "title": "City of Dreams",
+    "author": "Don Winslow",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "suspense-fiction",
+      "tense",
+      "dark",
+      "emotional",
+      "adventurous",
+      "mysterious",
+      "reflective",
+      "informative",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL17924341W",
+    "tier": 1,
+    "title": "The choice",
+    "author": "Kathy Clark",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "hardcover_484842",
+    "tier": 1,
+    "title": "On Immunity: An Inoculation",
+    "author": "Eula Biss",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "human-ecology",
+      "family",
+      "social-science",
+      "informative",
+      "reflective",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_435905",
+    "tier": 1,
+    "title": "The Girl Who Could Move Sh*t with Her Mind",
+    "author": "Jackson Ford, Lauren Patten, Graham Halstead",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "adventurous",
+      "funny",
+      "mysterious",
+      "emotional",
+      "tense",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL46909W",
+    "tier": 1,
+    "title": "The Andromeda Strain",
+    "author": "Michael Crichton",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "arizona",
+      "space",
+      "aliens",
+      "informative",
+      "tense",
+      "challenging",
+      "mysterious",
+      "adventurous",
+      "dark",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_149523",
+    "tier": 1,
+    "title": "Native Tongue",
+    "author": "Suzette Haden Elgin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "aliens",
+      "women"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL675834W",
+    "tier": 1,
+    "title": "Alias Grace",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "murder",
+      "criminal-psychology",
+      "reflective",
+      "mysterious",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL15179136W",
+    "tier": 1,
+    "title": "Believe",
+    "author": "Victoria Alexander",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL675713W",
+    "tier": 1,
+    "title": "Cat's Eye",
+    "author": "Margaret Atwood",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "friendship",
+      "literary-collections",
+      "reflective",
+      "dark",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL27822W",
+    "tier": 1,
+    "title": "The Test",
+    "author": "Katherine Applegate",
+    "genres": [
+      "Children's",
+      "romance"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_427511",
+    "tier": 1,
+    "title": "Only Human",
+    "author": "Sylvain Neuvel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "dystopian",
+      "aliens",
+      "thriller",
+      "techno-thriller",
+      "reflective",
+      "inspiring",
+      "hopeful",
+      "challenging",
+      "adventurous",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL20652090W",
+    "tier": 1,
+    "title": "My dark Vanessa",
+    "author": "Kate Elizabeth Russell, Grace Gummer, Russell  Kate Elizab",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL17640880W",
+    "tier": 1,
+    "title": "Homesick For Another World",
+    "author": "Ottessa Moshfegh, Alexandre Gombau Arnau",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL8260078W",
+    "tier": 1,
+    "title": "The Betsy",
+    "author": "Harold Robbins",
+    "genres": [
+      "Mystery",
+      "romantic suspense"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_442115",
+    "tier": 1,
+    "title": "Woman on the Edge of Time",
+    "author": "Marge Piercy",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "lgbtq",
+      "dystopian",
+      "american-fiction",
+      "saga",
+      "literary-fiction",
+      "psychological",
+      "sci-fi"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "moodreads_9211",
+    "tier": 1,
+    "title": "With the Fire on High",
+    "author": "Elizabeth Acevedo",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "realistic-fiction",
+      "inspiring",
+      "lighthearted",
+      "hopeful",
+      "emotional",
+      "funny",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_427710",
+    "tier": 1,
+    "title": "The Future of Another Timeline",
+    "author": "Annalee Newitz",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "women",
+      "sexism",
+      "adventurous",
+      "dark",
+      "reflective",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_testaments",
+    "tier": 1,
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "systemic-oppression-and-resistance",
+      "survival-and-resilience"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_educated_ape",
+    "tier": 1,
+    "title": "The Educated Ape",
+    "author": "Robert Rankin",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "sleeping_giants",
+    "tier": 1,
+    "title": "Sleeping Giants",
+    "author": "Random House",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL2028034W",
+    "tier": 1,
+    "title": "God king",
+    "author": "Joanne S. Williamson, Joanne Williamson, Daria M. Sockey",
+    "genres": [
+      "Children's"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_571965",
+    "tier": 1,
+    "title": "Poppy Jenkins",
+    "author": "Clare Ashton",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "funny",
+      "inspiring",
+      "lighthearted"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_sparrow",
+    "tier": 1,
+    "title": "The Sparrow",
+    "author": "Mary Doria Russell Novel",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "trauma-and-healing",
+      "alternate-realities",
+      "award-winning-series"
+    ],
+    "existing_tropes": [
+      "redemption-arc",
+      "first-contact-with-aliens"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL19349605W",
+    "tier": 1,
+    "title": "American War",
+    "author": "Omar El Akkad",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "guerre",
+      "adulte",
+      "civil-war",
+      "war",
+      "dark",
+      "challenging",
+      "reflective",
+      "tense",
+      "sad",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL2909420W",
+    "tier": 1,
+    "title": "Snowfall",
+    "author": "Sharon Sala",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "station_eleven",
+    "tier": 1,
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "post-apocalyptic"
+    ],
+    "existing_tropes": [
+      "found-family"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL17569713W",
+    "tier": 1,
+    "title": "The Heart Goes Last",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "american-fiction",
+      "juvenile-nonfiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL19781733W",
+    "tier": 1,
+    "title": "Eleanor Oliphant is Completely Fine",
+    "author": "Gail Honeyman",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "genre-fiction",
+      "contemporary-fiction",
+      "women-s-fiction",
+      "comedy-and-humor",
+      "grief",
+      "friendship",
+      "emotional",
+      "funny",
+      "hopeful",
+      "reflective",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_immortals",
+    "tier": 1,
+    "title": "The Immortals",
+    "author": "Jordanna Max Brodsky",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL15920488W",
+    "tier": 1,
+    "title": "The miseducation of Cameron Post",
+    "author": "Emily M. Danforth",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "emotional",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "oryx_and_crake",
+    "tier": 1,
+    "title": "Oryx and Crake",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "survival-after-extinction"
+    ],
+    "existing_tropes": [
+      "genetic-engineering",
+      "environmental-collapse-narrative"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "the_philosophers_stone",
+    "tier": 1,
+    "title": "The Philosophers Stone",
+    "author": "J K Rowling",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL31923W",
+    "tier": 1,
+    "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+    "author": "Fannie Flagg",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "friendship",
+      "women",
+      "romanzo",
+      "storico",
+      "classics",
+      "literary-collections",
+      "reflective",
+      "funny",
+      "emotional",
+      "adventurous",
+      "lighthearted"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL2771987W",
+    "tier": 1,
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman, Alex Goody, Eva Kumar, Evelynn D. Smith, Chavdar Georgiev, Booking, Aurora Irvine",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "children_of_god",
+    "tier": 1,
+    "title": "Children of God",
+    "author": "Mary Doria Russell Novel",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "trauma-and-healing",
+      "alternate-realities",
+      "award-winning-series"
+    ],
+    "existing_tropes": [
+      "redemption-arc",
+      "first-contact-with-aliens"
+    ],
+    "user_rating": 5.0
+  },
+  {
+    "id": "hardcover_532300",
+    "tier": 1,
+    "title": "The Women's Room",
+    "author": "Marilyn French, Dorothy Allison, Linsey Abrams",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "classics",
+      "women",
+      "psychology",
+      "english-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL17900754W",
+    "tier": 1,
+    "title": "None of the above",
+    "author": "I. W. Gregorio",
+    "genres": [
+      "Children's",
+      "romance"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "lgbtq",
+      "young-adult-fiction",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_452805",
+    "tier": 1,
+    "title": "Orpheus Girl",
+    "author": "Brynne Rebele-Henry",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "young-adult-fiction",
+      "lgbtq",
+      "emotional",
+      "challenging",
+      "dark",
+      "tense",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL19664590W",
+    "tier": 1,
+    "title": "Lies we tell ourselves",
+    "author": "Robin Talley",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "juvenile-fiction",
+      "lgbtq",
+      "african-americans",
+      "young-adult-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL509183W",
+    "tier": 1,
+    "title": "Speak",
+    "author": "Laurie Halse Anderson",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "emotional-problems",
+      "high-school-students",
+      "acquaintance-rape",
+      "classics",
+      "juvenile-nonfiction",
+      "depressions",
+      "emotional",
+      "dark",
+      "sad",
+      "tense",
+      "reflective",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "dark_matter",
+    "tier": 1,
+    "title": "Dark Matter",
+    "author": "Blake Crouch",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "existential-dread",
+      "morally-grey-choices"
+    ],
+    "existing_tropes": [
+      "parallel-universe-multiverse"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "time_war",
+    "tier": 1,
+    "title": "This Is How You Lose the Time War",
+    "author": "Amal El-Mohtar, Max Gladstone",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "sapphic",
+      "pining",
+      "time-travel"
+    ],
+    "existing_tropes": [
+      "enemies-to-lovers",
+      "time-loop"
+    ],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL20149336W",
+    "tier": 1,
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "genres": [
+      "Short Stories"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "anthologies-and-short-stories",
+      "genre-fiction",
+      "sci-fi",
+      "literature-and-fiction",
+      "reflective",
+      "challenging",
+      "mysterious",
+      "hopeful",
+      "inspiring",
+      "emotional",
+      "informative",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_465025",
+    "tier": 1,
+    "title": "Invisible Girl",
+    "author": "Lisa Jewell",
+    "genres": [
+      "Thriller"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL19992878W",
+    "tier": 1,
+    "title": "Fatherland",
+    "author": "Nina Bunjevac",
+    "genres": [
+      "Graphic Novel"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "yugoslavia",
+      "war",
+      "family",
+      "biography"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "84k",
+    "tier": 1,
+    "title": "84K",
+    "author": "Claire North",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "debt"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL2810138W",
+    "tier": 1,
+    "title": "The flying Troutmans",
+    "author": "Miriam Toews",
+    "genres": [
+      "Romance",
+      "contemporary"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "canadian-lit",
+      "canadian",
+      "written-by-women",
+      "canada",
+      "canadian-author",
+      "family",
+      "mental-health"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL19710414W",
+    "tier": 1,
+    "title": "Only Ever Yours",
+    "author": "Louise O'Neill",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "friendship",
+      "young-adult-fiction",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL20017053W",
+    "tier": 1,
+    "title": "Hold me close",
+    "author": "Megan Hart",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "hardcover_452194",
+    "tier": 1,
+    "title": "We Were Promised Spotlights",
+    "author": "Lindsay Sproul",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "inspiring",
+      "lighthearted"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "silent_patient",
+    "tier": 1,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "locked-room-mystery",
+      "mystery-and-secrets-revealed",
+      "psychological-thriller"
+    ],
+    "existing_tropes": [
+      "unreliable-narrator",
+      "twist-ending"
+    ],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL16607683W",
+    "tier": 1,
+    "title": "The farm",
+    "author": "Emily McKay",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL5706608W",
+    "tier": 1,
+    "title": "Admissions",
+    "author": "Nancy Lieberman",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL19330481W",
+    "tier": 1,
+    "title": "Acceptance",
+    "author": "Jeff VanderMeer",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL17453058W",
+    "tier": 1,
+    "title": "Authority",
+    "author": "Jeff VanderMeer",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "aliens",
+      "discoveries-in-geography",
+      "mysterious",
+      "dark",
+      "tense",
+      "challenging",
+      "adventurous",
+      "reflective",
+      "emotional",
+      "funny",
+      "suspenseful"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL17268007W",
+    "tier": 1,
+    "title": "Annihilation",
+    "author": "Jeff VanderMeer",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "weird-fiction",
+      "literature-and-fiction",
+      "mysterious",
+      "dark",
+      "adventurous",
+      "tense",
+      "reflective",
+      "challenging",
+      "emotional",
+      "sad",
+      "informative",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL17670692W",
+    "tier": 1,
+    "title": "Frog music",
+    "author": "Emma Donoghue",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "crime"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL16695055W",
+    "tier": 1,
+    "title": "The uninvited",
+    "author": "Heather Graham",
+    "genres": [
+      "Horror",
+      "paranormal romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "esperance",
+    "tier": 1,
+    "title": "Esperance",
+    "author": "Braking Day",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "suspenseful",
+      "tense",
+      "justice",
+      "contemporary-city",
+      "multiple-worlds",
+      "murder",
+      "child-abuse"
+    ],
+    "existing_tropes": [
+      "secret-identity",
+      "multiple-pov"
+    ],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL16571926W",
+    "tier": 1,
+    "title": "Adaptation",
+    "author": "Malinda Lo",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "tense",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "verity",
+    "tier": 1,
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "genres": [
+      "Mystery",
+      "romantic suspense"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "morally-grey",
+      "psychological-thriller",
+      "dark-secrets",
+      "obsession-and-desire"
+    ],
+    "existing_tropes": [
+      "unreliable-narrator",
+      "twist-ending"
+    ],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_466171",
+    "tier": 1,
+    "title": "The Unit",
+    "author": "Ninni Holmqvist",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL2810136W",
+    "tier": 1,
+    "title": "A complicated kindness",
+    "author": "Miriam Toews",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "abandoned-children",
+      "manitoba",
+      "family",
+      "classics",
+      "reflective",
+      "sad",
+      "top-cabinet"
+    ],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "openlibrary_OL20002259W",
+    "tier": 1,
+    "title": "Every last word",
+    "author": "Tamara Ireland Stone",
+    "genres": [
+      "Children's",
+      "romance"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "young-adult-fiction",
+      "high-school-students",
+      "emotional",
+      "reflective",
+      "hopeful",
+      "inspiring",
+      "challenging",
+      "funny",
+      "informative",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "moodreads_3268",
+    "tier": 1,
+    "title": "The Girls",
+    "author": "Emma Cline",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "obsessive-infatuation",
+      "toxic-mentorship",
+      "dangerous-older-love-interest",
+      "coming-of-age-awakening",
+      "dark",
+      "eerie",
+      "melancholic",
+      "atmospheric",
+      "haunting",
+      "introspective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_311751",
+    "tier": 1,
+    "title": "Middlemarch",
+    "author": "George Eliot, Rosemary Ashton",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "literature",
+      "english-language",
+      "literary-criticism",
+      "social-science",
+      "great-britain",
+      "hopeful",
+      "reflective",
+      "sad",
+      "emotional",
+      "funny",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_127333",
+    "tier": 1,
+    "title": "Dumplin'",
+    "author": "Julie Murphy",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "lgbtq",
+      "juvenile-fiction",
+      "friendship",
+      "beauty-contests",
+      "literary-criticism",
+      "dating-social-customs",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL19727008W",
+    "tier": 1,
+    "title": "Red Clocks",
+    "author": "Leni Zumas",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_2021",
+    "tier": 1,
+    "title": "It's Not Like It's a Secret",
+    "author": "Misa Sugiura",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "young-adult-fiction",
+      "lgbtq"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL16141983W",
+    "tier": 1,
+    "title": "Killing Kate",
+    "author": "Julie Kramer",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "murder",
+      "women"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL20034145W",
+    "tier": 1,
+    "title": "Girl mans up",
+    "author": "M-E Girard",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "young-adult-fiction",
+      "friendship"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL16807288W",
+    "tier": 1,
+    "title": "Fat Angie",
+    "author": "e. E. Charlton-Trujillo",
+    "genres": [
+      "Children's"
+    ],
+    "book_class": "childrens",
+    "existing_tags": [
+      "juvenile-fiction",
+      "lgbtq",
+      "war",
+      "friendship",
+      "young-adult-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL265426W",
+    "tier": 1,
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "self-esteem-and-self-reliance",
+      "classics",
+      "death-grief-bereavement",
+      "friendship",
+      "social-themes",
+      "juvenile-nonfiction",
+      "emotional",
+      "sad",
+      "reflective",
+      "hopeful",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "hardcover_166905",
+    "tier": 1,
+    "title": "The Reluctant Fundamentalist",
+    "author": "Mohsin Hamid",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "classics",
+      "pakistani-americans",
+      "war",
+      "literature",
+      "social-critisism",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "openlibrary_OL20003482W",
+    "tier": 1,
+    "title": "Fangirl",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "juvenile-nonfiction",
+      "lighthearted",
+      "funny",
+      "emotional",
+      "relaxing",
+      "sad",
+      "hopeful",
+      "libby"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL6031025W",
+    "tier": 1,
+    "title": "Dead Is the New Black",
+    "author": "Marlene Perez",
+    "genres": [
+      "Paranormal"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "jennifer_government",
+    "tier": 1,
+    "title": "Jennifer Government",
+    "author": "Max Barry",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "australian-fiction",
+      "dystopian",
+      "adventurous",
+      "challenging",
+      "dark",
+      "funny",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": 3.0
+  },
+  {
+    "id": "moodreads_6921",
+    "tier": 1,
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "cancer-in-adolescence",
+      "realistic-fiction",
+      "juvenile-fiction",
+      "young-adult-fiction",
+      "romance-fiction",
+      "philosophy",
+      "psychology",
+      "sad",
+      "emotional",
+      "reflective",
+      "funny",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": 5.0
+  },
+  {
+    "id": "openlibrary_OL17194780W",
+    "tier": 1,
+    "title": "Sweet",
+    "author": "Emmy Laybourne",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian"
+    ],
+    "existing_tropes": [],
+    "user_rating": 2.0
+  },
+  {
+    "id": "openlibrary_OL476866W",
+    "tier": 1,
+    "title": "Keeping You a Secret",
+    "author": "Julie Anne Peters",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "college-choice",
+      "young-adult-fiction",
+      "juvenile-fiction"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "hardcover_440398",
+    "tier": 1,
+    "title": "Everyone Worth Knowing",
+    "author": "Lauren Weisberger",
+    "genres": [
+      "Young Adult"
+    ],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "friendship"
+    ],
+    "existing_tropes": [],
+    "user_rating": 4.0
+  },
+  {
+    "id": "openlibrary_OL276386W",
+    "tier": 1,
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [],
+    "existing_tropes": [],
+    "user_rating": 1.0
+  },
+  {
+    "id": "the_word_for_world_is_forest",
+    "tier": 2,
+    "title": "The Word for World is Forest",
+    "author": "Ursula K Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "dystopian",
+      "aliens",
+      "forests-and-forestry",
+      "classics",
+      "classique",
+      "dark",
+      "reflective",
+      "sad",
+      "adventurous",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_dispossessed",
+    "tier": 2,
+    "title": "The Dispossessed",
+    "author": "Ursula K Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classique",
+      "classics",
+      "philosophie",
+      "juvenile-fiction",
+      "literary-fiction",
+      "politique",
+      "reflective",
+      "inspiring",
+      "hopeful",
+      "challenging",
+      "adventurous",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_sirens_of_titan",
+    "tier": 2,
+    "title": "The Sirens of Titan",
+    "author": "Kurt Vonnegut",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "war",
+      "dystopian",
+      "literature",
+      "aliens",
+      "fantasy-fiction",
+      "other",
+      "funny",
+      "adventurous",
+      "reflective",
+      "dark",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "something_wicked_this_way_comes",
+    "tier": 2,
+    "title": "Something Wicked This Way Comes",
+    "author": "Ray Bradbury",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "friendship",
+      "dark",
+      "mysterious",
+      "adventurous",
+      "tense",
+      "reflective",
+      "challenging",
+      "hopeful",
+      "emotional",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_ocean_at_the_end_of_the_lane",
+    "tier": 2,
+    "title": "The Ocean at the end of the lane",
+    "author": "Neil Gaiman",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "magical-realism",
+      "novella",
+      "good-and-evil",
+      "adventurous",
+      "dark",
+      "mysterious",
+      "emotional",
+      "sad",
+      "reflective",
+      "tense",
+      "hopeful",
+      "inspiring"
+    ],
+    "existing_tropes": [
+      "coming-of-age"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "nation",
+    "tier": 2,
+    "title": "Nation",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Fantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "humor",
+      "alternative-histories-fiction",
+      "satire",
+      "hopeful",
+      "funny",
+      "adventurous",
+      "emotional",
+      "reflective",
+      "inspiring",
+      "relaxing",
+      "british"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_long_way_to_a_small_angry_planet",
+    "tier": 2,
+    "title": "The Long Way to a Small Angry Planet",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "literature-and-fiction",
+      "genre-fiction",
+      "action-and-adventure",
+      "adventurous",
+      "emotional",
+      "lighthearted",
+      "funny",
+      "hopeful",
+      "inspiring",
+      "relaxing",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "allegiant",
+    "tier": 2,
+    "title": "Allegiant",
+    "author": "Veronica Roth",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "spanish",
+      "family",
+      "literary-criticism",
+      "adventurous",
+      "tense",
+      "emotional",
+      "inspiring",
+      "mysterious",
+      "sad",
+      "hopeful",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "divergent",
+    "tier": 2,
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "spanish",
+      "young-adult",
+      "adventurous",
+      "tense",
+      "emotional",
+      "challenging",
+      "dark",
+      "reflective",
+      "mysterious",
+      "funny",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20890999W",
+    "tier": 2,
+    "title": "Ring Shout",
+    "author": "P. Djèlí Clark",
+    "genres": [
+      "Romance",
+      "historical"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "alternate-history",
+      "dystopian",
+      "novella",
+      "historical",
+      "dark",
+      "adventurous",
+      "tense",
+      "challenging",
+      "mysterious",
+      "emotional",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_first_fifteen_lives_of_harry_august",
+    "tier": 2,
+    "title": "The First Fifteen Lives of Harry August",
+    "author": "Claire North",
+    "genres": [
+      "Romance",
+      "historical"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "historical",
+      "time-travel",
+      "detective-fiction",
+      "metaphysical-and-visionary",
+      "literary-fiction",
+      "adventurous",
+      "mysterious",
+      "challenging",
+      "dark",
+      "tense",
+      "reflective",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "11_22_63",
+    "tier": 2,
+    "title": "11.22.63",
+    "author": "Stephen King",
+    "genres": [
+      "Romance",
+      "historical"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "alternate-history",
+      "historical",
+      "thriller",
+      "adventurous",
+      "emotional",
+      "tense",
+      "mysterious",
+      "dark",
+      "sad",
+      "reflective",
+      "informative",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_seven_deaths_of_evelyn_hardcastle",
+    "tier": 2,
+    "title": "The Seven Deaths of Evelyn Hardcastle",
+    "author": "Stuart Turton",
+    "genres": [
+      "Romance",
+      "contemporary"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "time-travel",
+      "contemporary",
+      "mysterious",
+      "tense",
+      "dark",
+      "adventurous",
+      "challenging",
+      "reflective",
+      "emotional",
+      "sad",
+      "hopeful",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_perfect_stranger",
+    "tier": 2,
+    "title": "The Perfect Stranger",
+    "author": "Brian Pinkerton",
+    "genres": [
+      "Romance",
+      "contemporary"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "artificial-intelligence",
+      "action-packed",
+      "suspenseful",
+      "tense",
+      "technology",
+      "identity",
+      "surveillance",
+      "contemporary-city",
+      "near-future",
+      "female-protagonist",
+      "standalone"
+    ],
+    "existing_tropes": [
+      "secret-identity",
+      "conspiracy"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL28996W",
+    "tier": 2,
+    "title": "The Amber Spyglass",
+    "author": "Philip Pullman",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "children",
+      "urban-fantasy",
+      "young-adult-fiction",
+      "adventurous",
+      "emotional",
+      "mysterious",
+      "hopeful",
+      "dark",
+      "tense",
+      "challenging",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL16807297W",
+    "tier": 2,
+    "title": "Steelheart",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "young-adult",
+      "spanish",
+      "fantasy-fiction",
+      "urban-fantasy",
+      "literature-and-fiction",
+      "adventurous",
+      "tense",
+      "dark",
+      "funny",
+      "hopeful",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "american_gods",
+    "tier": 2,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "mythology",
+      "comics-and-graphic-novels",
+      "classics",
+      "fairy-tales",
+      "urban-fantasy",
+      "adventurous",
+      "mysterious",
+      "dark",
+      "reflective",
+      "tense",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL1095427W",
+    "tier": 2,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "young-adult-fiction",
+      "children",
+      "women",
+      "literature",
+      "emotional",
+      "mysterious",
+      "reflective",
+      "dark",
+      "tense",
+      "hopeful",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL15854658W",
+    "tier": 2,
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "genres": [
+      "General Fiction",
+      "romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "middle-grade",
+      "folklore",
+      "classics",
+      "literature",
+      "children",
+      "emotional",
+      "hopeful",
+      "reflective",
+      "inspiring",
+      "dark",
+      "funny",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL40882W",
+    "tier": 2,
+    "title": "All the Pretty Horses",
+    "author": "Cormac McCarthy",
+    "genres": [
+      "General Fiction",
+      "romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "read-next-2024",
+      "general-fiction",
+      "mexican-american-border-region",
+      "travel",
+      "adventurous",
+      "reflective",
+      "dark",
+      "emotional",
+      "sad",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL17719038W",
+    "tier": 2,
+    "title": "Strange the Dreamer",
+    "author": "Laini Taylor",
+    "genres": [
+      "Romance",
+      "contemporary romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "family-and-relationships",
+      "contemporary",
+      "mythology",
+      "juvenile-fiction",
+      "adventurous",
+      "mysterious",
+      "emotional",
+      "tense",
+      "inspiring",
+      "dark",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL17842319W",
+    "tier": 2,
+    "title": "Turtles All the Way Down",
+    "author": "John Green",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "friendship",
+      "contemporary",
+      "young-adult-fiction-social-themes-mental-illness",
+      "spanish",
+      "social-themes",
+      "self-esteem-and-self-reliance",
+      "emotional",
+      "reflective",
+      "hopeful",
+      "sad",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL16596099W",
+    "tier": 2,
+    "title": "Aristotle and Dante discover the secrets of the universe",
+    "author": "Benjamin Alire Sáenz",
+    "genres": [
+      "Romance",
+      "contemporary romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "young-adult-fiction",
+      "friendship",
+      "coming-of-age-lgbtq-difficult-situations-friendship-family-literature-and-fiction",
+      "juvenile-nonfiction",
+      "contemporary",
+      "emotional",
+      "reflective",
+      "hopeful",
+      "lighthearted",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [
+      "slow-burn",
+      "found-family"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL8193465W",
+    "tier": 2,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "literature",
+      "war",
+      "literary-criticism",
+      "british",
+      "friendship",
+      "emotional",
+      "reflective",
+      "challenging",
+      "sad",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL515754W",
+    "tier": 2,
+    "title": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "science",
+      "psychology",
+      "literature",
+      "classique",
+      "philosophical-fiction",
+      "emotional",
+      "sad",
+      "reflective",
+      "dark",
+      "challenging",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL16341254W",
+    "tier": 2,
+    "title": "A Monster Calls",
+    "author": "Patrick Ness, Jim Kay, Siobhan Dowd",
+    "genres": [
+      "General Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "death",
+      "family",
+      "art",
+      "psychology",
+      "juvenile-fiction",
+      "mathematics",
+      "emotional",
+      "sad",
+      "reflective",
+      "dark",
+      "mysterious",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20791719W",
+    "tier": 2,
+    "title": "The Gilded Ones",
+    "author": "Namina Forna",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "dystopian",
+      "young-adult-fiction",
+      "contemporary",
+      "adventurous",
+      "dark",
+      "emotional",
+      "tense",
+      "mysterious",
+      "sad",
+      "reflective",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL17793650W",
+    "tier": 2,
+    "title": "Babylon’s ashes",
+    "author": "James S. A. Corey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space-opera",
+      "space",
+      "dystopian",
+      "first-contact",
+      "adventurous",
+      "tense",
+      "emotional",
+      "dark",
+      "hopeful",
+      "mysterious",
+      "reflective",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL42412330W",
+    "tier": 2,
+    "title": "Atmosphere",
+    "author": "Taylor Jenkins Reid",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "astronomy",
+      "nasa",
+      "lgbtqia",
+      "sapphic",
+      "emotional",
+      "adventurous",
+      "hopeful",
+      "inspiring",
+      "tense",
+      "reflective"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "forbidden-love"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20716197W",
+    "tier": 2,
+    "title": "The Ballad of Songbirds and Snakes",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "young-adult",
+      "aventure",
+      "dark",
+      "tense",
+      "adventurous",
+      "emotional",
+      "sad",
+      "reflective",
+      "challenging",
+      "mysterious",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL4720160W",
+    "tier": 2,
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "time-travel",
+      "classics",
+      "romance-time-travel",
+      "literature-and-fiction",
+      "daisy-books",
+      "sad",
+      "emotional",
+      "reflective",
+      "hopeful",
+      "challenging",
+      "adventurous",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL24167486W",
+    "tier": 2,
+    "title": "Light From Uncommon Stars",
+    "author": "Ryka Aoki",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "space",
+      "aliens",
+      "contemporary-fantasy",
+      "emotional",
+      "hopeful",
+      "inspiring",
+      "adventurous",
+      "reflective",
+      "funny",
+      "tense",
+      "sad"
+    ],
+    "existing_tropes": [
+      "found-family",
+      "deal-with-a-devil-demon"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20416941W",
+    "tier": 2,
+    "title": "The Starless Sea",
+    "author": "Erin Morgenstern",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "queer",
+      "compact-discs",
+      "magical-realism",
+      "mysterious",
+      "adventurous",
+      "emotional",
+      "reflective",
+      "challenging",
+      "inspiring",
+      "hopeful",
+      "dark"
+    ],
+    "existing_tropes": [
+      "slow-burn"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20745722W",
+    "tier": 2,
+    "title": "Raybearer",
+    "author": "Jordan Ifueko",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "magic",
+      "friendship",
+      "young-adult-fiction",
+      "lgbtq",
+      "adventurous",
+      "emotional",
+      "tense",
+      "mysterious",
+      "inspiring",
+      "hopeful",
+      "dark",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL22135561W",
+    "tier": 2,
+    "title": "Malibu Rising",
+    "author": "Taylor Jenkins Reid",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "brotherhoods",
+      "contemporary",
+      "emotional",
+      "reflective",
+      "sad",
+      "hopeful",
+      "adventurous",
+      "inspiring",
+      "funny",
+      "tense",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL5734773W",
+    "tier": 2,
+    "title": "Memories of ice",
+    "author": "Steven Erikson",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "epic",
+      "fantasy-fiction",
+      "space-opera",
+      "epic-high-fantasy",
+      "adventurous",
+      "dark",
+      "emotional",
+      "challenging",
+      "sad",
+      "tense",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "fire",
+    "tier": 2,
+    "title": "Fire",
+    "author": "Kristin Cashore",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "magic",
+      "war",
+      "adventurous",
+      "emotional",
+      "dark",
+      "tense",
+      "reflective",
+      "challenging",
+      "inspiring",
+      "hopeful",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL14917748W",
+    "tier": 2,
+    "title": "Under the Dome",
+    "author": "Stephen King",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "dystopian",
+      "literary-collections",
+      "literature-and-fiction",
+      "thriller",
+      "contemporary",
+      "dark",
+      "mysterious",
+      "tense",
+      "emotional",
+      "reflective",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_643090",
+    "tier": 2,
+    "title": "Translation State",
+    "author": "Ann Leckie",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "aliens",
+      "space-opera",
+      "space",
+      "adventurous",
+      "tense",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "dark",
+      "reflective",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_713342",
+    "tier": 2,
+    "title": "Lords of Uncreation",
+    "author": "Adrian Tchaikovsky",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "aliens",
+      "space-opera",
+      "sci-fi",
+      "war",
+      "adventurous",
+      "mysterious",
+      "tense",
+      "dark",
+      "challenging",
+      "sad",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_131995",
+    "tier": 2,
+    "title": "The Sparrow",
+    "author": "Mary Doria Russell",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "literature",
+      "aliens",
+      "space",
+      "dark",
+      "sad",
+      "emotional",
+      "tense",
+      "reflective",
+      "adventurous",
+      "mysterious",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_646063",
+    "tier": 2,
+    "title": "The Blighted Stars",
+    "author": "Megan E. O'Keefe",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "war",
+      "adventurous",
+      "tense",
+      "mysterious",
+      "dark",
+      "emotional",
+      "funny",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1194219",
+    "tier": 2,
+    "title": "The Brightness Between Us",
+    "author": "Eliot Schrefer",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "juvenile-fiction",
+      "emotional",
+      "mysterious",
+      "tense",
+      "adventurous",
+      "hopeful",
+      "challenging",
+      "sad",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_428759",
+    "tier": 2,
+    "title": "Iron Widow",
+    "author": "Xiran Jay Zhao",
+    "genres": [
+      "Fantasy",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "lgbtq",
+      "war",
+      "juvenile-fiction",
+      "science-fantasy",
+      "dark",
+      "adventurous",
+      "tense",
+      "emotional",
+      "challenging",
+      "inspiring",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_430969",
+    "tier": 2,
+    "title": "An Unkindness of Ghosts",
+    "author": "Rivers Solomon, Cherise Boothe",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "fantasy-sci-fi",
+      "challenging",
+      "dark",
+      "sad",
+      "tense",
+      "adventurous",
+      "emotional",
+      "reflective",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_438580",
+    "tier": 2,
+    "title": "The Hidden Girl and Other Stories",
+    "author": "Ken Liu",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "fantasy-fiction",
+      "american",
+      "adventurous",
+      "reflective",
+      "dark",
+      "informative",
+      "emotional",
+      "inspiring",
+      "tense",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_431518",
+    "tier": 2,
+    "title": "She Who Became the Sun",
+    "author": "Shelley Parker-Chan",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "alternative-history-fantasy-fiction-historical",
+      "lgbtq",
+      "classics",
+      "adventurous",
+      "dark",
+      "tense",
+      "emotional",
+      "challenging",
+      "reflective",
+      "sad",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_386091",
+    "tier": 2,
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "spanish",
+      "juvenile-fiction",
+      "african-american-teenagers",
+      "american-fiction",
+      "police-shootings",
+      "african-americans",
+      "young-adult-fiction",
+      "emotional",
+      "reflective",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL104535W",
+    "tier": 2,
+    "title": "True Grit",
+    "author": "Charles Portis",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "western-stories",
+      "indian-territory",
+      "juvenile-fiction",
+      "adventure-stories",
+      "murder",
+      "adventurous",
+      "funny",
+      "tense",
+      "emotional",
+      "sad",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_706185",
+    "tier": 2,
+    "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+    "author": "David Grann",
+    "genres": [
+      "Mystery",
+      "crime"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "true-crime",
+      "read-next-2024",
+      "read-next-2026",
+      "war",
+      "biography-non-fiction",
+      "adventurous",
+      "informative",
+      "dark",
+      "tense",
+      "sad",
+      "emotional",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_903326",
+    "tier": 3,
+    "title": "Frontier",
+    "author": "Grace  Curtis",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "space",
+      "adventurous",
+      "mysterious",
+      "emotional",
+      "hopeful",
+      "dark",
+      "reflective",
+      "inspiring",
+      "sad",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_436458",
+    "tier": 3,
+    "title": "The Vanished Birds",
+    "author": "Simon Jimenez",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "adventurous",
+      "mysterious",
+      "dark",
+      "emotional",
+      "sad",
+      "challenging",
+      "reflective",
+      "inspiring",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_468134",
+    "tier": 3,
+    "title": "A Beautifully Foolish Endeavor",
+    "author": "Hank Green",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "queer",
+      "contemporary",
+      "literature-and-fiction-science-fiction-and-fantasy",
+      "adventurous",
+      "mysterious",
+      "hopeful",
+      "emotional",
+      "tense",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1152430",
+    "tier": 3,
+    "title": "Bloodchild and Other Stories",
+    "author": "Octavia E. Butler",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "aliens",
+      "women",
+      "classics",
+      "large-type-books",
+      "dark",
+      "reflective",
+      "challenging",
+      "hopeful",
+      "adventurous",
+      "emotional",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_448770",
+    "tier": 3,
+    "title": "The Outside",
+    "author": "Ada Hoffmann, Nancy Wu",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "dark",
+      "tense",
+      "mysterious",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "sad",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427523",
+    "tier": 3,
+    "title": "Death's End",
+    "author": "Cixin Liu, Ken Liu",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "space",
+      "hard-sci-fi",
+      "human-alien-encounters",
+      "scienc-fiction",
+      "chinese-fiction",
+      "dark",
+      "adventurous",
+      "challenging",
+      "mysterious",
+      "reflective",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_454825",
+    "tier": 3,
+    "title": "Hell Followed with Us",
+    "author": "Andrew Joseph White",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "young-adult-fiction",
+      "dark",
+      "emotional",
+      "tense",
+      "adventurous",
+      "sad",
+      "challenging",
+      "hopeful",
+      "mysterious",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_428277",
+    "tier": 3,
+    "title": "The Power",
+    "author": "Naomi Alderman",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "women",
+      "large-type-books",
+      "post-apocalyptic",
+      "literary-fiction",
+      "dark",
+      "tense",
+      "challenging",
+      "reflective",
+      "adventurous",
+      "emotional",
+      "mysterious"
+    ],
+    "existing_tropes": [
+      "coming-of-age"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427363",
+    "tier": 3,
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "science-fantasy",
+      "space",
+      "space-opera",
+      "dystopian",
+      "reflective",
+      "challenging",
+      "mysterious",
+      "sad",
+      "adventurous",
+      "dark",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL59858W",
+    "tier": 3,
+    "title": "The Lathe of Heaven",
+    "author": "Ursula K. Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "classics",
+      "classique",
+      "dystopian",
+      "dreams",
+      "reflective",
+      "mysterious",
+      "dark",
+      "challenging",
+      "tense",
+      "adventurous",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_2073791",
+    "tier": 3,
+    "title": "Cronus",
+    "author": "P. Djèlí Clark",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "lgbtq",
+      "time-travel",
+      "alternate-history",
+      "reflective",
+      "challenging",
+      "dark",
+      "emotional",
+      "hopeful",
+      "inspiring",
+      "mysterious",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_498097",
+    "tier": 3,
+    "title": "I Who Have Never Known Men",
+    "author": "Jacqueline Harpman",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "classics",
+      "speculative-fiction",
+      "literary-fiction",
+      "feminism",
+      "mysterious",
+      "dark",
+      "reflective",
+      "sad",
+      "emotional",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_234539",
+    "tier": 3,
+    "title": "Pet",
+    "author": "Akwaeke Emezi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "philosophy",
+      "lgbtq",
+      "dystopian",
+      "dark",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "reflective",
+      "mysterious",
+      "adventurous",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_465106",
+    "tier": 3,
+    "title": "Some Desperate Glory",
+    "author": "Emily Tesh",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "aliens",
+      "space",
+      "war",
+      "lgbtq",
+      "adventurous",
+      "dark",
+      "tense",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_312460",
+    "tier": 3,
+    "title": "Dune",
+    "author": "Frank Herbert, Brian Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "space-opera",
+      "dystopian",
+      "adventurous",
+      "challenging",
+      "tense",
+      "mysterious",
+      "dark",
+      "reflective",
+      "emotional",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_470676",
+    "tier": 3,
+    "title": "Shards of Earth",
+    "author": "Adrian Tchaikovsky",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "science-fiction-and-fantasy-science-fiction-adventure",
+      "adventurous",
+      "mysterious",
+      "tense",
+      "dark",
+      "emotional",
+      "reflective",
+      "sad"
+    ],
+    "existing_tropes": [
+      "cloning"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_444663",
+    "tier": 3,
+    "title": "Deathless Divide",
+    "author": "Justina Ireland",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "young-adult-fiction",
+      "adventurous",
+      "dark",
+      "emotional",
+      "tense",
+      "sad",
+      "hopeful",
+      "funny",
+      "challenging",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_440909",
+    "tier": 3,
+    "title": "Gearbreakers",
+    "author": "Zoe Hana Mikuta",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "young-adult-fiction",
+      "adventurous",
+      "dark",
+      "emotional",
+      "tense",
+      "funny",
+      "hopeful",
+      "sad",
+      "inspiring",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_258729",
+    "tier": 3,
+    "title": "Anathem",
+    "author": "Neal Stephenson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "space",
+      "aliens",
+      "politics",
+      "disasters",
+      "adventurous",
+      "challenging",
+      "funny",
+      "mysterious",
+      "informative",
+      "tense",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1250823",
+    "tier": 3,
+    "title": "Metal from Heaven",
+    "author": "August Clarke",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "emotional",
+      "adventurous",
+      "dark",
+      "tense",
+      "challenging",
+      "inspiring",
+      "mysterious",
+      "reflective",
+      "hopeful",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_29886",
+    "tier": 3,
+    "title": "The Trial",
+    "author": "Franz Kafka, Breon Mitchell",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "literature",
+      "soviet-union",
+      "psychology",
+      "literature-and-fiction",
+      "german-fiction",
+      "reflective",
+      "mysterious",
+      "dark",
+      "tense",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_89213",
+    "tier": 3,
+    "title": "Ancillary Mercy",
+    "author": "Ann Leckie",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "lgbtq",
+      "aliens",
+      "space-opera",
+      "adventurous",
+      "tense",
+      "dark",
+      "hopeful",
+      "challenging",
+      "reflective",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL893516W",
+    "tier": 3,
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "space-opera",
+      "classique",
+      "dune-imaginary-place",
+      "space",
+      "dystopian",
+      "mysterious",
+      "adventurous",
+      "reflective",
+      "challenging",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_431676",
+    "tier": 3,
+    "title": "The Space Between Worlds",
+    "author": "Micaiah Johnson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "lgbtq",
+      "women",
+      "adventurous",
+      "emotional",
+      "dark",
+      "tense",
+      "mysterious",
+      "challenging",
+      "hopeful",
+      "funny",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_584785",
+    "tier": 3,
+    "title": "Chain-Gang All-Stars",
+    "author": "Nana Kwame Adjei-Brenyah",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "lgbtq",
+      "literature",
+      "african-americans",
+      "race-across-america",
+      "dark",
+      "tense",
+      "emotional",
+      "challenging",
+      "sad",
+      "informative",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_880570",
+    "tier": 3,
+    "title": "Exordia",
+    "author": "Seth Dickinson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "adventurous",
+      "tense",
+      "challenging",
+      "dark",
+      "emotional",
+      "sad",
+      "funny",
+      "informative",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "the_left_hand_of_darkness",
+    "tier": 3,
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "first-contact",
+      "classique",
+      "f-minisme",
+      "friendship",
+      "gay",
+      "lgbtq",
+      "adventurous",
+      "reflective",
+      "emotional",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_735601",
+    "tier": 3,
+    "title": "The Spirit Bares Its Teeth",
+    "author": "Andrew Joseph White",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "dark",
+      "challenging",
+      "tense",
+      "emotional",
+      "mysterious",
+      "sad",
+      "informative",
+      "reflective",
+      "inspiring",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "i_am_legend",
+    "tier": 3,
+    "title": "I am Legend",
+    "author": "Richard Matheson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "post-apocalyptic",
+      "dystopian",
+      "paranormal-and-urban",
+      "dark",
+      "tense",
+      "mysterious",
+      "sad",
+      "reflective",
+      "challenging",
+      "emotional",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_465211",
+    "tier": 3,
+    "title": "Heavenly Tyrant",
+    "author": "Xiran Jay Zhao",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "young-adult-fiction",
+      "lgbtq",
+      "dystopian",
+      "romantasy",
+      "adventurous",
+      "dark",
+      "tense",
+      "emotional",
+      "challenging",
+      "inspiring",
+      "hopeful",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_633258",
+    "tier": 3,
+    "title": "The Saint of Bright Doors",
+    "author": "Vajra Chandrasekera",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "mysterious",
+      "reflective",
+      "challenging",
+      "dark",
+      "adventurous",
+      "tense",
+      "emotional",
+      "funny",
+      "sad",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL1846076W",
+    "tier": 3,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "classics",
+      "control-psychology",
+      "literary-criticism",
+      "community-life",
+      "boys",
+      "reflective",
+      "emotional",
+      "mysterious",
+      "dark",
+      "sad",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_459811",
+    "tier": 3,
+    "title": "Memory's Legion: The Complete Expanse Story Collection",
+    "author": "James S. A. Corey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "dystopian",
+      "aliens",
+      "space-opera",
+      "first-contact",
+      "adventurous",
+      "sad",
+      "reflective",
+      "emotional",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [
+      "space-exploration"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_350457",
+    "tier": 3,
+    "title": "Roadside Picnic",
+    "author": "Arkady Strugatsky, Boris Strugatsky, Olena Bormashenko, Ursula K. Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "aliens",
+      "classics",
+      "alien-contact",
+      "dark",
+      "mysterious",
+      "adventurous",
+      "reflective",
+      "sad",
+      "tense",
+      "emotional",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_507180",
+    "tier": 3,
+    "title": "The Measure",
+    "author": "Nikki Erlick, Julia Whelan",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "friendship",
+      "reflective",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "inspiring",
+      "sad",
+      "mysterious",
+      "funny",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427712",
+    "tier": 3,
+    "title": "Binti",
+    "author": "Nnedi Okorafor, Robin Miles",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "aliens",
+      "war",
+      "lgbtq",
+      "adventurous",
+      "tense",
+      "hopeful",
+      "mysterious",
+      "emotional",
+      "reflective",
+      "dark",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1248670",
+    "tier": 3,
+    "title": "The Ones Who Walk Away from Omelas",
+    "author": "Ursula K. Le Guin",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "conduct-of-life",
+      "classics",
+      "dystopian",
+      "philosophy",
+      "speculative-fiction",
+      "reflective",
+      "challenging",
+      "sad",
+      "dark",
+      "emotional",
+      "tense",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_428638",
+    "tier": 3,
+    "title": "Burn",
+    "author": "Patrick Ness",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "lgbtq",
+      "dystopian",
+      "juvenile-fiction",
+      "action-and-adventure",
+      "adventurous",
+      "challenging",
+      "mysterious",
+      "emotional",
+      "reflective",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [
+      "coming-of-age"
+    ],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_381999",
+    "tier": 3,
+    "title": "The Day of the Triffids",
+    "author": "John Wyndham",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "literature",
+      "aliens",
+      "classics",
+      "blind",
+      "dark",
+      "tense",
+      "adventurous",
+      "reflective",
+      "inspiring",
+      "hopeful",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_438306",
+    "tier": 3,
+    "title": "Remote Control",
+    "author": "Nnedi Okorafor, Adjoa Andoh",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "aliens",
+      "magic",
+      "mysterious",
+      "dark",
+      "adventurous",
+      "reflective",
+      "emotional",
+      "sad",
+      "inspiring",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "alien_clay",
+    "tier": 3,
+    "title": "Alien Clay",
+    "author": "Adrian Tchaikovsky",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "aliens",
+      "adventurous",
+      "mysterious",
+      "dark",
+      "tense",
+      "hopeful",
+      "reflective",
+      "challenging",
+      "emotional",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_381936",
+    "tier": 3,
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "spanish",
+      "classics",
+      "lgbtq-literary-fiction",
+      "artists",
+      "friendship",
+      "dark",
+      "emotional",
+      "reflective",
+      "sad",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1389888",
+    "tier": 3,
+    "title": "Sunrise on the Reaping",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "young-adult-fiction",
+      "distopian",
+      "juvenile-fiction",
+      "emotional",
+      "dark",
+      "sad",
+      "tense",
+      "adventurous",
+      "challenging",
+      "reflective",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427570",
+    "tier": 3,
+    "title": "Dust",
+    "author": "Hugh Howey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "hard-sci-fi",
+      "adventurous",
+      "dark",
+      "mysterious",
+      "tense",
+      "hopeful",
+      "emotional",
+      "inspiring",
+      "reflective",
+      "sad",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1435499",
+    "tier": 3,
+    "title": "Fable for the End of the World",
+    "author": "Ava Reid",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "dark",
+      "emotional",
+      "adventurous",
+      "tense",
+      "reflective",
+      "hopeful",
+      "sad",
+      "challenging",
+      "mysterious",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_428688",
+    "tier": 3,
+    "title": "Aurora Rising",
+    "author": "Amie Kaufman, Jay Kristoff",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "adventurous",
+      "tense",
+      "funny",
+      "emotional",
+      "mysterious",
+      "hopeful",
+      "challenging",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_265922",
+    "tier": 3,
+    "title": "The Invincible",
+    "author": "Stanisław Lem, Bill Johnston",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "aliens",
+      "polish-fiction",
+      "classics",
+      "mysterious",
+      "reflective",
+      "adventurous",
+      "emotional",
+      "challenging",
+      "dark",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_459057",
+    "tier": 3,
+    "title": "Metro 2035",
+    "author": "Dmitry Glukhovsky, Andrew Bromfield",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "dystopian",
+      "juvenile-fiction",
+      "adventurous",
+      "challenging",
+      "dark",
+      "emotional",
+      "hopeful",
+      "inspiring",
+      "lighthearted",
+      "mysterious",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL37570368W",
+    "tier": 3,
+    "title": "The Book of Elsewhere",
+    "author": "Keanu Reeves, China Miéville",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "adventurous",
+      "mysterious",
+      "dark",
+      "reflective",
+      "challenging",
+      "tense",
+      "sad",
+      "hopeful",
+      "emotional",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_361784",
+    "tier": 3,
+    "title": "A Canticle for Leibowitz",
+    "author": "Walter M. Miller Jr.",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "religion",
+      "classics",
+      "sf-social",
+      "science",
+      "war",
+      "speculative-fiction",
+      "reflective",
+      "dark",
+      "tense",
+      "challenging",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "a_canticle_for_leibowitz",
+    "tier": 3,
+    "title": "A Canticle for Leibowitz",
+    "author": "Walter M Miller",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "religion",
+      "classics",
+      "sf-social",
+      "science",
+      "war",
+      "speculative-fiction",
+      "reflective",
+      "dark",
+      "tense",
+      "challenging",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_440196",
+    "tier": 3,
+    "title": "The Prey of Gods",
+    "author": "Nicky Drayden, Prentice Onayemi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "adventurous",
+      "dark",
+      "mysterious",
+      "tense",
+      "inspiring",
+      "funny",
+      "hopeful",
+      "emotional",
+      "reflective",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL52267W",
+    "tier": 3,
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "juvenile-fiction",
+      "literature",
+      "adventurous",
+      "mysterious",
+      "tense",
+      "reflective",
+      "challenging",
+      "dark",
+      "inspiring",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427730",
+    "tier": 3,
+    "title": "The Grace Year",
+    "author": "Kim Liggett",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "young-adult-fiction",
+      "feminism",
+      "femini",
+      "dark",
+      "tense",
+      "emotional",
+      "mysterious",
+      "reflective",
+      "sad",
+      "adventurous",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_110466",
+    "tier": 3,
+    "title": "The Knife of Never Letting Go",
+    "author": "Patrick Ness",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "dystopian",
+      "war",
+      "literary-criticism",
+      "dark",
+      "adventurous",
+      "tense",
+      "challenging",
+      "mysterious",
+      "emotional",
+      "reflective",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_467723",
+    "tier": 3,
+    "title": "Godslayers",
+    "author": "Zoe Hana Mikuta",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "emotional",
+      "inspiring",
+      "hopeful",
+      "dark",
+      "sad",
+      "reflective",
+      "funny",
+      "mysterious",
+      "adventurous",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_208339",
+    "tier": 3,
+    "title": "The Three-Body Problem",
+    "author": "Cixin Liu, Ken Liu",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "aliens",
+      "first-contact",
+      "hard-sci-fi",
+      "space",
+      "mysterious",
+      "challenging",
+      "dark",
+      "adventurous",
+      "tense",
+      "reflective",
+      "informative",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1078966",
+    "tier": 3,
+    "title": "The Mercy of Gods",
+    "author": "James S. A. Corey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "space",
+      "space-opera",
+      "aliens",
+      "dark",
+      "adventurous",
+      "tense",
+      "mysterious",
+      "sad",
+      "emotional",
+      "challenging",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427702",
+    "tier": 3,
+    "title": "Obsidio",
+    "author": "Amie Kaufman, Jay Kristoff",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "young-adult-fiction",
+      "juvenile-fiction",
+      "artificial-intelligence",
+      "sciencefiction",
+      "youngadult",
+      "adventurous",
+      "tense",
+      "emotional",
+      "funny",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "world_war_z",
+    "tier": 3,
+    "title": "World War Z",
+    "author": "Max Brooks",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "speculative-fiction",
+      "post-apocalyptic-horror-thriller-and-suspense-suspense",
+      "war",
+      "humor",
+      "dark",
+      "adventurous",
+      "tense",
+      "emotional",
+      "challenging",
+      "reflective",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_459806",
+    "tier": 3,
+    "title": "Metro 2034",
+    "author": "Dmitry Glukhovsky",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "war",
+      "dystopian",
+      "air-raid-shelters",
+      "literary-collections",
+      "adventurous",
+      "dark",
+      "mysterious",
+      "emotional",
+      "sad",
+      "challenging",
+      "tense",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427993",
+    "tier": 3,
+    "title": "For We Are Many",
+    "author": "Dennis E. Taylor",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "war",
+      "dystopian",
+      "aliens",
+      "humor",
+      "space-opera",
+      "hard-sci-fi",
+      "adventurous",
+      "funny",
+      "emotional",
+      "hopeful",
+      "lighthearted"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_456455",
+    "tier": 3,
+    "title": "How High We Go in the Dark",
+    "author": "Sequoia Nagamatsu",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "sci-fi",
+      "anthology",
+      "emotional",
+      "sad",
+      "reflective",
+      "dark",
+      "challenging",
+      "hopeful",
+      "mysterious",
+      "inspiring",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_574300",
+    "tier": 3,
+    "title": "Bad Feminist",
+    "author": "Roxane Gay, Laurel Lefkow",
+    "genres": [],
+    "book_class": "ambiguous",
+    "existing_tags": [
+      "philosophy",
+      "lgbtq",
+      "spanish",
+      "women",
+      "african-americans-in-mass-media",
+      "funny",
+      "emotional",
+      "reflective",
+      "informative",
+      "challenging",
+      "dark",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_374481",
+    "tier": 3,
+    "title": "Lord of the Flies",
+    "author": "William Golding, E.L. Epstein",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "dystopian",
+      "post-apocalyptic",
+      "literary-collections",
+      "dark",
+      "tense",
+      "adventurous",
+      "reflective",
+      "sad",
+      "challenging",
+      "emotional",
+      "mysterious"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_531720",
+    "tier": 3,
+    "title": "Manacled",
+    "author": "SenLinYu",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "fanfiction",
+      "war",
+      "dystopian",
+      "dark",
+      "sad",
+      "emotional",
+      "tense",
+      "challenging",
+      "mysterious",
+      "adventurous",
+      "hopeful",
+      "reflective"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1083952",
+    "tier": 3,
+    "title": "The Safekeep",
+    "author": "Yael van der Wouden",
+    "genres": [
+      "Historical Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "war",
+      "sapphic",
+      "emotional",
+      "reflective",
+      "tense",
+      "sad",
+      "challenging",
+      "mysterious",
+      "dark",
+      "hopeful",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL19576831W",
+    "tier": 3,
+    "title": "The Paper Menagerie and Other Stories",
+    "author": "Ken Liu",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "sci-fi",
+      "dystopian",
+      "magical-realism",
+      "emotional",
+      "reflective",
+      "challenging",
+      "sad",
+      "dark",
+      "informative",
+      "inspiring",
+      "tense",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_462038",
+    "tier": 3,
+    "title": "System Collapse",
+    "author": "Martha Wells",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "dystopian",
+      "space-colonies",
+      "free-will-and-determinism",
+      "lgbtq",
+      "adventurous",
+      "funny",
+      "tense",
+      "emotional",
+      "hopeful",
+      "lighthearted",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_712451",
+    "tier": 3,
+    "title": "Biography of X",
+    "author": "Catherine Lacey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "mysterious",
+      "reflective",
+      "emotional",
+      "dark",
+      "challenging",
+      "sad",
+      "adventurous",
+      "tense",
+      "inspiring",
+      "built-in"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_440957",
+    "tier": 3,
+    "title": "Finna",
+    "author": "Nino Cipri",
+    "genres": [
+      "Sci-Fi",
+      "sci-fi romance",
+      "Romantasy"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "friendship",
+      "adventurous",
+      "lighthearted",
+      "mysterious",
+      "emotional",
+      "funny",
+      "tense",
+      "reflective",
+      "dark",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1699110",
+    "tier": 3,
+    "title": "Lucky Day",
+    "author": "Chuck Tingle",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "lgbtq",
+      "contemporary",
+      "dark",
+      "mysterious",
+      "adventurous",
+      "tense",
+      "funny",
+      "challenging",
+      "emotional",
+      "hopeful",
+      "informative"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL875437W",
+    "tier": 3,
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "genres": [
+      "Romance",
+      "contemporary romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "contemporary",
+      "classics",
+      "bildungsromans",
+      "social-science",
+      "friendship",
+      "lgbtq",
+      "emotional",
+      "sad",
+      "reflective",
+      "hopeful",
+      "inspiring",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL551015W",
+    "tier": 3,
+    "title": "Fingersmith",
+    "author": "Sarah Waters",
+    "genres": [
+      "Romance",
+      "historical"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "classics",
+      "literature",
+      "london-england",
+      "historical",
+      "fic",
+      "emotional",
+      "mysterious",
+      "tense",
+      "dark",
+      "adventurous",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1203186",
+    "tier": 3,
+    "title": "They Bloom at Night",
+    "author": "Trang Thanh Tran",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "emotional",
+      "sad",
+      "dark",
+      "adventurous",
+      "hopeful",
+      "mysterious",
+      "tense",
+      "challenging",
+      "informative",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20411800W",
+    "tier": 3,
+    "title": "The Deep",
+    "author": "Rivers Solomon, Daveed Diggs, William Hutson, Jonathan Snipes",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dark",
+      "emotional",
+      "reflective",
+      "challenging",
+      "sad",
+      "tense",
+      "hopeful",
+      "adventurous",
+      "mysterious",
+      "inspiring",
+      "female-mc"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL2943602W",
+    "tier": 3,
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "friendship",
+      "humor",
+      "contemporary",
+      "dystopian",
+      "literary-fiction",
+      "challenging",
+      "funny",
+      "sad",
+      "reflective",
+      "dark",
+      "emotional"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_386180",
+    "tier": 3,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genres": [
+      "Romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "young-adult-fiction",
+      "children",
+      "women",
+      "literature",
+      "emotional",
+      "mysterious",
+      "reflective",
+      "dark",
+      "tense",
+      "hopeful",
+      "adventurous"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL81618W",
+    "tier": 3,
+    "title": "The Stand",
+    "author": "Stephen King",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "thriller",
+      "post-apocalyptic",
+      "dystopian",
+      "dark",
+      "adventurous",
+      "tense",
+      "emotional",
+      "mysterious",
+      "challenging",
+      "sad",
+      "reflective",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_436689",
+    "tier": 3,
+    "title": "The Wandering Earth",
+    "author": "Cixin Liu, Ken Liu, Elizabeth Hanlon, Zac Haluza, Adam Lanphier, Holger Nahm",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "hard-sci-fi",
+      "space",
+      "dystopian",
+      "aliens",
+      "comics-and-graphic-novels",
+      "literature",
+      "adventurous",
+      "reflective",
+      "funny",
+      "hopeful",
+      "informative",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_1250837",
+    "tier": 3,
+    "title": "Wild Dark Shore",
+    "author": "Charlotte McConaghy",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "literary-fiction",
+      "dark",
+      "emotional",
+      "mysterious",
+      "sad",
+      "tense",
+      "reflective",
+      "adventurous",
+      "challenging",
+      "informative",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_433339",
+    "tier": 3,
+    "title": "Upright Women Wanted",
+    "author": "Sarah Gailey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "lgbtq",
+      "dystopian",
+      "adventurous",
+      "hopeful",
+      "tense",
+      "emotional",
+      "inspiring",
+      "mysterious",
+      "reflective",
+      "dark",
+      "lighthearted",
+      "challenging"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_438682",
+    "tier": 3,
+    "title": "The Rise of Endymion",
+    "author": "Dan Simmons",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "aliens",
+      "classics",
+      "audio-book",
+      "chemistry",
+      "outer-space",
+      "adventurous",
+      "mysterious",
+      "hopeful",
+      "reflective",
+      "challenging",
+      "tense"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_824780",
+    "tier": 3,
+    "title": "These Burning Stars",
+    "author": "Bethany Jacobs",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "queer",
+      "adventurous",
+      "tense",
+      "dark",
+      "mysterious",
+      "emotional",
+      "hopeful",
+      "challenging",
+      "sad"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20749104W",
+    "tier": 3,
+    "title": "The City in the Middle of the Night",
+    "author": "Charlie Jane Anders",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "space",
+      "lgbtq",
+      "dystopian",
+      "aliens",
+      "first-contact",
+      "emotional",
+      "adventurous",
+      "dark",
+      "mysterious",
+      "reflective",
+      "challenging",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL273644W",
+    "tier": 3,
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "genres": [
+      "Literary Fiction"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "classics",
+      "african-americans",
+      "lgbtq",
+      "friendship",
+      "american-fiction",
+      "native-americans",
+      "emotional",
+      "reflective",
+      "sad",
+      "challenging",
+      "inspiring",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_429096",
+    "tier": 3,
+    "title": "Defy the Night",
+    "author": "Brigid Kemmerer",
+    "genres": [
+      "Fantasy",
+      "fantasy romance"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "dystopian",
+      "corruption",
+      "juvenile-fiction",
+      "adventurous",
+      "emotional",
+      "tense",
+      "challenging",
+      "mysterious",
+      "inspiring",
+      "hopeful",
+      "sad",
+      "dark"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "openlibrary_OL20831165W",
+    "tier": 3,
+    "title": "salt slow",
+    "author": "Julia Armfield",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "women",
+      "lgbtqia",
+      "lgbtq",
+      "dystopian",
+      "dark",
+      "mysterious",
+      "reflective",
+      "emotional",
+      "tense",
+      "challenging",
+      "sad",
+      "funny"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_202662",
+    "tier": 3,
+    "title": "Dread Nation",
+    "author": "Justina Ireland",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "african-americans",
+      "war",
+      "lgbtq",
+      "young-adult-fiction",
+      "alternative-histories-fiction",
+      "dystopian",
+      "adventurous",
+      "tense",
+      "dark",
+      "funny",
+      "hopeful",
+      "inspiring"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  },
+  {
+    "id": "hardcover_427963",
+    "tier": 3,
+    "title": "Shift",
+    "author": "Hugh Howey",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "book_class": "fiction",
+    "existing_tags": [
+      "post-apocalyptic",
+      "dystopian",
+      "jeune-adulte",
+      "mysterious",
+      "adventurous",
+      "tense",
+      "dark",
+      "challenging",
+      "sad",
+      "reflective",
+      "emotional",
+      "hopeful"
+    ],
+    "existing_tropes": [],
+    "user_rating": null
+  }
+]

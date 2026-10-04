@@ -1,0 +1,44 @@
+﻿decision(keep/blank),tier,trope,matched_phrase,book_id,title,author,context
+,A,age-gap,years her senior,hardcover_153730,A Spy In the House of Love,Anaïs Nin,"...old actress married to Alan, a man five years her senior. Alan treats her with a paternal gentle..."
+,A,billionaire-love-interest,billionaire,openlibrary_OL16040506W,Spellbinder,Harold Robbins,"...he end of the line in Texas, a powerful billionaire witnesses Preacher and likes what he se..."
+,A,bodyguard-romance,bodyguard,hardcover_268734,The Scar,China Miéville,"...on of the powerful Uther Doul, who is a bodyguard to the mysterious, scarred leaders of A..."
+,A,love-triangle,love triangle,openlibrary_OL228702W,Giovanni's Room,James Baldwin,"...nce. This now-classic story of a fated love triangle explores, with uncompromising clarity,..."
+,A,love-triangle,love triangle,openlibrary_OL3961056W,George Sand and the nineteenth-century Russian love-triangle novels,Dawn D. Eidelman,...titutes the third character type in the love triangle featured in so many of Sand's novels an...
+,A,love-triangle,love triangle,hardcover_1108154,Twelth Night,William Shakespeare,"...fallen in love with Orsino, creating a love triangle: Viola loves Orsino, Orsino loves Olivi..."
+,A,opposites-attract,couldn't be more different,openlibrary_OL4322177W,Daddy-Long-Legs,Jean Webster,"...cholarship, lives with two roomates who couldn't be more different; and, for the first time in her life, f..."
+,A,rockstar-romance,rock star,openlibrary_OL16040506W,Spellbinder,Harold Robbins,"...nds his new success and status as ""the"" rock star entertainer of big-top religion intoxic..."
+,A,second-chance,rekindled childhood love,openlibrary_OL17926040W,Will you won't you want me?,Nora Zelevansky,"...rself from the most unlikely sources: a rekindled childhood love, a grumpy (but strangely adorable) new..."
+,A,second-chance,rekindles a relationship,hardcover_1463999,Nana 02,Ai Yazawa,"...cating her friendship with Nana O., who rekindles a relationship with her ex-boyfriend Ren, Trapnest's g..."
+,A,shifter-romance,werewolves,fool_moon,Fool Moon,Jim Butcher,"...a confrontation with a gang of teenage werewolves and their pack leader, Tera West. After..."
+,A,single-dad-mom,single mother,hardcover_1489232,The Strange Case of Jane O.,Karen Thompson Walker,"...as Jane O. and finds out that she is a single mother with a one-year-old son, Caleb. She tel..."
+,A,single-dad-mom,single mother,hardcover_29792,About a Boy,"Anne Collins, Nick Hornby","...r a pleasant relationship with Angie, a single mother of two, Will comes up with the idea of..."
+,A,sports-star-romance,basketball star,openlibrary_OL5726063W,This is not civilization,"Rosenberg, Robert","...of Arizona, Adam Dale is a young Apache basketball star and the future hope of his tribe. He st..."
+,A,vampire-romance,vampire,grave_peril,Grave Peril,Jim Butcher,...resent the White Council at a Red Court vampire party. He refuses to allow Susan to acc...
+,A,vampire-romance,vampires,openlibrary_OL5815476W,Vampire Kisses 4,Ellen Schreiber,"...l, the younger sibling of two nefarious vampires, is a full-size menace. Valentine becom..."
+,A,virgin-heroine,her virginity,gather_yourselves_together,Gather Yourselves Together,Philip K Dick,"...near Boston named Castle, Barbara lost her virginity to Verne. In the present, Barbara holds..."
+,A,virgin-heroine,is a virgin,openlibrary_OL17739091W,The innocent's dark seduction,Jennie Lucas,"...ll have her! When he discovers that she is a virgin, taking his prize becomes even sweeter...."
+,B,exes-to-lovers,rekindles a relationship with her ex-boyfriend,hardcover_1463999,Nana 02,Ai Yazawa,"...cating her friendship with Nana O., who rekindles a relationship with her ex-boyfriend Ren, Trapnest's guitarist. Nana K. also..."
+,B,holiday-seasonal-setup,New Year's Eve,hardcover_293245,City of Thieves,"David Benioff, Ron Perlman","...changes to David's grandfather, Lev, on New Year's Eve 1942 in Leningrad, Russia. Food is scar..."
+,B,holiday-seasonal-setup,Christmas,hardcover_185833,Carol,"Claire  Morgan, Patricia Highsmith","...During the Christmas season of 1952, aspiring photographer T..."
+,B,holiday-seasonal-setup,Christmas,hardcover_201990,The Velveteen Rabbit,"Margery Williams Bianco, Toni Raiten-D'Antonio, William   Nicholson",...abbit sewn from velveteen is given as a Christmas present to a small boy. The wisest and...
+,B,holiday-seasonal-setup,Christmas,hardcover_292484,Let It Snow: Three Holiday Romances,"John Green, Lauren Myracle, Maureen Johnson","...ess"" by Maureen Johnson, ""A Cheertastic Christmas Miracle"" by John Green, and ""The Patron..."
+,B,holiday-seasonal-setup,Christmas,hardcover_184260,The Polar Express,Chris Van Allsburg,"...On Christmas Eve, a young boy, hears the sound of a..."
+,B,holiday-seasonal-setup,Christmas,hardcover_542657,19th Christmas,James Patterson,...Christmas is coming upon San Francisco. Detective...
+,B,holiday-seasonal-setup,Christmas,hardcover_29792,About a Boy,"Anne Collins, Nick Hornby","...eople. Will's father wrote a successful Christmas song, the royalties of which have affor..."
+,B,matchmaker-setup-gone-right,matchmaking,openlibrary_OL5685948W,Highland bride,Amanda Scott,"...Once, long ago in Scotland, matchmaking members of the Secret Clan wove magical..."
+,B,royalty,Prince,openlibrary_OL99251W,The mapmaker,Frank G. Slaughter,"...Fra Mauro, Bartholomeu di Perestrello, Prince Henry of Portugal, a Norse ship-master..."
+,B,royalty,Earl of,openlibrary_OL1386746W,Nothing like the sun,Anthony Burgess,"...rk. Was, for instance, his love for the Earl of South Hampton really platonic? Did he l..."
+,B,royalty,Prince,openlibrary_OL5719394W,To catch a prince,Gillian McKnight,...eir friendship and winning the heart of Prince William....
+,B,royalty,Prince,openlibrary_OL48538W,Kate Hannigan,Catherine Cookson,"...moment he lays eyes on Kate, Dr. Rodney Prince is enchanted.** He senses in this pover..."
+,B,royalty,Prince,hardcover_367930,Prince Caspian,"C. S. Lewis, Pauline Baynes","...brother, King Caspian IX, the father of Prince Caspian. Caspian escaped from Miraz's..."
+,B,royalty,Prince,hardcover_154097,The Voyage of the Dawn Treader,"C. S. Lewis, Pauline Baynes",...elped to regain the throne of Narnia in Prince Caspian. Also present on board are the...
+,B,royalty,Prince,hardcover_1927968,The Innocent Mage,Karen Miller,"...soon made an assistant to the magicless Prince Gar, who is the mediator between the Ol..."
+,B,royalty,Duke,hardcover_239223,Tris's Book,Tamora Pierce,...ed by a new weapon called black powder. Duke Vedris visits the temple and informs Sa...
+,B,royalty,Duke,hardcover_177345,Katherine,Anya Seton,"...e story of Katherine Swynford and John, Duke of Lancaster. They meet when she first..."
+,B,royalty,Prince,hardcover_1135624,"To Green Angel Tower, Part 1",Tad Williams,...The story begins with the forces of Prince Josua Lackhand rallied at the Stone of...
+,B,royalty,crown prince,hardcover_185926,Oath of Swords,David Weber,...being raped and brutally beaten by the crown prince Harnak. He attacks Harnak and frees Far...
+,B,royalty,Duke,hardcover_1474549,Written on the Dark,Guy Gavriel Kay,"...gation into the brutal murder of Rollin Duke de Montereau (inspired by Louis I), bro..."
+,B,royalty,Duke,hardcover_210964,The Prisoner of Zenda,Anthony Hope,"...udolf V's younger half-brother Michael, Duke of Strelsau, sees to it he is presented..."
+,B,royalty,Duke,hardcover_1108154,Twelth Night,William Shakespeare,...named Cesario and enters the service of Duke Orsino. Orsino has convinced himself he...
+,B,royalty,Earl of,hardcover_146591,False Colours,"Georgette Heyer, Georgette Heyer","...nna and learns that his brother Evelyn, Earl of Denville, has been missing for a number..."
+,B,royalty,Duke,hardcover_1113667,The Bastard and the Heir,"Eden Finley, Saxon James","...egitimate son of James Amberly, the 6th Duke of Kent, travels with his mother, Marie..."

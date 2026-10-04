@@ -1,0 +1,8 @@
+[2026-07-22 18:16:11] scheduled: sleeping 3.7h until 2026-07-22 22:00
+[2026-07-22 22:00:00] supervisor up: range 1301-2000, delay 3s, cooldown 3600s, max 12 restarts / 12.0h
+[2026-07-22 22:00:00] cycle 1: starting scraper (0 of 700 ids done)
+[2026-07-22 22:00:00]   scraper exited rc=3221225794; +0 ids this cycle (0/700)
+[2026-07-22 22:00:00]   cooling off 60 min before restart
+[2026-07-22 23:00:00] cycle 2: starting scraper (0 of 700 ids done)
+[2026-07-22 23:00:00]   scraper exited rc=3221225794; +0 ids this cycle (0/700)
+[2026-07-22 23:00:00]   cooling off 60 min before restart

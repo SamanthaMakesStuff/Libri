@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "C:\Users\Samantha\BookRec\enrich.py", line 120, in <module>
+    args = p.parse_args()
+  File "C:\Users\Samantha\BookRec\enrich.py", line 116, in main
+  File "C:\Users\Samantha\BookRec\enrich.py", line 39, in cmd_ol_ingest
+    if args.editions_only:
+  File "C:\Users\Samantha\BookRec\enrich_ol.py", line 213, in ingest
+    "nt": nt, "akeys": akeys,
+  File "C:\Users\Samantha\BookRec\enrich_ol.py", line 91, in iter_dump
+    for line in f:
+  File "C:\Users\Samantha\AppData\Local\Programs\Python\Python310\lib\gzip.py", line 314, in read1
+    return self._buffer.read1(size)
+  File "C:\Users\Samantha\AppData\Local\Programs\Python\Python310\lib\_compression.py", line 68, in readinto
+    data = self.read(len(byte_view))
+  File "C:\Users\Samantha\AppData\Local\Programs\Python\Python310\lib\gzip.py", line 496, in read
+    uncompress = self._decompressor.decompress(buf, size)
+zlib.error: Error -3 while decompressing data: invalid block type

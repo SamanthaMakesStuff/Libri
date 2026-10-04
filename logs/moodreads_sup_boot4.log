@@ -1,0 +1,8 @@
+[2026-07-23 22:18:00] supervisor up: range 2001-2700, delay 3s, cooldown 3600s, max 12 restarts / 12.0h
+[2026-07-23 22:18:00] cycle 1: starting scraper (0 of 700 ids done)
+[2026-07-24 09:55:00]   scraper exited rc=0; +615 ids this cycle (615/700)
+[2026-07-24 09:55:00]   cooling off 60 min before restart
+[2026-07-24 10:55:02] cycle 2: starting scraper (615 of 700 ids done)
+[2026-07-24 11:01:00]   scraper exited rc=0; +85 ids this cycle (700/700)
+[2026-07-24 11:01:00] range fully covered - done.
+[2026-07-24 11:01:00] supervisor finished.

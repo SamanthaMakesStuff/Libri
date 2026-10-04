@@ -1,0 +1,5 @@
+[2026-07-22 23:11:20] supervisor up: range 1301-2000, delay 3s, cooldown 3600s, max 12 restarts / 12.0h
+[2026-07-22 23:11:20] cycle 1: starting scraper (3 of 700 ids done)
+[2026-07-23 11:38:23]   scraper exited rc=0; +611 ids this cycle (614/700)
+[2026-07-23 11:38:23] time budget spent - stopping.
+[2026-07-23 11:38:23] supervisor finished.

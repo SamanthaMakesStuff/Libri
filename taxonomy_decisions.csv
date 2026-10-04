@@ -1,0 +1,433 @@
+raw_term,frequency,suggested_slug,suggested_display,score,decision,reason
+biography & autobiography,1313,autobiography,autobiography,0.91,remap:biography,covers both; biography is the broader subject
+detective and mystery stories,407,detective-fiction,detective fiction,0.807,accept,same concept as detective fiction
+literature & fiction,402,literary-fiction,Literary Fiction,0.965,reject,broad shelf label meaning all fiction
+thriller & suspense,329,thriller,Thriller,0.87,accept,same genre
+royalty,317,secret-royalty,secret royalty,0.802,reject,royalty != SECRET royalty; distinct concept
+english fiction,258,literary-fiction,Literary Fiction,0.85,reject,"language/nationality shelf label, not a genre"
+historical,228,history,history,0.862,reject,fiction adjective != 'history' nonfiction subject
+occult,202,occult-horror,occult horror,0.846,reject,broader than occult horror; can be nonfiction
+fairy tales,186,fairy-tale-retelling,fairy tale retelling,0.816,reject,fairy tales != retellings of them
+american fiction,183,domestic-fiction,Domestic fiction,0.826,reject,"nationality shelf label, not a genre"
+science fiction,164,sci-fi,Sci-Fi,0.822,accept,exact genre synonym
+literary,159,literary-fiction,Literary Fiction,0.848,accept,shorthand for literary fiction
+thrillers,147,thriller,Thriller,0.911,accept,plural
+Forbidden Romance,145,forbidden-love,forbidden love,0.815,accept,same trope as forbidden love
+Epic Fantasy,111,epic-high-fantasy,Epic/high fantasy,0.885,accept,same subgenre
+litrpg,111,lit-rpg-game-lit,LitRPG/GameLit,0.841,accept,same subgenre
+epic fantasy,107,epic-high-fantasy,Epic/high fantasy,0.885,accept,same subgenre
+gothic,101,gothic-horror,Gothic horror,0.858,reject,broader than Gothic horror (gothic romance/fiction)
+genre fiction,101,literary-fiction,Literary Fiction,0.836,reject,genre fiction is the OPPOSITE of literary fiction
+teen & young adult,90,young-adult,Young Adult,0.862,accept,same age category
+crime mystery & thriller,89,serial-killer-thriller,serial killer thriller,0.833,remap:thriller,"broad shelf label, not serial-killer subgenre"
+high fantasy,84,low-fantasy,low fantasy,0.841,remap:epic-high-fantasy,suggestion was 'low fantasy' — OPPOSITE
+cozy,84,cozy-fantasy,cozy fantasy,0.815,reject,ambiguous: cozy mystery vs cozy fantasy
+detective,79,serial-detective,serial detective,0.867,reject,broader than 'serial detective'
+espionage,79,espionage-double-agent,espionage/double agent,0.801,accept,same trope
+mystery thriller,77,psychological-thriller,psychological thriller,0.842,remap:thriller,suggestion was over-specific
+psychological,69,psychology,psychology,0.871,reject,fiction adjective != 'psychology' subject
+supernatural,68,supernatural-horror,supernatural horror,0.87,reject,broader than supernatural horror
+mystery & detective,63,serial-detective,serial detective,0.853,remap:detective-fiction,suggestion was over-specific
+Hidden Identity,53,secret-identity,secret identity,0.854,accept,same trope as secret identity
+political,52,politics,politics,0.922,accept,same subject
+fae,51,fae-fantasy,fae fantasy,0.872,accept,same subgenre marker
+Complicated Romance,50,romance,Romance,0.815,reject,too vague to alias onto Romance
+dystopias,50,dystopian,dystopian,0.877,accept,plural
+Grumpy-Sunshine Dynamic,47,grumpy-sunshine,grumpy/sunshine,0.837,accept,same trope
+Dystopian Society,47,dystopian,dystopian,0.938,accept,same concept
+fake relationship,43,fake-relationship-fake-engagement,fake relationship/fake engagement,0.802,accept,same trope
+erotic romance,43,erotica,erotica,0.828,accept,same subgenre as erotica
+hard science fiction,42,hard-sci-fi,Hard sci-fi,0.864,accept,same subgenre
+Ancient & Forbidden Magic,42,forbidden-magic,forbidden magic,0.84,accept,same trope
+Quest for Revenge,39,revenge-plot,revenge plot,0.808,accept,same trope as revenge plot
+hidden identity,39,secret-identity,secret identity,0.854,accept,same trope as secret identity
+Multiple Timelines,36,dual-timeline,dual timeline,0.855,accept,same structural device as dual timeline
+crime,35,true-crime,true crime,0.82,reject,crime fiction != TRUE crime (nonfiction)
+crime / thriller,35,serial-killer-thriller,serial killer thriller,0.856,remap:thriller,suggestion was over-specific
+crime fiction,34,detective-fiction,detective fiction,0.844,accept,same subgenre as detective fiction
+fantasy & science fiction,34,science-fantasy,science fantasy,0.844,remap:science-fantasy,combined shelf -> science fantasy
+science-fiction,32,sci-fi,Sci-Fi,0.822,accept,hyphen variant
+mm romance,32,romance,Romance,0.803,reject,queer-specific; collapsing to generic Romance loses meaning
+YA Fantasy,31,fantasy,Fantasy,0.862,reject,collapsing to Fantasy loses the YA age category
+Dragon Rider Fantasy,30,dragon-fantasy,dragon fantasy,0.835,accept,same subgenre as dragon fantasy
+biographical fiction,30,biographical-historical-fiction,biographical historical fiction,0.928,accept,same subgenre
+single parent,27,single-dad-mom,single dad/mom,0.825,accept,same trope as single dad/mom
+science fiction fantasy,27,science-fantasy,science fantasy,0.86,remap:science-fantasy,combined shelf -> science fantasy
+multiple pov's,25,multiple-pov,multiple POV,0.942,accept,punctuation variant
+Gothic Fantasy,24,gothic-horror,Gothic horror,0.888,remap:dark-fantasy,suggestion was Gothic HORROR; this is fantasy
+single pov,24,multiple-pov,multiple POV,0.88,reject,suggestion was 'multiple POV' — the OPPOSITE
+Ancient Prophecy,24,prophecy,Prophecy,0.863,accept,same trope
+YA Romance,24,romance,Romance,0.866,reject,collapsing to Romance loses the YA age category
+spirituality,24,spirituality-religion,spirituality/religion,0.911,accept,same subject
+military fiction,22,war-fiction,War fiction,0.849,reject,not necessarily WAR fiction
+alternative histories (fiction),21,historical-fiction,Historical Fiction,0.801,reject,alt-history != historical fiction
+sword & sorcery,21,sword-and-sorcery,sword and sorcery,0.964,accept,ampersand variant
+paranormal fiction,20,paranormal-romance,paranormal romance,0.819,reject,not necessarily paranormal ROMANCE
+family saga,19,family-saga-across-generations,family saga across generations,0.844,accept,same trope
+fairytale retelling,19,fairy-tale-retelling,fairy tale retelling,0.959,accept,spacing variant
+secret heir/royalty,19,secret-heir-lost-heir-secret-royalty,secret heir / lost heir / secret royalty,0.947,accept,same trope
+spy thriller,19,spy-espionage-thriller,spy/espionage thriller,0.915,accept,same subgenre
+inspirational,19,inspiring,inspiring,0.814,reject,inspirational fiction != 'inspiring' mood
+fantasy; litrpg,19,lit-rpg-game-lit,LitRPG/GameLit,0.802,accept,same subgenre
+grumpy x sunshine,18,grumpy-sunshine,grumpy/sunshine,0.888,accept,same trope
+lockedRoom,16,locked-room-mystery,locked-room mystery,0.859,accept,camelCase variant
+Generational Saga,16,generation-spanning-saga,generation-spanning saga,0.839,accept,same trope
+harem,16,reverse-harem,reverse harem,0.845,reject,harem != REVERSE harem
+multiple timelines,15,dual-timeline,dual timeline,0.855,accept,same structural device as dual timeline
+dual pov,14,dual-multiple-pov-structure,dual/multiple POV structure,0.809,reject,dual != multiple; keep distinct
+fantasy & magic,14,fantasy,Fantasy,0.806,reject,broad shelf label
+Soul Mates,13,soulmates,soulmates,0.914,accept,spacing variant
+assassination,13,assassination-plot,assassination plot,0.864,accept,same trope
+sagas,13,saga,saga,0.919,accept,plural
+thrillers & mystery,13,thriller,Thriller,0.868,accept,plural/compound of Thriller
+crime thriller,12,serial-killer-thriller,serial killer thriller,0.856,remap:thriller,suggestion was over-specific
+Whodunnit Mystery,12,whodunit,whodunit,0.817,accept,spelling variant
+social psychology,12,psychology,psychology,0.824,reject,narrower academic field than 'psychology'
+scifi,11,sci-fi,Sci-Fi,0.936,accept,spelling variant
+First Contact with Alien Species,11,first-contact-with-aliens,first contact with aliens,0.917,accept,same trope
+Grimdark Fantasy,11,grimdark,grimdark,0.832,accept,same subgenre
+fiction / fantasy / epic,11,epic-high-fantasy,Epic/high fantasy,0.801,remap:epic-high-fantasy,compound shelf label
+dragon romance,11,dragon-fantasy,dragon fantasy,0.839,reject,"romance, not the dragon-fantasy subgenre"
+reverse harem / why choose,11,reverse-harem,reverse harem,0.877,accept,same subgenre
+ya fantasy,11,fantasy,Fantasy,0.862,reject,collapsing to Fantasy loses the YA age category
+religion & spirituality,11,spirituality-religion,spirituality/religion,0.892,accept,not confidently the same concept
+thrillers & suspense,11,thriller,Thriller,0.849,accept,not confidently the same concept
+war novels,11,war-fiction,War fiction,0.85,accept,not confidently the same concept
+magic school,11,magic-school-magical-academy,magic school / magical academy,0.902,accept,not confidently the same concept
+dual-pov,11,dual-multiple-pov-structure,dual/multiple POV structure,0.809,accept,not confidently the same concept
+philosophical,10,philosophy,philosophy,0.896,accept,not confidently the same concept
+dark lord,10,the-dark-lord-ultimate-evil,the dark lord/ultimate evil,0.803,accept,not confidently the same concept
+fiction / fantasy / dark fantasy,10,dark-fantasy,dark fantasy,0.89,accept,not confidently the same concept
+Mythological Retelling,10,mythology-retelling,mythology retelling,0.951,accept,very high similarity (0.95)
+dystopian fiction,10,dystopian,dystopian,0.82,accept,not confidently the same concept
+fiction / literary,10,literary-fiction,Literary Fiction,0.986,accept,very high similarity (0.99)
+occult fiction,10,occult-horror,occult horror,0.823,reject,not confidently the same concept
+paranormal romance stories,10,paranormal-romance,paranormal romance,0.898,accept,not confidently the same concept
+psychology & philosophy,10,psychology,psychology,0.804,reject,not confidently the same concept
+mysteries,9,mystery,Mystery,0.843,accept,not confidently the same concept
+empire,9,galactic-empire,galactic empire,0.822,reject,not confidently the same concept
+Cowboy Romance,9,cowboy-western-romance,cowboy/western romance,0.896,accept,not confidently the same concept
+literature & fiction:genre fiction:literary fiction,9,literary-fiction,Literary Fiction,0.865,accept,not confidently the same concept
+ancient,9,ancient-world,ancient world,0.855,reject,not confidently the same concept
+emotions,9,emotional,emotional,0.884,reject,not confidently the same concept
+wellness,9,health-and-wellness,health & wellness,0.911,accept,not confidently the same concept
+detective and mystery fiction,9,detective-fiction,detective fiction,0.921,accept,not confidently the same concept
+athlete romance,9,sports-romance,sports romance,0.903,accept,not confidently the same concept
+space colonies,9,space-colonization,space colonization,0.816,reject,not confidently the same concept
+Social Commentary,8,class-social-commentary,class/social commentary,0.867,accept,not confidently the same concept
+Hard Science Fiction,8,hard-sci-fi,Hard sci-fi,0.864,accept,same subgenre
+post-apocalyptic earth,8,post-apocalyptic,post-apocalyptic,0.899,accept,not confidently the same concept
+Single Parent,8,single-dad-mom,single dad/mom,0.825,accept,same trope as single dad/mom
+demon romance,8,demon-angel-romance,demon/angel romance,0.894,accept,not confidently the same concept
+apocalyptic & post-apocalyptic,8,post-apocalyptic,post-apocalyptic,0.946,accept,very high similarity (0.95)
+serial murderers,8,serial-killer,serial killer,0.84,accept,not confidently the same concept
+romance; fantasy,8,romance,Romance,0.837,accept,not confidently the same concept
+not dark romance,8,dark-romance,dark romance,0.897,remap:romance,not confidently the same concept
+reflective and emotional,8,reflective,reflective,0.841,reject,not confidently the same concept
+supernatural thriller,7,supernatural-horror,supernatural horror,0.872,remap:supernatural-thriller,not confidently the same concept
+exploration,7,space-exploration,space exploration,0.816,reject,not confidently the same concept
+colonialism,7,colonial-postcolonial,colonial/postcolonial,0.823,reject,not confidently the same concept
+apocalypse,7,apocalyptic,apocalyptic,0.855,accept,not confidently the same concept
+thriller & suspense|romance,7,romantic-suspense,romantic suspense,0.841,accept,not confidently the same concept
+love & romance,7,romance,Romance,0.9,accept,not confidently the same concept
+religion / spirituality,7,spirituality-religion,spirituality/religion,0.892,accept,not confidently the same concept
+military science fiction,7,military-sci-fi,military sci-fi,0.908,accept,not confidently the same concept
+fantasy games,7,fantasy,Fantasy,0.805,accept,not confidently the same concept
+crime & thriller,7,serial-killer-thriller,serial killer thriller,0.856,accept,not confidently the same concept
+cookbooks,7,food-writing-cookbooks,food writing/cookbooks,0.832,accept,not confidently the same concept
+forbidden romance,7,forbidden-love,forbidden love,0.815,accept,same trope as forbidden love
+romance; fantasy; paranormal,7,paranormal-romance,paranormal romance,0.919,accept,not confidently the same concept
+grovel,7,grovel-arc,grovel arc,0.807,accept,not confidently the same concept
+hilarious,7,funny,funny,0.81,accept,not confidently the same concept
+tragic,6,tragic-past,tragic past,0.803,reject,not confidently the same concept
+biographies,6,biography,biography,0.834,accept,not confidently the same concept
+slightly dark romance,6,dark-romance,dark romance,0.891,accept,not confidently the same concept
+fiction / fantasy / paranormal,6,paranormal-romance,paranormal romance,0.809,reject,not confidently the same concept
+fairy tales.,6,fairy-tale-retelling,fairy tale retelling,0.816,reject,not confidently the same concept
+women's history,6,hidden-history-untold-women-s-history,hidden history / untold women's history,0.817,reject,not confidently the same concept
+fiction - science fiction,5,literary-fiction,Literary Fiction,0.803,remap:sci-fi,low-frequency tail; left as proposed (safe)
+multiple worlds,5,different-worlds,different worlds,0.829,reject,low-frequency tail; left as proposed (safe)
+mentor,5,mentor-mentee,mentor/mentee,0.809,reject,low-frequency tail; left as proposed (safe)
+demoniac possession,5,demon-possession,demon/possession,0.837,accept,low-frequency tail; left as proposed (safe)
+occult & supernatural,5,occult-horror,occult horror,0.835,reject,low-frequency tail; left as proposed (safe)
+memoir-biography,5,memoir,Memoir,0.817,remap:biography,low-frequency tail; left as proposed (safe)
+fiction & literature,5,literary-fiction,Literary Fiction,0.953,accept,very high similarity (0.95)
+amnesiacs,5,amnesia,amnesia,0.856,reject,low-frequency tail; left as proposed (safe)
+mystery; thrillers,5,thriller,Thriller,0.837,reject,low-frequency tail; left as proposed (safe)
+fiction / science fiction / space opera,5,space-opera,space opera,0.866,remap:space-opera,low-frequency tail; left as proposed (safe)
+fiction / fantasy / urban,5,urban-fantasy,urban fantasy,0.886,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction,5,paranormal-romance,paranormal romance,0.898,accept,low-frequency tail; left as proposed (safe)
+One Bed,4,only-one-bed,only one bed,0.92,accept,low-frequency tail; left as proposed (safe)
+polyamorous,4,polyamory,polyamory,0.918,accept,low-frequency tail; left as proposed (safe)
+portal,4,portal-fantasy,portal fantasy,0.836,accept,low-frequency tail; left as proposed (safe)
+medieval kingdom,4,medieval,medieval,0.809,accept,low-frequency tail; left as proposed (safe)
+fantasy - epic,4,epic-high-fantasy,Epic/high fantasy,0.863,accept,low-frequency tail; left as proposed (safe)
+light-hearted,4,lighthearted,lighthearted,0.808,accept,low-frequency tail; left as proposed (safe)
+YA Mystery,4,mystery,Mystery,0.857,reject,low-frequency tail; left as proposed (safe)
+horror; thrillers,4,thriller,Thriller,0.843,remap:horror,low-frequency tail; left as proposed (safe)
+biography & autobiography / personal memoirs,4,autobiography,autobiography,0.818,accept,low-frequency tail; left as proposed (safe)
+narrative non-fiction,4,narrative-nonfiction,narrative nonfiction,0.82,reject,low-frequency tail; left as proposed (safe)
+utopias,4,utopian,utopian,0.919,accept,low-frequency tail; left as proposed (safe)
+fantasy; literary fiction,4,literary-fiction,Literary Fiction,0.846,reject,low-frequency tail; left as proposed (safe)
+virtual reality,4,virtual-reality-world,virtual reality world,0.888,accept,low-frequency tail; left as proposed (safe)
+dystopian present or future,4,dystopian,dystopian,0.818,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / romantic comedy,4,romantic-comedy,romantic comedy,0.896,accept,low-frequency tail; left as proposed (safe)
+epic; dark fantasy,4,dark-fantasy,dark fantasy,0.922,accept,low-frequency tail; left as proposed (safe)
+genre: sci-fi,4,sci-fi,Sci-Fi,0.834,accept,low-frequency tail; left as proposed (safe)
+fiction / fairy tales,4,fairy-tale-retelling,fairy tale retelling,0.812,reject,low-frequency tail; left as proposed (safe)
+fiction / romance / contemporary,4,contemporary-romance,Contemporary romance,0.897,accept,low-frequency tail; left as proposed (safe)
+science fiction/fantasy,4,science-fantasy,science fantasy,0.86,accept,low-frequency tail; left as proposed (safe)
+political | court intrigue,4,court-intrigue,court intrigue,0.87,accept,low-frequency tail; left as proposed (safe)
+gay romance,4,lgbtq-romance,LGBTQ+ romance,0.809,accept,low-frequency tail; left as proposed (safe)
+occultism,4,occult-horror,occult horror,0.816,reject,low-frequency tail; left as proposed (safe)
+Dragon Mythology,3,dragon-fantasy,dragon fantasy,0.825,reject,low-frequency tail; left as proposed (safe)
+Virtual Reality Universe,3,virtual-reality-world,virtual reality world,0.87,accept,low-frequency tail; left as proposed (safe)
+general & literary fiction,3,literary-fiction,Literary Fiction,0.848,accept,low-frequency tail; left as proposed (safe)
+Environmental Collapse,3,environmental-collapse-narrative,environmental collapse narrative,0.881,accept,low-frequency tail; left as proposed (safe)
+Flintlock Fantasy,3,flintlock-gaslamp-fantasy,flintlock/gaslamp fantasy,0.839,accept,low-frequency tail; left as proposed (safe)
+Deal with the Devil,3,deal-with-a-devil-demon,deal with a devil/demon,0.874,accept,low-frequency tail; left as proposed (safe)
+dark academia romance,3,dark-academia,dark academia,0.853,accept,low-frequency tail; left as proposed (safe)
+celebrity / rockstar romance,3,rockstar-romance,rockstar romance,0.843,accept,low-frequency tail; left as proposed (safe)
+supernatural fiction,3,supernatural-horror,supernatural horror,0.842,reject,low-frequency tail; left as proposed (safe)
+sci-fi / thriller,3,thriller,Thriller,0.885,accept,low-frequency tail; left as proposed (safe)
+medieval history,3,medieval,medieval,0.857,reject,low-frequency tail; left as proposed (safe)
+alien contact,3,first-contact-with-aliens,first contact with aliens,0.814,reject,low-frequency tail; left as proposed (safe)
+adventure thriller,3,action-thriller,action thriller,0.837,reject,low-frequency tail; left as proposed (safe)
+travel writing & commentary,3,travel-writing,travel writing,0.81,accept,low-frequency tail; left as proposed (safe)
+thrillers; young adult,3,thriller,Thriller,0.811,reject,low-frequency tail; left as proposed (safe)
+serial murders,3,serial-killer,serial killer,0.857,accept,low-frequency tail; left as proposed (safe)
+cyberpunk fiction,3,cyberpunk,cyberpunk,0.861,accept,low-frequency tail; left as proposed (safe)
+forced proximity tension,3,forced-proximity,forced proximity,0.809,accept,low-frequency tail; left as proposed (safe)
+space opera; hard science fiction,3,space-opera,space opera,0.828,accept,low-frequency tail; left as proposed (safe)
+fiction / gothic,3,gothic-horror,Gothic horror,0.84,reject,low-frequency tail; left as proposed (safe)
+multiverse,3,parallel-universe-multiverse,parallel universe / multiverse,0.826,accept,low-frequency tail; left as proposed (safe)
+medium dark romance,3,dark-romance,dark romance,0.896,accept,low-frequency tail; left as proposed (safe)
+romance; contemporary; literature & fiction,3,contemporary-romance,Contemporary romance,0.841,accept,low-frequency tail; left as proposed (safe)
+romance; urban; paranormal,3,paranormal-romance,paranormal romance,0.878,accept,low-frequency tail; left as proposed (safe)
+cybernetics,2,cybernetic-enhancement,cybernetic enhancement,0.818,accept,low-frequency tail; left as proposed (safe)
+['science fiction'],2,sci-fi,Sci-Fi,0.822,accept,low-frequency tail; left as proposed (safe)
+clone,2,cloning,cloning,0.861,accept,low-frequency tail; left as proposed (safe)
+victorian era,2,victorian,Victorian,0.892,accept,low-frequency tail; left as proposed (safe)
+sci-fi; post-apocalypse,2,post-apocalyptic,post-apocalyptic,0.806,accept,low-frequency tail; left as proposed (safe)
+spiritual,2,spirituality-religion,spirituality/religion,0.811,accept,low-frequency tail; left as proposed (safe)
+parallel universe,2,parallel-universe-multiverse,parallel universe / multiverse,0.908,accept,low-frequency tail; left as proposed (safe)
+urban fiction,2,urban-fantasy,urban fantasy,0.805,reject,low-frequency tail; left as proposed (safe)
+epic; fantasy,2,epic-high-fantasy,Epic/high fantasy,0.885,accept,low-frequency tail; left as proposed (safe)
+surveillance,2,surveillance-state,surveillance state,0.837,reject,low-frequency tail; left as proposed (safe)
+fiction / occult & supernatural,2,occult-horror,occult horror,0.804,reject,low-frequency tail; left as proposed (safe)
+Solarpunk Future,2,solarpunk,solarpunk,0.856,accept,low-frequency tail; left as proposed (safe)
+Parallel Universes,2,parallel-universe-multiverse,parallel universe / multiverse,0.903,accept,low-frequency tail; left as proposed (safe)
+Multiverse Theory,2,parallel-universe-multiverse,parallel universe / multiverse,0.816,accept,low-frequency tail; left as proposed (safe)
+paranormal fantasy,2,paranormal-romance,paranormal romance,0.814,reject,low-frequency tail; left as proposed (safe)
+co-parenting romance,2,single-parent-romance,single parent romance,0.844,reject,low-frequency tail; left as proposed (safe)
+very dark romance,2,dark-romance,dark romance,0.928,accept,low-frequency tail; left as proposed (safe)
+post-apocalypse,2,post-apocalyptic,post-apocalyptic,0.869,accept,low-frequency tail; left as proposed (safe)
+coming-of-age story,2,coming-of-age,Coming of age,0.853,accept,low-frequency tail; left as proposed (safe)
+lgbtq-fantasy,2,lgbtq-romance,LGBTQ+ romance,0.811,reject,low-frequency tail; left as proposed (safe)
+teachers,2,teacher-student,teacher/student,0.807,reject,low-frequency tail; left as proposed (safe)
+disappeared persons,2,missing-person,missing person,0.82,accept,low-frequency tail; left as proposed (safe)
+authors > fiction,2,literary-fiction,Literary Fiction,0.845,accept,low-frequency tail; left as proposed (safe)
+fantasy / ya,2,fantasy,Fantasy,0.906,reject,low-frequency tail; left as proposed (safe)
+creative nonfiction,2,narrative-nonfiction,narrative nonfiction,0.811,reject,low-frequency tail; left as proposed (safe)
+american western romance,2,cowboy-western-romance,cowboy/western romance,0.84,accept,low-frequency tail; left as proposed (safe)
+graphic memoir,2,memoir,Memoir,0.808,reject,low-frequency tail; left as proposed (safe)
+cookbook,2,food-writing-cookbooks,food writing/cookbooks,0.8,accept,low-frequency tail; left as proposed (safe)
+hostage negotiations,2,hostage-situation,hostage situation,0.879,accept,low-frequency tail; left as proposed (safe)
+conspiracy theories,2,conspiracy,conspiracy,0.811,accept,low-frequency tail; left as proposed (safe)
+fiction / crime,2,true-crime-adjacent-fiction,true crime-adjacent fiction,0.805,accept,low-frequency tail; left as proposed (safe)
+erotic art,2,erotica,erotica,0.831,accept,low-frequency tail; left as proposed (safe)
+romantic suspense fiction,2,romantic-suspense,romantic suspense,0.925,accept,low-frequency tail; left as proposed (safe)
+biographical,2,biography,biography,0.86,accept,low-frequency tail; left as proposed (safe)
+cozy mystery stories,2,cozy-mystery,Cozy mystery,0.866,accept,low-frequency tail; left as proposed (safe)
+non-fiction; history,2,historical-fiction,Historical Fiction,0.824,reject,low-frequency tail; left as proposed (safe)
+timelines,2,alternate-timeline,alternate timeline,0.81,reject,low-frequency tail; left as proposed (safe)
+nonfiction and memoir,2,narrative-nonfiction,narrative nonfiction,0.829,reject,low-frequency tail; left as proposed (safe)
+contemporary sci-fi,2,sci-fi,Sci-Fi,0.854,accept,low-frequency tail; left as proposed (safe)
+fairy tale,2,fairy-tale-retelling,fairy tale retelling,0.819,reject,low-frequency tail; left as proposed (safe)
+colonialism & post-colonialism,2,colonial-postcolonial,colonial/postcolonial,0.869,reject,low-frequency tail; left as proposed (safe)
+best friends to lovers,2,friends-to-lovers,friends to lovers,0.854,accept,low-frequency tail; left as proposed (safe)
+paranormal erotic romance,2,paranormal-romance,paranormal romance,0.914,accept,low-frequency tail; left as proposed (safe)
+fiction / classics,2,historical-fiction,Historical Fiction,0.814,reject,low-frequency tail; left as proposed (safe)
+fiction / romance / lgbtq+ / gay,2,lgbtq-romance,LGBTQ+ romance,0.808,accept,low-frequency tail; left as proposed (safe)
+modern romance,2,contemporary-romance,Contemporary romance,0.875,accept,low-frequency tail; left as proposed (safe)
+space opera; adventure,2,space-opera,space opera,0.885,accept,low-frequency tail; left as proposed (safe)
+ancient history,2,ancient-world,ancient world,0.812,reject,low-frequency tail; left as proposed (safe)
+parallel universes,2,parallel-universe-multiverse,parallel universe / multiverse,0.903,accept,low-frequency tail; left as proposed (safe)
+shapeshifting,2,shapeshifters,shapeshifters,0.883,accept,low-frequency tail; left as proposed (safe)
+fantasy litrpg,2,lit-rpg-game-lit,LitRPG/GameLit,0.802,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; fantasy,2,paranormal-romance,paranormal romance,0.877,accept,low-frequency tail; left as proposed (safe)
+thriller; crime,2,thriller,Thriller,0.849,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; action & adventure,2,paranormal-romance,paranormal romance,0.885,accept,low-frequency tail; left as proposed (safe)
+open door,2,closed-door,Closed door,0.861,reject,low-frequency tail; left as proposed (safe)
+fast burn,2,slow-burn,slow burn,0.917,reject,low-frequency tail; left as proposed (safe)
+office romance,1,category-office-romance,category/office romance,0.871,accept,low-frequency tail; left as proposed (safe)
+friends to lovers (fanfic),1,friends-to-lovers,friends to lovers,0.811,accept,low-frequency tail; left as proposed (safe)
+haunted,1,haunted-house,haunted house,0.842,reject,low-frequency tail; left as proposed (safe)
+post-cyberpunk,1,cyberpunk,cyberpunk,0.87,accept,low-frequency tail; left as proposed (safe)
+dystopiat,1,dystopian,dystopian,0.925,accept,low-frequency tail; left as proposed (safe)
+literary science fiction,1,literary-fiction,Literary Fiction,0.897,reject,low-frequency tail; left as proposed (safe)
+tournament,1,tournament-competition,tournament/competition,0.921,reject,low-frequency tail; left as proposed (safe)
+Classic Sci-fi,1,sci-fi,Sci-Fi,0.829,accept,low-frequency tail; left as proposed (safe)
+crime novel,1,true-crime-adjacent-fiction,true crime-adjacent fiction,0.8,reject,low-frequency tail; left as proposed (safe)
+science-fiction et fantasy,1,science-fantasy,science fantasy,0.811,accept,low-frequency tail; left as proposed (safe)
+fiction/fantasy / epic,1,epic-high-fantasy,Epic/high fantasy,0.801,accept,low-frequency tail; left as proposed (safe)
+friends to lovers to enemies to lovers,1,friends-to-lovers,friends to lovers,0.911,accept,low-frequency tail; left as proposed (safe)
+Totalitarian Regime,1,dystopian-government-totalitarian-regime,Dystopian government / totalitarian regime,0.829,accept,low-frequency tail; left as proposed (safe)
+fake engagement,1,fake-relationship-fake-engagement,fake relationship/fake engagement,0.904,accept,low-frequency tail; left as proposed (safe)
+angel romance,1,demon-angel-romance,demon/angel romance,0.857,accept,low-frequency tail; left as proposed (safe)
+fiction; thrillers,1,thriller,Thriller,0.831,accept,low-frequency tail; left as proposed (safe)
+horror thriller,1,psychological-thriller,psychological thriller,0.868,reject,low-frequency tail; left as proposed (safe)
+thriller & suspense:thriller & suspense:psychological,1,psychological-thriller,psychological thriller,0.829,accept,low-frequency tail; left as proposed (safe)
+adventurous; feel-good,1,adventurous,adventurous,0.874,accept,low-frequency tail; left as proposed (safe)
+fiction / thrillers / domestic,1,domestic-thriller,domestic thriller,0.841,accept,low-frequency tail; left as proposed (safe)
+biography: science,1,biography,biography,0.823,accept,low-frequency tail; left as proposed (safe)
+science fiction; adventure; space opera,1,space-opera,space opera,0.849,accept,low-frequency tail; left as proposed (safe)
+clinical psychology,1,psychology,psychology,0.823,accept,low-frequency tail; left as proposed (safe)
+art and music,1,art-and-music,art & music,0.971,accept,very high similarity (0.97)
+romance: enemies to lovers,1,enemies-to-lovers,Enemies to lovers,0.875,accept,low-frequency tail; left as proposed (safe)
+literature & fiction:historical fiction,1,historical-fiction,Historical Fiction,0.929,accept,low-frequency tail; left as proposed (safe)
+fiction / romance - contemporary,1,contemporary-romance,Contemporary romance,0.897,accept,low-frequency tail; left as proposed (safe)
+deal with the devil,1,deal-with-a-devil-demon,deal with a devil/demon,0.874,accept,low-frequency tail; left as proposed (safe)
+fantasy; ya,1,fantasy,Fantasy,0.906,reject,low-frequency tail; left as proposed (safe)
+human-animal communication,1,talking-animals,talking animals,0.843,accept,low-frequency tail; left as proposed (safe)
+modern fae,1,fae-fantasy,fae fantasy,0.821,accept,low-frequency tail; left as proposed (safe)
+child of a serial killer,1,serial-killer,serial killer,0.806,reject,low-frequency tail; left as proposed (safe)
+food writers,1,food-writing-cookbooks,food writing/cookbooks,0.826,accept,low-frequency tail; left as proposed (safe)
+historical fiction: war,1,historical-fiction,Historical Fiction,0.85,remap:war-fiction,low-frequency tail; left as proposed (safe)
+fiction / war & military,1,war-fiction,War fiction,0.892,remap:war-fiction,low-frequency tail; left as proposed (safe)
+historical fiction; mystery,1,historical-fiction,Historical Fiction,0.876,accept,low-frequency tail; left as proposed (safe)
+animal genetic engineering,1,genetic-engineering,genetic engineering,0.844,accept,low-frequency tail; left as proposed (safe)
+harems,1,reverse-harem,reverse harem,0.814,reject,low-frequency tail; left as proposed (safe)
+fiction / thrillers / political,1,political-thriller,political thriller,0.871,accept,low-frequency tail; left as proposed (safe)
+fiction / thrillers / espionage,1,spy-espionage-thriller,spy/espionage thriller,0.872,accept,low-frequency tail; left as proposed (safe)
+serial murders - fiction,1,serial-killer-thriller,serial killer thriller,0.807,accept,low-frequency tail; left as proposed (safe)
+fiction / thrillers / psychological,1,psychological-thriller,psychological thriller,0.856,accept,low-frequency tail; left as proposed (safe)
+psychology of,1,psychology,psychology,0.908,accept,low-frequency tail; left as proposed (safe)
+cowboy romance,1,cowboy-western-romance,cowboy/western romance,0.896,accept,low-frequency tail; left as proposed (safe)
+best friend's love interest,1,best-friend-becomes-love-interest,best friend becomes love interest,0.925,reject,low-frequency tail; left as proposed (safe)
+haunted house romance,1,haunted-house,haunted house,0.867,reject,low-frequency tail; left as proposed (safe)
+epic; magical realism,1,magical-realism,magical realism,0.91,accept,low-frequency tail; left as proposed (safe)
+realism,1,magical-realism,magical realism,0.824,reject,low-frequency tail; left as proposed (safe)
+revenge -- fiction,1,revenge-plot,revenge plot,0.81,reject,low-frequency tail; left as proposed (safe)
+medieval period,1,medieval,medieval,0.887,reject,low-frequency tail; left as proposed (safe)
+alternative history; fantasy; fiction; historical,1,historical-fiction,Historical Fiction,0.813,reject,low-frequency tail; left as proposed (safe)
+literature & fiction:horror,1,quiet-horror-literary-horror,quiet horror/literary horror,0.822,reject,low-frequency tail; left as proposed (safe)
+psychology / applied psychology,1,psychology,psychology,0.806,accept,low-frequency tail; left as proposed (safe)
+dystop,1,dystopian,dystopian,0.959,accept,very high similarity (0.96)
+fiction / mystery & detective / traditional,1,detective-fiction,detective fiction,0.806,accept,low-frequency tail; left as proposed (safe)
+fiction / mystery & detective / amateur sleuth,1,serial-detective,serial detective,0.806,accept,low-frequency tail; left as proposed (safe)
+gothic novels,1,gothic-horror,Gothic horror,0.806,reject,low-frequency tail; left as proposed (safe)
+fiction / science fiction / time travel,1,time-travel,time travel,0.829,accept,low-frequency tail; left as proposed (safe)
+'literary',1,literary-fiction,Literary Fiction,0.848,accept,low-frequency tail; left as proposed (safe)
+literary thriller,1,psychological-thriller,psychological thriller,0.806,reject,low-frequency tail; left as proposed (safe)
+literary horror,1,quiet-horror-literary-horror,quiet horror/literary horror,0.828,reject,low-frequency tail; left as proposed (safe)
+thriller; mystery,1,thriller,Thriller,0.868,accept,low-frequency tail; left as proposed (safe)
+war criminals -- fiction,1,war-fiction,War fiction,0.814,accept,low-frequency tail; left as proposed (safe)
+fantasy; lgbtq+; romance,1,lgbtq-romance,LGBTQ+ romance,0.876,accept,low-frequency tail; left as proposed (safe)
+fiction / science fiction / military,1,military-sci-fi,military sci-fi,0.872,accept,low-frequency tail; left as proposed (safe)
+philosophical🪶,1,philosophy,philosophy,0.896,reject,low-frequency tail; left as proposed (safe)
+biography & autobiography / historical,1,biographical-historical-fiction,biographical historical fiction,0.814,reject,low-frequency tail; left as proposed (safe)
+fiction / romance / lgbtq+ / lesbian,1,lgbtq-romance,LGBTQ+ romance,0.811,remap:lesbian-romance,low-frequency tail; left as proposed (safe)
+fantasy; science fiction,1,science-fantasy,science fantasy,0.844,accept,low-frequency tail; left as proposed (safe)
+romance: entertainment,1,romance,Romance,0.811,accept,low-frequency tail; left as proposed (safe)
+epic; classics; fantasy,1,epic-high-fantasy,Epic/high fantasy,0.815,accept,low-frequency tail; left as proposed (safe)
+fantasy; historical fiction; literary fiction,1,historical-fiction,Historical Fiction,0.844,accept,low-frequency tail; left as proposed (safe)
+biography & autobiography / business,1,autobiography,autobiography,0.813,accept,low-frequency tail; left as proposed (safe)
+fiction / science fiction / hard science fiction,1,hard-sci-fi,Hard sci-fi,0.801,accept,low-frequency tail; left as proposed (safe)
+science fiction.,1,sci-fi,Sci-Fi,0.822,accept,low-frequency tail; left as proposed (safe)
+classic mystery,1,mystery,Mystery,0.846,accept,low-frequency tail; left as proposed (safe)
+social commentary,1,class-social-commentary,class/social commentary,0.867,accept,low-frequency tail; left as proposed (safe)
+space opera; adventure; movie,1,space-opera,space opera,0.801,accept,low-frequency tail; left as proposed (safe)
+biographies & memoirs:historical,1,biographical-historical-fiction,biographical historical fiction,0.839,reject,low-frequency tail; left as proposed (safe)
+vengeful spirit,1,ghost-vengeful-spirit,Ghost/vengeful spirit,0.86,reject,low-frequency tail; left as proposed (safe)
+paranormal; contemporary; fantasy,1,paranormal-romance,paranormal romance,0.828,reject,low-frequency tail; left as proposed (safe)
+romances,1,romance,Romance,0.932,accept,very high similarity (0.93)
+magical school,1,magical-school-academy,magical school/academy,0.905,accept,low-frequency tail; left as proposed (safe)
+fiction / historical / ancient,1,historical-fiction,Historical Fiction,0.804,accept,low-frequency tail; left as proposed (safe)
+light romance,1,dark-romance,dark romance,0.82,reject,low-frequency tail; left as proposed (safe)
+flintlock fantasy,1,flintlock-gaslamp-fantasy,flintlock/gaslamp fantasy,0.839,accept,low-frequency tail; left as proposed (safe)
+fae magic,1,fae-fantasy,fae fantasy,0.865,accept,low-frequency tail; left as proposed (safe)
+'literary'],1,literary-fiction,Literary Fiction,0.848,accept,low-frequency tail; left as proposed (safe)
+adventurous; mysterious,1,adventurous,adventurous,0.856,accept,low-frequency tail; left as proposed (safe)
+alien war,1,alien-invasion,alien invasion,0.805,accept,low-frequency tail; left as proposed (safe)
+friends to enemies to lovers,1,friends-to-lovers,friends to lovers,0.883,accept,low-frequency tail; left as proposed (safe)
+soul mates,1,soulmates,soulmates,0.914,accept,spacing variant
+adventurous; moving,1,adventurous,adventurous,0.819,accept,low-frequency tail; left as proposed (safe)
+travel writers,1,travel-writing,travel writing,0.92,accept,low-frequency tail; left as proposed (safe)
+literary fiction; romance,1,literary-fiction,Literary Fiction,0.812,accept,low-frequency tail; left as proposed (safe)
+competitions,1,tournament-competition,tournament/competition,0.824,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / holiday,1,holiday-romance,holiday romance,0.881,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / sports,1,sports-romance,sports romance,0.865,accept,low-frequency tail; left as proposed (safe)
+fae kingdom,1,fae-fantasy,fae fantasy,0.845,accept,low-frequency tail; left as proposed (safe)
+royal court,1,royal-court-intrigue,royal court intrigue,0.804,reject,low-frequency tail; left as proposed (safe)
+romance enemies to lovers,1,enemies-to-lovers,Enemies to lovers,0.875,accept,low-frequency tail; left as proposed (safe)
+romance: second chance,1,second-chance-romance,second-chance romance,0.957,accept,very high similarity (0.96)
+cozy romance,1,cozy-fantasy,cozy fantasy,0.819,reject,low-frequency tail; left as proposed (safe)
+necromancer,1,necromancy,necromancy,0.863,accept,low-frequency tail; left as proposed (safe)
+family sagas,1,family-saga-across-generations,family saga across generations,0.841,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; romantic suspense,1,paranormal-romance,paranormal romance,0.839,accept,low-frequency tail; left as proposed (safe)
+neurodivergent,1,neurodivergent-protagonist,neurodivergent protagonist,0.821,reject,low-frequency tail; left as proposed (safe)
+lgbtq+fantasy,1,lgbtq-romance,LGBTQ+ romance,0.811,reject,low-frequency tail; left as proposed (safe)
+fairytale & mythological retellings,1,mythology-retelling,mythology retelling,0.806,accept,low-frequency tail; left as proposed (safe)
+spy novel,1,spy-espionage-thriller,spy/espionage thriller,0.833,accept,low-frequency tail; left as proposed (safe)
+myth retelling,1,mythology-retelling,mythology retelling,0.878,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / suspense,1,romantic-suspense,romantic suspense,0.888,accept,low-frequency tail; left as proposed (safe)
+supernatural romance,1,paranormal-romance,paranormal romance,0.824,accept,low-frequency tail; left as proposed (safe)
+childhood friends to lovers,1,friends-to-lovers,friends to lovers,0.823,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / billionaires,1,billionaire-romance,billionaire romance,0.818,accept,low-frequency tail; left as proposed (safe)
+fiction / romance / workplace,1,workplace-romance,workplace romance,0.83,accept,low-frequency tail; left as proposed (safe)
+literary fiction -- relationships,1,literary-fiction,Literary Fiction,0.821,accept,low-frequency tail; left as proposed (safe)
+romance; urban; paranormal; supernatural,1,paranormal-romance,paranormal romance,0.878,accept,low-frequency tail; left as proposed (safe)
+sportswriters,1,sports-writing,sports writing,0.808,accept,low-frequency tail; left as proposed (safe)
+abandoned houses,1,abandoned-building,abandoned building,0.821,accept,low-frequency tail; left as proposed (safe)
+detective and mystery films,1,detective-fiction,detective fiction,0.812,accept,low-frequency tail; left as proposed (safe)
+genre: sci fi,1,sci-fi,Sci-Fi,0.834,accept,low-frequency tail; left as proposed (safe)
+books; thriller,1,thriller,Thriller,0.826,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; romantic comedy; fantasy,1,paranormal-romance,paranormal romance,0.842,accept,low-frequency tail; left as proposed (safe)
+romance: lessons,1,romance,Romance,0.804,accept,low-frequency tail; left as proposed (safe)
+fiction and literature,1,literary-fiction,Literary Fiction,0.909,accept,low-frequency tail; left as proposed (safe)
+fantasy; horror,1,supernatural-horror,supernatural horror,0.8,reject,low-frequency tail; left as proposed (safe)
+romance; romantic comedy; literature & fiction,1,romantic-comedy,romantic comedy,0.841,accept,low-frequency tail; left as proposed (safe)
+hostages,1,hostage-situation,hostage situation,0.828,accept,low-frequency tail; left as proposed (safe)
+historical fiction; literary fiction; sci-fi,1,historical-fiction,Historical Fiction,0.865,accept,low-frequency tail; left as proposed (safe)
+meaning (philosophy),1,philosophy,philosophy,0.821,accept,low-frequency tail; left as proposed (safe)
+serial murder,1,serial-killer,serial killer,0.89,accept,low-frequency tail; left as proposed (safe)
+single dad romance,1,single-parent-romance,single parent romance,0.869,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; romantic suspense,1,paranormal-romance,paranormal romance,0.87,accept,low-frequency tail; left as proposed (safe)
+road travel,1,road-trip,road trip,0.885,accept,low-frequency tail; left as proposed (safe)
+fantasy; grimdark,1,grimdark,grimdark,0.87,accept,low-frequency tail; left as proposed (safe)
+cozy dark academia,1,dark-academia,dark academia,0.855,accept,low-frequency tail; left as proposed (safe)
+fantasy; space opera,1,space-opera,space opera,0.871,accept,low-frequency tail; left as proposed (safe)
+young adult fiction / romance / paranormal,1,paranormal-romance,paranormal romance,0.869,reject,low-frequency tail; left as proposed (safe)
+colonization,1,space-colonization,space colonization,0.855,reject,low-frequency tail; left as proposed (safe)
+romance; paranormal; urban; romantic suspense,1,paranormal-romance,paranormal romance,0.856,accept,low-frequency tail; left as proposed (safe)
+urban; literature & fiction; fantasy,1,urban-fantasy,urban fantasy,0.844,accept,low-frequency tail; left as proposed (safe)
+post-apocalyptic science fiction,1,post-apocalyptic,post-apocalyptic,0.823,accept,low-frequency tail; left as proposed (safe)
+football romance,1,sports-romance,sports romance,0.829,accept,low-frequency tail; left as proposed (safe)
+romance; romantic suspense; private investigators,1,romantic-suspense,romantic suspense,0.803,accept,low-frequency tail; left as proposed (safe)
+fiction / fantasy / historical,1,historical-fiction,Historical Fiction,0.854,accept,low-frequency tail; left as proposed (safe)
+romance; fantasy; sports,1,sports-romance,sports romance,0.898,accept,low-frequency tail; left as proposed (safe)
+fiction; poetry,1,literary-fiction,Literary Fiction,0.805,reject,low-frequency tail; left as proposed (safe)
+romance; fantasy; historical fiction; historical,1,historical-romance,historical romance,0.878,accept,low-frequency tail; left as proposed (safe)
+ya; fantasy,1,fantasy,Fantasy,0.862,reject,low-frequency tail; left as proposed (safe)
+clones,1,cloning,cloning,0.82,accept,low-frequency tail; left as proposed (safe)
+human cloning,1,cloning,cloning,0.919,accept,low-frequency tail; left as proposed (safe)
+young adult fiction / romance / romantic comedy,1,romantic-comedy,romantic comedy,0.847,reject,low-frequency tail; left as proposed (safe)
+literature & fiction - literature,1,literary-fiction,Literary Fiction,0.914,accept,low-frequency tail; left as proposed (safe)
+romantic suspense novels,1,romantic-suspense,romantic suspense,0.875,accept,low-frequency tail; left as proposed (safe)
+romance; fantasy; urban,1,urban-fantasy,urban fantasy,0.821,reject,low-frequency tail; left as proposed (safe)
+fiction / dystopian,1,dystopian,dystopian,0.811,accept,low-frequency tail; left as proposed (safe)
+lgbtqia+ romance,1,lgbtq-romance,LGBTQ+ romance,0.879,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; thriller & suspense; fantasy; supernatural,1,paranormal-romance,paranormal romance,0.822,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; romantic comedy,1,paranormal-romance,paranormal romance,0.858,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; thriller & suspense; fantasy,1,paranormal-romance,paranormal romance,0.813,accept,low-frequency tail; left as proposed (safe)
+sf_cyberpunk,1,cyberpunk,cyberpunk,0.91,accept,low-frequency tail; left as proposed (safe)
+romance; fantasy; paranormal; literature & fiction,1,paranormal-romance,paranormal romance,0.874,accept,low-frequency tail; left as proposed (safe)
+hostage,1,hostage-situation,hostage situation,0.919,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; fantasy; romantic suspense,1,paranormal-romance,paranormal romance,0.832,accept,low-frequency tail; left as proposed (safe)
+romance; paranormal; literature & fiction; fantasy; science fiction,1,paranormal-romance,paranormal romance,0.872,accept,low-frequency tail; left as proposed (safe)
+romance; romantic,1,romance,Romance,0.869,accept,low-frequency tail; left as proposed (safe)
+romance; fantasy; romantic suspense,1,romantic-suspense,romantic suspense,0.882,accept,low-frequency tail; left as proposed (safe)
+thriller; psychology,1,psychological-thriller,psychological thriller,0.876,accept,low-frequency tail; left as proposed (safe)
+mystery-thriller,1,psychological-thriller,psychological thriller,0.842,accept,low-frequency tail; left as proposed (safe)
+romance; contemporary; romantic comedy,1,romantic-comedy,romantic comedy,0.906,accept,low-frequency tail; left as proposed (safe)

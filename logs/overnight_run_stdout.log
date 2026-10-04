@@ -1,0 +1,197 @@
+[2026-08-02 20:19:26] ============================================================
+[2026-08-02 20:19:26] overnight run scheduled
+[2026-08-02 20:19:26] waiting 1.68h until 2026-08-02 22:00 to start
+[2026-08-02 22:00:00] overnight run START
+[2026-08-02 22:00:00] START tagexp-apply: _apply_tag_review.py tag_review_expansion.csv tagexp
+[2026-08-02 22:00:00]   tagexp-apply tail:
+books: 13036  (high=2199, medium=10837)
+rows dropped by a reject decision: 0
+wrote inline_batch_tagexp.json + tagexp_tag_decisions.csv
+[2026-08-02 22:00:00] END tagexp-apply rc=0 in 0s
+[2026-08-02 22:00:00] START tagexp-ingest: -c import enrich_inline; enrich_inline.ingest('inline_batch_tagexp.json')
+[2026-08-02 22:00:01]   tagexp-ingest tail:
+ingested 13036 results
+  enriched                       13036
+  confidence_medium              10837
+  confidence_high                 2199
+[2026-08-02 22:00:01] END tagexp-ingest rc=0 in 2s
+[2026-08-02 22:00:01] START tagexp-promote: enrich.py promote --decisions tagexp_tag_decisions.csv
+[2026-08-02 22:00:03]   tagexp-promote tail:
+loaded 13036 human decisions from tagexp_tag_decisions.csv
+
+run run_20260802_220001
+  promoted                 13,036
+  left_pending                  4
+
+  values added:
+    tags                 18,597
+
+  rollback with:  python enrich.py promote --rollback run_20260802_220001
+[2026-08-02 22:00:03] END tagexp-promote rc=0 in 1s
+[2026-08-02 22:00:03] START clean-after-tags: enrich.py clean
+[2026-08-02 22:00:06]   clean-after-tags tail:
+scanning 69,661 books that have tropes/tags...
+
+books changed: 0 of 69,661
+  books_scanned          69,661
+
+=== diff sample (0) ===
+
+non-slug terms remaining in books: 0
+books with pacing: 3,009
+[2026-08-02 22:00:06] END clean-after-tags rc=0 in 4s
+[2026-08-02 22:00:06] START wiki-backfill: _wiki_backfill.py --cap 4000
+[2026-08-06 19:16:21]   wiki-backfill tail:
+  ...3500/4000 | 722 descriptions found
+  ...3550/4000 | 740 descriptions found
+  ...3600/4000 | 753 descriptions found
+  ...3650/4000 | 770 descriptions found
+  ...3700/4000 | 787 descriptions found
+  ...3750/4000 | 807 descriptions found
+  ...3800/4000 | 826 descriptions found
+  ...3850/4000 | 847 descriptions found
+  ...3900/4000 | 871 descriptions found
+  ...3950/4000 | 893 descriptions found
+  ...4000/4000 | 912 descriptions found
+[backfill] DONE 912/4000 descriptions fetched
+[2026-08-06 19:16:21] END wiki-backfill rc=0 in 335774s
+[2026-08-06 19:16:21] START rematch-mystery: _trope_match_mystery.py --out trope_review_rematch_mystery.csv --both
+[2026-08-06 19:16:27]   rematch-mystery tail:
+scanned 3,172 trope-less mystery fiction with descriptions (both)
+books with >=1 match: 4 (0%)
+total trope assignments: 4 | by tier (books): {'B': 4}
+   [B]    3  perfect-crime
+   [B]    1  twist-ending
+-> trope_review_rematch_mystery.csv
+[2026-08-06 19:16:27] END rematch-mystery rc=0 in 7s
+[2026-08-06 19:16:27] START rmys-apply: _apply_trope_review.py trope_review_rematch_mystery.csv rmys
+[2026-08-06 19:16:28]   rmys-apply tail:
+books: 4  (high=0, medium=4)
+rows dropped by a reject decision: 0
+wrote inline_batch_rmys.json + rmys_trope_decisions.csv
+[2026-08-06 19:16:28] END rmys-apply rc=0 in 0s
+[2026-08-06 19:16:28] START rmys-ingest: -c import enrich_inline; enrich_inline.ingest('inline_batch_rmys.json')
+[2026-08-06 19:16:28]   rmys-ingest tail:
+ingested 4 results
+  enriched                           4
+  confidence_medium                  4
+[2026-08-06 19:16:28] END rmys-ingest rc=0 in 0s
+[2026-08-06 19:16:28] START rmys-promote: enrich.py promote --decisions rmys_trope_decisions.csv
+[2026-08-06 19:16:28]   rmys-promote tail:
+loaded 4 human decisions from rmys_trope_decisions.csv
+
+run run_20260806_191628
+  left_pending                  4
+  promoted                      4
+
+  values added:
+    tropes                    4
+
+  rollback with:  python enrich.py promote --rollback run_20260806_191628
+[2026-08-06 19:16:28] END rmys-promote rc=0 in 0s
+[2026-08-06 19:16:28] START rematch-genre: _trope_match.py all --both
+[2026-08-06 19:17:20]   rematch-genre tail:
+   [A]    1  first-contact-with-aliens
+   [A]    1  virtual-reality-world
+   [A]    1  nanotechnology
+-> trope_review_sci-fi.csv
+horror: skipped 36 contents-list descriptions
+
+=== horror ===
+scanned 842 trope-less horror fiction with descriptions (both)
+books with >=1 match: 1 (0%)
+total trope assignments: 1 | by tier (books): {'A': 1}
+   [A]    1  home-invasion
+-> trope_review_horror.csv
+[2026-08-06 19:17:20] END rematch-genre rc=0 in 52s
+[2026-08-06 19:17:20] START rematch-union: _union_reviews.py
+[2026-08-06 19:17:20]   rematch-union tail:
+  trope_review_romance.csv             43 rows
+  trope_review_fantasy.csv             78 rows
+  trope_review_sci-fi.csv              79 rows
+  trope_review_horror.csv               1 rows
+
+union: 201 assignments over 157 distinct books (tier A=145, B=56)
+deduplicated 0 overlapping rows
+-> trope_review_all.csv
+[2026-08-06 19:17:20] END rematch-union rc=0 in 0s
+[2026-08-06 19:17:20] START rgen-apply: _apply_trope_review.py trope_review_all.csv rgen
+[2026-08-06 19:17:20]   rgen-apply tail:
+books: 157  (high=102, medium=55)
+rows dropped by a reject decision: 0
+wrote inline_batch_rgen.json + rgen_trope_decisions.csv
+[2026-08-06 19:17:20] END rgen-apply rc=0 in 0s
+[2026-08-06 19:17:20] START rgen-ingest: -c import enrich_inline; enrich_inline.ingest('inline_batch_rgen.json')
+[2026-08-06 19:17:20]   rgen-ingest tail:
+ingested 157 results
+  enriched                         157
+  confidence_high                  102
+  confidence_medium                 55
+[2026-08-06 19:17:20] END rgen-ingest rc=0 in 0s
+[2026-08-06 19:17:20] START rgen-promote: enrich.py promote --decisions rgen_trope_decisions.csv
+[2026-08-06 19:17:21]   rgen-promote tail:
+loaded 157 human decisions from rgen_trope_decisions.csv
+
+run run_20260806_191720
+  promoted                    157
+  left_pending                  4
+
+  values added:
+    tropes                  201
+
+  rollback with:  python enrich.py promote --rollback run_20260806_191720
+[2026-08-06 19:17:21] END rgen-promote rc=0 in 0s
+[2026-08-06 19:17:21] START rematch-tags: _tag_match.py --out tag_review_rematch.csv --both
+[2026-08-06 19:19:44]   rematch-tags tail:
+   [A]    3  noir
+   [B]    3  retelling
+   [A]    2  artificial-intelligence
+   [A]    2  gothic
+   [A]    2  bisexual
+   [A]    1  lesbian
+   [B]    1  gay
+   [A]    1  angels
+   [B]    1  paranormal
+   [A]    1  mermaids
+   [A]    1  spies
+-> tag_review_rematch.csv
+[2026-08-06 19:19:44] END rematch-tags rc=0 in 143s
+[2026-08-06 19:19:44] START rtag-apply: _apply_tag_review.py tag_review_rematch.csv rtag
+[2026-08-06 19:19:44]   rtag-apply tail:
+books: 389  (high=82, medium=307)
+rows dropped by a reject decision: 0
+wrote inline_batch_rtag.json + rtag_tag_decisions.csv
+[2026-08-06 19:19:44] END rtag-apply rc=0 in 0s
+[2026-08-06 19:19:44] START rtag-ingest: -c import enrich_inline; enrich_inline.ingest('inline_batch_rtag.json')
+[2026-08-06 19:19:44]   rtag-ingest tail:
+ingested 389 results
+  enriched                         389
+  confidence_medium                307
+  confidence_high                   82
+[2026-08-06 19:19:44] END rtag-ingest rc=0 in 0s
+[2026-08-06 19:19:44] START rtag-promote: enrich.py promote --decisions rtag_tag_decisions.csv
+[2026-08-06 19:19:44]   rtag-promote tail:
+loaded 389 human decisions from rtag_tag_decisions.csv
+
+run run_20260806_191944
+  promoted                    389
+  left_pending                  4
+
+  values added:
+    tags                    631
+
+  rollback with:  python enrich.py promote --rollback run_20260806_191944
+[2026-08-06 19:19:44] END rtag-promote rc=0 in 0s
+[2026-08-06 19:19:44] START clean-after-rematch: enrich.py clean
+[2026-08-06 19:19:51]   clean-after-rematch tail:
+scanning 69,714 books that have tropes/tags...
+
+books changed: 0 of 69,714
+  books_scanned          69,714
+
+=== diff sample (0) ===
+
+non-slug terms remaining in books: 0
+books with pacing: 3,009
+[2026-08-06 19:19:51] END clean-after-rematch rc=0 in 7s
+[2026-08-06 19:19:51] START wiki-verify: _verify_wiki.py --cap 3000

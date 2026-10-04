@@ -1,0 +1,1773 @@
+[
+ {
+  "id": "hardcover_153730",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "age-gap"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_147494",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "alien-invasion"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1134792",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "alien-invasion",
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "openlibrary_OL16040506W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "billionaire-love-interest",
+   "rockstar-romance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_268734",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "bodyguard-romance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hull_zero_three",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning",
+   "generation-ship",
+   "genetic-engineering"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_220772",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1467871",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "cloning",
+   "mind-control-mind-reading-technology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_217115",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_227629",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_201633",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1080120",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cloning"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "aliens",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "corporate-dystopia",
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1141696",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "corporate-dystopia"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_241082",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "coup-rebellion-against-the-crown"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1474549",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "court-intrigue",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "alien_covenant",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "alien_covenant_origins",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "doorways_in_the_sand",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "bishop",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "captain_america_the_shield_of_sam_wilson",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1140886",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cryosleep-suspended-animation",
+   "generation-ship"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "before_mars",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cybernetic-enhancement"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1765483",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cybernetic-enhancement"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_103990",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "cybernetic-enhancement",
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "dragon_wing",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "call_of_cthulhu",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "a_blade_so_black",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_183698",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "prophecy",
+   "the-dark-lord-ultimate-evil"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1463951",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "dragons",
+   "multiple-warring-kingdoms"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_326934",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "elves-dwarves-orcs",
+   "magical-artifact-relic-of-great-power"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_216555",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1096472",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "necromancy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_286273",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1156519",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_108096",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_2524977",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "dragons",
+   "multiple-warring-kingdoms"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_177850",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_323673",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1279657",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1775681",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1216141",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "shapeshifters"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1036669",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "dragons",
+   "multiple-warring-kingdoms"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1458444",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1093901",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "shapeshifters"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_2026772",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons",
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_154436",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_123597",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dragons"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_339818",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dystopian-government-totalitarian-regime"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_228369",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dystopian-government-totalitarian-regime"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1446416",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "dystopian-government-totalitarian-regime",
+   "post-apocalyptic-wasteland"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "elven_star",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs",
+   "prophecy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "baptism_of_fire",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "critical_role_vox_machina_kith_and_kin",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_367930",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "elves-dwarves-orcs",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_11855",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_319920",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_221362",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_232241",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_185251",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "elves-dwarves-orcs",
+   "forbidden-magic",
+   "multiple-warring-kingdoms"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1119008",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "elves-dwarves-orcs"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_185926",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "elves-dwarves-orcs",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1423630",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "faster-than-light-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_302229",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "faster-than-light-travel",
+   "wormhole-hyperspace-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1496426",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "faster-than-light-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1070348",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "first-contact-with-aliens",
+   "mind-control-mind-reading-technology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "footfall",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "generation-ship",
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "dogs_of_war",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "genetic-engineering"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1200140",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "genetic-engineering"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_198679",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "genetic-engineering"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1479784",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "genetic-engineering",
+   "terraforming"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1595517",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "genetic-engineering",
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "day_zero",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "hive-mind",
+   "robot-uprising"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "bound_in_blood",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "home-invasion"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL228702W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "love-triangle"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL3961056W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "love-triangle"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1108154",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "love-triangle",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1199762",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "magic-school-magical-academy",
+   "fae-courts"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_104307",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "magical-artifact-relic-of-great-power"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1098901",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "nanotechnology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "fire_sea",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "necromancy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL4322177W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "opposites-attract"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_185940",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "parallel-universe-multiverse"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1123430",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "parallel-universe-multiverse",
+   "quest-journey-narrative"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_36141",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "portal-to-another-world"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_127957",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "portal-to-another-world"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1226591",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "post-apocalyptic-wasteland"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1026922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "post-apocalyptic-wasteland"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1379330",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "post-apocalyptic-wasteland"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "battleaxe",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "prophecy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_337236",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "prophecy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1927968",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "prophecy",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1135624",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "prophecy",
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_296394",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "prophecy"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_108853",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "quest-journey-narrative",
+   "the-dark-lord-ultimate-evil"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_264150",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "quest-journey-narrative"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1570314",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "quest-journey-narrative"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17926040W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "second-chance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1463999",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "second-chance",
+   "exes-to-lovers"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_144950",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "shapeshifters"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "fool_moon",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "shifter-romance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1489232",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "single-dad-mom"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_29792",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "single-dad-mom",
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "colony114",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "space-colonization"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "far_from_the_light_of_heaven",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_270618",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_339424",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1069793",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "space-station-setting"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL5726063W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "sports-star-romance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_228454",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "teleportation"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_144017",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "teleportation",
+   "wormhole-hyperspace-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "code_of_the_lifemaker",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "terraforming"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "grave_peril",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "vampire-romance",
+   "fae-courts"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "openlibrary_OL5815476W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "vampire-romance"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "gather_yourselves_together",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "virgin-heroine"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17739091W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "virgin-heroine"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1882668",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "virtual-reality-world"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "all_the_birds_in_the_sky",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "wormhole-hyperspace-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_154964",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "wormhole-hyperspace-travel"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "corrupting_dr_nice",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "alternate-timeline"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_307710",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "alternate-timeline"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "a_new_darkness",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "apprenticeship-training-arc"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_254614",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "apprenticeship-training-arc"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_362287",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "apprenticeship-training-arc"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1134388",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "apprenticeship-training-arc"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_326042",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "fae-courts"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_199066",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "fae-courts"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_249537",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "farm-boy-orphan-hero"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_336562",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_224962",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1421878",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_25690",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_309089",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "galactic-empire"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_293245",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_185833",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_201990",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_292484",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_184260",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_542657",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "holiday-seasonal-setup"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL5685948W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "matchmaker-setup-gone-right"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "doors_of_sleep",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "mind-control-mind-reading-technology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_143672",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "mind-control-mind-reading-technology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1760170",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "mind-control-mind-reading-technology"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_124753",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "rebellion-against-an-oppressive-system"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL99251W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL1386746W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL5719394W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL48538W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_154097",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_239223",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_177345",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_210964",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_146591",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1113667",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "royalty"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_312460",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "space-exploration"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_332660",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "space-exploration"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_139448",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "space-exploration"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ }
+]

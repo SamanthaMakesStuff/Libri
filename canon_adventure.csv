@@ -1,0 +1,9 @@
+﻿decision,tier,suggestion,term,books,kind,genre_bucket,genre_mix,prior_decision,nearest_1,score_1,nearest_2,score_2,nearest_3,score_3,example_books
+Reject,new,activate,elvis-fictitious-character,7,tag,adventure,"adventure 62%, mystery 25%, crime 12%",,interpersonal-character-study,54,climate-fiction,53,hate-to-love,52,The Monkey's Raincoat | L.A. Requiem | Stalking The Angel
+Reject,new,activate,cole,6,tag,adventure,"adventure 57%, mystery 28%, crime 14%",,ceo,57,cop,57,ceo,57,The Monkey's Raincoat | L.A. Requiem | The Sentry
+Accept,new,activate,aboriginal-australians,4,tag,adventure,"adventure 50%, general-fiction 25%, sci-fi 25%",,criminal-mastermind,63,magical-realism,59,criminal-mastermind,58,Reef of death | Mutant message down under | Rabbit-Proof Fence
+Reject,new,activate,outside-online,4,tag,adventure,adventure 100%,,non-linear-timeline,60,coming-out,58,non-linear-timeline,54,"The Snow Leopard | West with the Night | Wind, Sand and Stars"
+Reject,new,activate,pitt,4,tag,adventure,"adventure 50%, thriller 25%, (none) 25%",,politics,50,politics,50,heist,44,Sahara | Night Probe! | Vixen 03
+Reject,new,activate,aubrey,4,tag,adventure,adventure 100%,,autobiography,52,autobiography,52,secret-baby,47,Post Captain | The Surgeon's Mate | Treason's Harbour
+Reject,new,activate,cynical,3,tag,adventure,"adventure 66%, (none) 33%",,historical-fiction,48,conspiracy,47,conspiracy,47,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream | Martin Eden | Fear and Loathing on the Campaign Trail '72
+Reject,new,activate,dirk-fictitious-character,3,tag,adventure,"adventure 66%, thriller 33%",,interpersonal-character-study,55,climate-fiction,55,narrative-nonfiction,53,Sahara | Night Probe! | Vixen 03

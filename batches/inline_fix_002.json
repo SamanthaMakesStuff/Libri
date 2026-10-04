@@ -1,0 +1,10 @@
+[
+  {"id": "openlibrary_OL19744024W", "known": true, "book_class": "fiction",
+   "confidence": "high",
+   "_note": "neurodivergent-protagonist RESTORED at user's direction: it is how readers search for and categorise this book (same principle as ice-queen/sapphic), and reader-facing categories matter more than textual literalism for a recommender. Conformity theme retained alongside it.",
+   "tropes": ["neurodivergent-protagonist", "class-social-commentary",
+              "identity-and-self-discovery", "interpersonal-character-study",
+              "quiet-literary-slow-burn"],
+   "tags": ["literary-fiction", "reflective", "funny", "sad", "challenging"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "None"}
+]

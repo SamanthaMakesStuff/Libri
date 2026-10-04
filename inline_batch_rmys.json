@@ -1,0 +1,46 @@
+[
+ {
+  "id": "openlibrary_OL5591827W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "perfect-crime"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL19720210W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "perfect-crime"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_348712",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "perfect-crime"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_40625",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "twist-ending"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ }
+]

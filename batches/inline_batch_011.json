@@ -1,0 +1,63 @@
+[
+  {"id": "hardcover_452066", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "was classed ambiguous/Young Adult — sapphic YA with a 1950s lesbian-pulp dual timeline",
+   "tropes": ["dual-timeline", "queer-coming-of-age", "forbidden-love", "identity-and-self-discovery", "hidden-history-untold-women-s-history"],
+   "tags": ["sapphic", "lesbian", "young-adult", "emotional", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "hardcover_484842", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "_note": "was classed ambiguous with no genres — it is a nonfiction essay on vaccination and risk",
+   "tropes": [],
+   "tags": ["health-and-wellness", "narrative-nonfiction", "popular-science", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL39349W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["interpersonal-character-study", "non-linear-timeline", "mental-health-narrative", "midlife-reckoning", "war-and-its-aftermath-on-ordinary-lives"],
+   "tags": ["literary-fiction", "reflective", "sad", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "hardcover_434745", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "was classed ambiguous/Young Adult — it is literary adult fiction",
+   "tropes": ["unreliable-narrator", "coming-of-age", "teacher-student", "twist-ending", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "challenging", "dark", "reflective"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "hardcover_435693", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Sci-Fi — it is a literary survival thriller; OL description was in Dutch",
+   "tropes": ["isolated-setting", "survival-narrative", "small-group-picked-off-one-by-one", "quest-journey-narrative"],
+   "tags": ["literary-fiction", "dark", "tense", "adventurous"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "hardcover_469584", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "sole-survivor", "survival-narrative", "identity-and-self-discovery", "space-exploration"],
+   "tags": ["soft-sci-fi", "reflective", "sad", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "the_end_of_her", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["domestic-fiction", "unreliable-narrator", "tragic-past", "blackmail", "twist-ending"],
+   "tags": ["domestic-thriller", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17924341W", "known": true, "book_class": "childrens", "confidence": "high",
+   "tropes": ["survival-against-historical-injustice", "coming-of-age", "secret-identity", "war-and-its-aftermath-on-ordinary-lives"],
+   "tags": ["historical-fiction", "sad", "tense", "emotional"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL46909W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["remote-research-facility", "race-against-time", "government-cover-up", "ethics-of-scientific-progress", "biotechnology-gone-wrong"],
+   "tags": ["techno-thriller", "hard-sci-fi", "tense", "challenging"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "hardcover_149523", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "rebellion-against-an-oppressive-system", "class-social-commentary", "forbidden-knowledge", "hidden-history-untold-women-s-history"],
+   "tags": ["dystopian", "soft-sci-fi", "dark", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL675834W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["real-historical-figure-as-secondary-character", "unreliable-narrator", "dual-timeline", "based-on-a-true-story-framing", "class-divide"],
+   "tags": ["historical-fiction", "historical-mystery", "mysterious", "dark", "reflective"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL15179136W", "known": false, "confidence": "unknown_book",
+   "_note": "OL description describes a Houdini/Conan Doyle contest, which contradicts the subjects (Arthurian time-travel romance) — wrong match, not enough to trope from"}
+]

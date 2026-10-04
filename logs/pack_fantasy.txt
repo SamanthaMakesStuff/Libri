@@ -1,0 +1,38 @@
+fantasy: skipped 42 contents-list descriptions
+
+=== fantasy ===
+scanned 4,822 trope-less fantasy fiction with descriptions (both)
+books with >=1 match: 570 (12%)
+total trope assignments: 657 | by tier (books): {'A': 439, 'B': 97, 'A+B': 34}
+   [A]  168  dragons
+   [A]   98  prophecy
+   [B]   79  fae-courts
+   [A]   71  elves-dwarves-orcs
+   [A]   37  quest-journey-narrative
+   [A]   35  necromancy
+   [A]   33  shapeshifters
+   [B]   17  apprenticeship-training-arc
+   [A]   11  the-dark-lord-ultimate-evil
+   [A]    9  found-family
+   [A]    9  portal-to-another-world
+   [A]    9  court-intrigue
+   [A]    8  curse-that-must-be-broken
+   [A]    7  magical-artifact-relic-of-great-power
+   [B]    7  multiple-warring-kingdoms
+   [B]    6  mentor-figure
+   [B]    6  forbidden-magic
+   [A]    6  secret-heir-lost-heir-secret-royalty
+   [B]    5  discovery-of-hidden-powers
+   [B]    5  farm-boy-orphan-hero
+   [A]    4  chosen-one
+   [B]    4  rebellion-against-an-oppressive-system
+   [B]    4  tournament-competition
+   [A]    3  blood-magic
+   [A]    3  talking-animals
+   [A]    3  magic-school-magical-academy
+   [A]    3  ancient-curse
+   [A]    2  coup-rebellion-against-the-crown
+   [A]    2  heist-in-a-fantasy-setting
+   [A]    2  kingdoms-at-war
+   [A]    1  ancient-evil-awakening
+-> trope_review_fantasy.csv

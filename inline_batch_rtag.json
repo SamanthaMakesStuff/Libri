@@ -1,0 +1,4529 @@
+[
+ {
+  "id": "alien",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "alien_3",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "robots",
+   "space",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "alien_covenant",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "robots",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "alien_covenant_origins",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "robots",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "aliens",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "aliens_earth_hive",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "anathem",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "before_mars",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "binti",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "academia",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "bishop",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "robots",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "clays_ark",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "code_of_the_lifemaker",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "dungeon_crawler_carl",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "enders_game",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "far_from_the_light_of_heaven",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "footfall",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "garden_of_rama",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_11855",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "assassins"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_123384",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "music",
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_181557",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_339818",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1120715",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "aliens"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_150638",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "space",
+   "music",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_201633",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_249537",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_127957",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "aliens",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1863683",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "angels",
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "candle",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "artificial-intelligence",
+   "military",
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_341379",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "artificial-intelligence"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "an_echo_of_things_to_come",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "assassins"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "colony114",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "dragon_wing",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_228201",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_216555",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "assassins"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1494430",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_185926",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "assassins"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_204856",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "demons",
+   "witches",
+   "magic",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_227629",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "assassins"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_337502",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "paranormal"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1421878",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_36141",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "assassins",
+   "witches",
+   "magic",
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_240754",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "bisexual",
+   "lgbtq",
+   "music",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_237705",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "bisexual",
+   "lgbtq",
+   "art",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "grave_peril",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "demons",
+   "fairies",
+   "ghosts",
+   "vampires",
+   "magic",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1119008",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "demons",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_13",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "demons"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_321049",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "demons",
+   "werewolves",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_334442",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "demons"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1807356",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "demons",
+   "ghosts",
+   "police",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_255726",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "demons",
+   "friendship",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "cottingley",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "fairies",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_326042",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "fairies",
+   "monsters",
+   "witches"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_199066",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "fairies"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "broken_harbour",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "doors_of_sleep",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "cooking"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "gather_yourselves_together",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_270087",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_329662",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1951278",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_220772",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_240020",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1494113",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_243770",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_329686",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1184962",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_123284",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1185268",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1226596",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1356644",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "ghosts",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_194649",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1953428",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "ghosts"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_212183",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "gothic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1239256",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "gothic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_222977",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "lesbian",
+   "lgbtq",
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "all_the_white_spaces",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "lgbtq",
+   "transgender",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1470950",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "lgbtq",
+   "monsters",
+   "transgender"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_153730",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "lgbtq",
+   "gay",
+   "music",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1765483",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "lgbtq",
+   "transgender"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1202620",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "lgbtq",
+   "transgender"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1249516",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "mermaids"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "a_blade_so_black",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "alien_out_of_the_shadows",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "betrayal_at_falador",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "werewolves",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "brittle",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "supernatural",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "eye_of_the_wolf",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "frankenstein_unbound",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "half_blood",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "mythology"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_110688",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "medical",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_175945",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_228454",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "medical",
+   "military",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_234539",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_11591",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1585547",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_224414",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "mythology"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1093901",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "monsters",
+   "spies",
+   "werewolves"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "fury_of_the_queen",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "mythology",
+   "superheroes"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1097024",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "mythology",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_169139",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "mythology"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1046283",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "mythology",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1071059",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "mythology"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1900794",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "mythology",
+   "academia",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1244645",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "mythology",
+   "superheroes",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_332691",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "mythology"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "credence",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "noir"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_302654",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "noir",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1336110",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "noir"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "a_deadly_education",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "friendship",
+   "magic",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "fire_sea",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "zombies",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1096472",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "magic",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1403055",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "magic",
+   "military",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1207200",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_296394",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_18400",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "occult"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_191549",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "occult",
+   "medical",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "bride",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "revenge",
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_350237",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_268734",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "pirates"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_286094",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "pirates"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_33827",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "revenge",
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_236988",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_239223",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "pirates"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_270360",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_140746",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "pirates",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_153779",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "pirates"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_348530",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "pirates"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "a_prayer_for_the_crown_shy",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "day_zero",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "robots",
+   "music",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1454839",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "robots",
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_17430",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_265922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1126484",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_221362",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "robots"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_252714",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "robots",
+   "magic",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1003564",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "robots",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1220873",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "robots",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "after_atlas",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "space",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "children_of_god",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_108853",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "space",
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_312460",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1467871",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_339424",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "space",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1496426",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_338754",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "space"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "captain_america_the_shield_of_sam_wilson",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "superheroes",
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "doctor_strange_dimension_war",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "superheroes",
+   "magic",
+   "medical"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "domino_strays",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "superheroes"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1078404",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "superheroes"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_185940",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "superheroes",
+   "zombies"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "baptism_of_fire",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "brimstone",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "vampires"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "coffin_moon",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "murder",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "dracula_cha_cha_cha",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "vampires"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_165884",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "vampires"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_270888",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_102770",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1813562",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1433865",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "vampires",
+   "witches"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "fool_moon",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "werewolves",
+   "magic",
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_144950",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "werewolves",
+   "magic",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "all_the_birds_in_the_sky",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_106026",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1474",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "witches"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_207651",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "witches"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_263787",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_293465",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "witches"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_34176",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_108096",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1156519",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_185251",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_177850",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_242272",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "academia",
+   "magic",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_280800",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic",
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1183504",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "witches",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "fever_house",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "zombies",
+   "murder",
+   "music"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_147494",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "zombies",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_273279",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "zombies"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1289148",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "zombies"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_313768",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "zombies",
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_1026922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [],
+  "tags": [
+   "zombies"
+  ],
+  "_note": "deterministic tag-match from description (tiers A)"
+ },
+ {
+  "id": "babel",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "call_of_cthulhu",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "art",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "gleam",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "gold",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_154097",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_190337",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_332660",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_357003",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1078742",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "music"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_115335",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1250746",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_133558",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_174799",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1200140",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_236811",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_328808",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_356804",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1488736",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_178847",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_299677",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_367907",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1123430",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1141252",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "academia"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "goldfinch",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_29886",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_24193",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art",
+   "friendship",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_329151",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2026772",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_287853",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "art"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_270618",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_355708",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_156934",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_19128",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_149693",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_151235",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1775698",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "college"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_289088",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_36624",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1465502",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking",
+   "friendship",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1482440",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_154436",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_247586",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "cooking",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1255222",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "epic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1624454",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "epic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1624456",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "epic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1428184",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "epic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "alpha_omega",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "beautiful",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship",
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "catching_fire",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2127585",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_232764",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_311751",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_106739",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_252369",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_104128",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_121907",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_13228",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_352853",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_101997",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_104943",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1277661",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1463999",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_337230",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1172931",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "friendship"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "city_of_the_iron_fish",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "earthquake_weather",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_110498",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1408508",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1617146",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1133023",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_17918",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_319920",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_326934",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_115096",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "murder",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_187395",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_207480",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_286273",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_335539",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_342409",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1043165",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_13981",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_16360",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_311013",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic",
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1057289",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_114829",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1194229",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1216141",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_196388",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_22893",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "magic"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "beautiful_player",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "medical"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_22349",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "medical"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1202622",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "medical"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1584941",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "medical",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "dogs_of_war",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "edge_of_the_known_world",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_208339",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_293245",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_336562",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_360347",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_367930",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1423630",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1765416",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_225872",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_323001",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_110150",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_150303",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_198679",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_281673",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "survival",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_33500",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_103482",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1078492",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_120818",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1279657",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1804350",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military",
+   "music",
+   "police",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_215563",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1123752",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1458444",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_368144",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1080120",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1169534",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1303679",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "military"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "7_and_a_half_deaths",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "a_drop_of_corruption",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "darkly_dreaming_dexter",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "dead_in_the_water",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "field_of_blood",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_293503",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_358061",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_363651",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2060091",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_295020",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1010828",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1933991",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_256582",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_273217",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1401626",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1474549",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1782",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_232506",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_103370",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1056212",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1152311",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_206",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder",
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_28518",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "murder"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "a_memory_of_light",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "music"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1273102",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "music"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1958682",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "music"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "a_legend_of_the_future",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "batman_the_killing_joke",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "glow",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_150531",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2332122",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_308",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1133701",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police",
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_133149",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_144017",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1642741",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police",
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_279922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_111846",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1134792",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_209182",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_362265",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_132583",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1489232",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_208343",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_271405",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_342851",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_25690",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_296126",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_309089",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "police"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_335193",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "retelling"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "blood_of_empire",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "dune_series",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "godsgrave",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_254614",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_25641",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_304641",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_354686",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_229619",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_241007",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1306104",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2017",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "revenge"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "a_new_darkness",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "cold_days",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "deity",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_243968",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_31210",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_327531",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1134388",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_362287",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1775681",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1570314",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "supernatural"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_154964",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_103990",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_146620",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1215502",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1223940",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1223949",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1223953",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1230942",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "survival"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_110801",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1838734",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1989375",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1083800",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_212114",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_343364",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "war"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_110533",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1666879",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_314239",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_125118",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [],
+  "tags": [
+   "western"
+  ],
+  "_note": "deterministic tag-match from description (tiers B)"
+ }
+]

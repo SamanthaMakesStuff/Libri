@@ -1,0 +1,9 @@
+[
+  {"id": "openlibrary_OL19744024W", "known": true, "book_class": "fiction",
+   "confidence": "medium",
+   "_note": "CORRECTED: removed 'neurodivergent-protagonist' (reader inference, not textual); added social-commentary/conformity which the OL subjects support 3x; confidence lowered from high to medium.",
+   "tropes": ["class-social-commentary", "interpersonal-character-study",
+              "identity-and-self-discovery", "quiet-literary-slow-burn"],
+   "tags": ["literary-fiction", "reflective", "funny", "sad", "challenging"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "None"}
+]

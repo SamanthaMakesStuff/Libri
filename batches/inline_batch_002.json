@@ -1,0 +1,143 @@
+[
+  {"id": "hardcover_455449", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["generation-ship", "class-stratification-in-a-future-society", "survival-narrative", "race-against-time", "sacrifice-for-the-greater-good"],
+   "tags": ["generation-ship-colonization-sci-fi", "dystopian", "tense", "sad", "reflective"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "truth_and_fear", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["dystopian-government-totalitarian-regime", "lone-detective-maverick-investigator", "cat-and-mouse-pursuit", "forbidden-magic"],
+   "tags": ["dark-fantasy", "dark", "tense", "mysterious"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL15185370W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["secret-royalty", "secret-relationship", "secret-baby", "exes-to-lovers", "forbidden-love"],
+   "tags": ["contemporary-romance", "emotional", "tense"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "High"},
+
+  {"id": "hardcover_119459", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["novel-in-stories-linked-short-stories-structure", "interpersonal-character-study", "quiet-literary-slow-burn"],
+   "tags": ["reflective", "sad", "funny"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL24208806W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["missing-person", "small-town-with-a-dark-secret", "isolated-setting", "serial-killer", "twist-ending", "sibling-bond-as-central-relationship"],
+   "tags": ["psychological-thriller", "dark", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL24156651W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["arranged-marriage", "forced-proximity", "forbidden-love", "age-gap-may-december-romance", "criminal-mastermind"],
+   "tags": ["dark-romance", "tense", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "High"},
+
+  {"id": "hardcover_562517", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "ethics-of-scientific-progress", "government-cover-up", "what-does-it-mean-to-be-human"],
+   "tags": ["first-contact", "hard-sci-fi", "reflective", "tense"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20054211W", "known": true, "book_class": "childrens", "confidence": "high",
+   "tropes": ["coming-of-age", "identity-crisis-self-discovery", "first-love", "class-divide"],
+   "tags": ["emotional", "reflective", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "N/A"},
+
+  {"id": "hardcover_1309621", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["grief-and-loss-as-central-theme", "ethics-of-scientific-progress", "twist-ending", "tragic-past"],
+   "tags": ["time-travel", "reflective", "tense", "sad"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL272363W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["real-historical-figure-as-secondary-character", "forbidden-love", "grief-and-loss-as-central-theme", "class-divide"],
+   "tags": ["biographical-historical-fiction", "reflective", "sad", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20002283W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["road-trip", "mysterious-stranger", "coming-of-age", "cat-and-mouse-pursuit", "isolated-setting"],
+   "tags": ["psychological-thriller", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL11970212W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["found-family", "coming-of-age", "identity-and-self-discovery", "magical-creatures-as-companions"],
+   "tags": ["lighthearted", "funny", "adventurous"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19324160W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-society-faction-system", "sibling-bond-as-central-relationship", "rebellion-against-an-oppressive-system", "survival-narrative", "race-against-time"],
+   "tags": ["ya-dystopian", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17345511W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "ancient-evil-awakening", "survival-narrative", "multiple-pov", "sacrifice-for-the-greater-good", "found-family"],
+   "tags": ["post-apocalyptic", "dark", "tense", "emotional"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "wool", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "post-apocalyptic-wasteland", "forbidden-knowledge", "rebellion-against-an-oppressive-system", "class-stratification-in-a-future-society", "twist-ending"],
+   "tags": ["dystopian", "post-apocalyptic", "dark", "tense", "mysterious"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17309635W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["serial-killer", "killer-hiding-in-plain-sight", "red-herring", "race-against-time"],
+   "tags": ["serial-killer-thriller", "detective-fiction", "dark", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "hardcover_433760", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "surveillance-state", "immigrant-diaspora-experience", "class-divide", "sacrifice-for-the-greater-good"],
+   "tags": ["dystopian", "dark", "emotional", "challenging", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17915378W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["dystopian-society-faction-system", "class-divide", "rebellion-against-an-oppressive-system", "coming-of-age", "identity-and-self-discovery"],
+   "tags": ["ya-dystopian", "challenging", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "contact", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "ethics-of-scientific-progress", "what-does-it-mean-to-be-human", "government-cover-up", "faith-vs-truth"],
+   "tags": ["first-contact", "hard-sci-fi", "reflective", "challenging", "hopeful"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "wayward", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["small-town-with-a-dark-secret", "surveillance-state", "isolated-setting", "twist-ending", "conspiracy"],
+   "tags": ["psychological-thriller", "mysterious", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL16151732W", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "tropes": [],
+   "tags": ["history", "politics", "narrative-nonfiction", "reflective", "challenging"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "hardcover_440082", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-colonization", "first-contact-with-aliens", "generation-spanning-saga", "survival-narrative", "what-does-it-mean-to-be-human"],
+   "tags": ["generation-ship-colonization-sci-fi", "first-contact", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "Low"},
+
+  {"id": "wanderers", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "multiple-pov", "rogue-sentient-ai", "road-trip", "survival-narrative", "sibling-bond-as-central-relationship"],
+   "tags": ["post-apocalyptic", "dark", "tense", "challenging"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "artemis380", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-colonization", "criminal-mastermind", "corporate-conspiracy", "race-against-time"],
+   "tags": ["heist", "hard-sci-fi", "adventurous", "funny", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "annie_bot", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "identity-and-self-discovery", "rebellion-against-an-oppressive-system"],
+   "tags": ["challenging", "dark", "emotional", "reflective"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL17901597W", "known": true, "book_class": "childrens", "confidence": "medium",
+   "tropes": ["secret-magical-society-hidden-in-the-mundane-world", "missing-person", "unlikely-hero", "band-of-misfits"],
+   "tags": ["funny", "adventurous", "lighthearted"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "left_hand_of_darkness", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "what-does-it-mean-to-be-human", "identity-and-self-discovery", "survival-narrative", "class-divide"],
+   "tags": ["soft-sci-fi", "reflective", "challenging", "emotional"],
+   "pacing": "Slow", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL24264865W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["revenge-plot", "coming-of-age", "apprenticeship-training-arc", "unlikely-hero"],
+   "tags": ["adventurous", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL13591588W", "known": false, "confidence": "unknown_book", "tropes": [], "tags": []}
+]

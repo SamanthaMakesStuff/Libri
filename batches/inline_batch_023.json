@@ -1,0 +1,31 @@
+[
+  {"id": "hardcover_459057", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "CORRECTION (user URL): Metro 2035 by Dmitry Glukhovsky confirmed. Author de-polluted (Andrew Bromfield = English translator). Artyom's search for surface survivors; the metro's propaganda and self-deception. Confidence raised medium->high.",
+   "tropes": ["post-apocalyptic-wasteland", "secret-underground-city", "survival-narrative", "conspiracy", "dystopian-government-totalitarian-regime"],
+   "tags": ["sci-fi", "post-apocalyptic", "dystopian", "dark", "tense"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL3335245W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "CORRECTION (user URL): The Catcher in the Rye by J. D. Salinger. Author de-polluted ('Shao jia yun' = Chinese translator). Tropes unchanged — they already matched the real book.",
+   "tropes": ["coming-of-age", "unreliable-narrator", "identity-crisis-self-discovery", "mental-health-narrative", "grief-and-loss-as-central-theme"],
+   "tags": ["literary-fiction", "reflective", "sad", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL675696W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "CORRECTION (user URL): The Edible Woman by Margaret Atwood. Dropped my WRONG trope 'midlife-reckoning' — Marian is a woman in her twenties, not midlife. Atwood's debut: consumerism/feminist satire where Marian's engagement triggers an inability to eat. Genres also fixed (were romance/Romantasy).",
+   "tropes": ["identity-and-self-discovery", "class-social-commentary", "interpersonal-character-study", "mental-health-narrative"],
+   "tags": ["literary-fiction", "reflective", "funny", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "hardcover_1687809", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "CORRECTION (user URL): The Love Lie by Monica McCallan — was known=false/no data. Sapphic contemporary romance: ex-pro tennis player Sydney King returns to Stoneport MA after a career-ending injury; she and Reese (her cheating ex's sister) are mistaken for a couple and run a revenge fauxmance. Low-angst, good communication, no big-mis. SPICE UNCERTAIN — set Tame, please adjust if wrong.",
+   "tropes": ["fake-dating", "revenge-plot", "sports-star-romance", "small-town", "low-angst-romance", "forced-proximity"],
+   "tags": ["sapphic", "lesbian", "contemporary", "hea", "25-39-lead", "light-and-fluffy"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "hardcover_1905929", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "CORRECTION (user URL): The Merge by Grace Walker (2025 debut) — was known=false/no data. Author whitespace fixed. Dystopian near-future London: Alzheimer's-stricken Laurie (65) and daughter Amelia (23) undergo a consciousness-merging process; 'Combines' get rights and pay, the unmerged are ground into poverty. Amelia is secretly undercover.",
+   "tropes": ["class-stratification-in-a-future-society", "ethics-of-scientific-progress", "dystopian-government-totalitarian-regime", "what-does-it-mean-to-be-human", "grief-and-loss-as-central-theme", "transhumanism", "secret-identity"],
+   "tags": ["sci-fi", "dystopian", "dark", "challenging", "emotional"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"}
+]

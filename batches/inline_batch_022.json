@@ -1,0 +1,25 @@
+[
+  {"id": "openlibrary_OL273644W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Alice Walker, The Color Purple — epistolary; Celie's abuse, endurance, and sapphic love with Shug in early-20th-c Georgia.",
+   "tropes": ["epistolary-structure", "tragic-past", "identity-and-self-discovery", "forbidden-love", "hidden-history-untold-women-s-history"],
+   "tags": ["literary-fiction", "historical-fiction", "sapphic", "emotional", "dark", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20831165W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Julia Armfield, salt slow — literary weird-horror short-story collection; bodies, transformation, obsession, revenge. Sapphic sensibility.",
+   "tropes": ["body-horror-transformation", "identity-and-self-discovery", "revenge-plot"],
+   "tags": ["horror", "literary-fiction", "sapphic", "magical-realism", "short-story-or-novella", "dark"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "hardcover_202662", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Justina Ireland, Dread Nation — alt-history YA; the dead rise during the US Civil War, Black girls conscripted to combat schools; Jane McKeene.",
+   "tropes": ["survival-narrative", "class-social-commentary", "rebellion-against-an-oppressive-system", "conspiracy", "the-outcast-hero"],
+   "tags": ["young-adult", "horror", "alternate-history", "dark", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Tame"},
+
+  {"id": "hardcover_427963", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Hugh Howey, Shift (Silo #2, prequel) — Italian OL description; the origin of the silos: anti-aging tech, memory-erasing pills, and the conspiracy behind the collapse.",
+   "tropes": ["dystopian-government-totalitarian-regime", "conspiracy", "secret-underground-city", "post-apocalyptic-wasteland", "government-cover-up"],
+   "tags": ["sci-fi", "dystopian", "post-apocalyptic", "dark", "tense"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"}
+]

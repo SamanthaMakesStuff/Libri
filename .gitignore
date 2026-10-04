@@ -1,0 +1,43 @@
+# === Secrets =================================================================
+hardcover_token.txt
+.env
+.env.local
+frontend/.env
+frontend/.env.local
+
+# === Database & large data (GitHub blocks >100MB; keep these out) ============
+# book_rec.db is ~199MB, bookCatalog*.json ~49MB each. They live locally and on
+# the Fly volume — never in Git.
+*.db
+*.db-shm
+*.db-wal
+bookCatalog.json
+bookCatalog.backup.json
+
+# === Backups, snapshots, caches (regenerable, bulky) =========================
+backups/
+archive/
+*_backup_*.json
+canonicalise_backup_*.json
+langdetect_cache.json
+verify_wiki_cache.json
+*_progress.json
+clean_log.jsonl
+scrape_state.json
+
+# === Python ==================================================================
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# === Node / frontend build ===================================================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+*.local
+
+# NOTE: curated data files (canon_*.csv, taxonomy*.csv/.md, *_decisions.csv,
+# schema.sql, requirements.txt, Dockerfile, fly.toml) are intentionally TRACKED.
+# Tell me if any of those should be ignored instead.

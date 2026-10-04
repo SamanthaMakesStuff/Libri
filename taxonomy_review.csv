@@ -1,0 +1,433 @@
+raw_term,frequency,method,nearest_display,nearest_slug,score
+biography & autobiography,1313,embedding,autobiography,autobiography,0.91
+detective and mystery stories,407,embedding,detective fiction,detective-fiction,0.807
+literature & fiction,402,embedding,Literary Fiction,literary-fiction,0.965
+thriller & suspense,329,embedding,Thriller,thriller,0.87
+royalty,317,embedding,secret royalty,secret-royalty,0.802
+english fiction,258,embedding,Literary Fiction,literary-fiction,0.85
+historical,228,embedding,history,history,0.862
+occult,202,embedding,occult horror,occult-horror,0.846
+fairy tales,186,embedding,fairy tale retelling,fairy-tale-retelling,0.816
+american fiction,183,embedding,Domestic fiction,domestic-fiction,0.826
+science fiction,164,embedding,Sci-Fi,sci-fi,0.822
+literary,159,embedding,Literary Fiction,literary-fiction,0.848
+thrillers,147,embedding,Thriller,thriller,0.911
+Forbidden Romance,145,embedding,forbidden love,forbidden-love,0.815
+Epic Fantasy,111,embedding,Epic/high fantasy,epic-high-fantasy,0.885
+litrpg,111,embedding,LitRPG/GameLit,lit-rpg-game-lit,0.841
+epic fantasy,107,embedding,Epic/high fantasy,epic-high-fantasy,0.885
+gothic,101,embedding,Gothic horror,gothic-horror,0.858
+genre fiction,101,embedding,Literary Fiction,literary-fiction,0.836
+teen & young adult,90,embedding,Young Adult,young-adult,0.862
+crime mystery & thriller,89,embedding,serial killer thriller,serial-killer-thriller,0.833
+high fantasy,84,embedding,low fantasy,low-fantasy,0.841
+cozy,84,embedding,cozy fantasy,cozy-fantasy,0.815
+detective,79,embedding,serial detective,serial-detective,0.867
+espionage,79,embedding,espionage/double agent,espionage-double-agent,0.801
+mystery thriller,77,embedding,psychological thriller,psychological-thriller,0.842
+psychological,69,embedding,psychology,psychology,0.871
+supernatural,68,embedding,supernatural horror,supernatural-horror,0.87
+mystery & detective,63,embedding,serial detective,serial-detective,0.853
+Hidden Identity,53,embedding,secret identity,secret-identity,0.854
+political,52,embedding,politics,politics,0.922
+fae,51,embedding,fae fantasy,fae-fantasy,0.872
+Complicated Romance,50,embedding,Romance,romance,0.815
+dystopias,50,embedding,dystopian,dystopian,0.877
+Grumpy-Sunshine Dynamic,47,embedding,grumpy/sunshine,grumpy-sunshine,0.837
+Dystopian Society,47,embedding,dystopian,dystopian,0.938
+fake relationship,43,embedding,fake relationship/fake engagement,fake-relationship-fake-engagement,0.802
+erotic romance,43,embedding,erotica,erotica,0.828
+hard science fiction,42,embedding,Hard sci-fi,hard-sci-fi,0.864
+Ancient & Forbidden Magic,42,embedding,forbidden magic,forbidden-magic,0.84
+Quest for Revenge,39,embedding,revenge plot,revenge-plot,0.808
+hidden identity,39,embedding,secret identity,secret-identity,0.854
+Multiple Timelines,36,embedding,dual timeline,dual-timeline,0.855
+crime,35,embedding,true crime,true-crime,0.82
+crime / thriller,35,embedding,serial killer thriller,serial-killer-thriller,0.856
+crime fiction,34,embedding,detective fiction,detective-fiction,0.844
+fantasy & science fiction,34,embedding,science fantasy,science-fantasy,0.844
+science-fiction,32,embedding,Sci-Fi,sci-fi,0.822
+mm romance,32,embedding,Romance,romance,0.803
+YA Fantasy,31,embedding,Fantasy,fantasy,0.862
+Dragon Rider Fantasy,30,embedding,dragon fantasy,dragon-fantasy,0.835
+biographical fiction,30,embedding,biographical historical fiction,biographical-historical-fiction,0.928
+single parent,27,embedding,single dad/mom,single-dad-mom,0.825
+science fiction fantasy,27,embedding,science fantasy,science-fantasy,0.86
+multiple pov's,25,embedding,multiple POV,multiple-pov,0.942
+Gothic Fantasy,24,embedding,Gothic horror,gothic-horror,0.888
+single pov,24,embedding,multiple POV,multiple-pov,0.88
+Ancient Prophecy,24,embedding,Prophecy,prophecy,0.863
+YA Romance,24,embedding,Romance,romance,0.866
+spirituality,24,embedding,spirituality/religion,spirituality-religion,0.911
+military fiction,22,embedding,War fiction,war-fiction,0.849
+alternative histories (fiction),21,embedding,Historical Fiction,historical-fiction,0.801
+sword & sorcery,21,embedding,sword and sorcery,sword-and-sorcery,0.964
+paranormal fiction,20,embedding,paranormal romance,paranormal-romance,0.819
+family saga,19,embedding,family saga across generations,family-saga-across-generations,0.844
+fairytale retelling,19,embedding,fairy tale retelling,fairy-tale-retelling,0.959
+secret heir/royalty,19,embedding,secret heir / lost heir / secret royalty,secret-heir-lost-heir-secret-royalty,0.947
+spy thriller,19,embedding,spy/espionage thriller,spy-espionage-thriller,0.915
+inspirational,19,embedding,inspiring,inspiring,0.814
+fantasy; litrpg,19,embedding,LitRPG/GameLit,lit-rpg-game-lit,0.802
+grumpy x sunshine,18,embedding,grumpy/sunshine,grumpy-sunshine,0.888
+lockedRoom,16,embedding,locked-room mystery,locked-room-mystery,0.859
+Generational Saga,16,embedding,generation-spanning saga,generation-spanning-saga,0.839
+harem,16,embedding,reverse harem,reverse-harem,0.845
+multiple timelines,15,embedding,dual timeline,dual-timeline,0.855
+dual pov,14,embedding,dual/multiple POV structure,dual-multiple-pov-structure,0.809
+fantasy & magic,14,embedding,Fantasy,fantasy,0.806
+Soul Mates,13,embedding,soulmates,soulmates,0.914
+assassination,13,embedding,assassination plot,assassination-plot,0.864
+sagas,13,embedding,saga,saga,0.919
+thrillers & mystery,13,embedding,Thriller,thriller,0.868
+crime thriller,12,embedding,serial killer thriller,serial-killer-thriller,0.856
+Whodunnit Mystery,12,embedding,whodunit,whodunit,0.817
+social psychology,12,embedding,psychology,psychology,0.824
+scifi,11,embedding,Sci-Fi,sci-fi,0.936
+First Contact with Alien Species,11,embedding,first contact with aliens,first-contact-with-aliens,0.917
+Grimdark Fantasy,11,embedding,grimdark,grimdark,0.832
+fiction / fantasy / epic,11,embedding,Epic/high fantasy,epic-high-fantasy,0.801
+dragon romance,11,embedding,dragon fantasy,dragon-fantasy,0.839
+reverse harem / why choose,11,embedding,reverse harem,reverse-harem,0.877
+ya fantasy,11,embedding,Fantasy,fantasy,0.862
+religion & spirituality,11,embedding,spirituality/religion,spirituality-religion,0.892
+thrillers & suspense,11,embedding,Thriller,thriller,0.849
+war novels,11,embedding,War fiction,war-fiction,0.85
+magic school,11,embedding,magic school / magical academy,magic-school-magical-academy,0.902
+dual-pov,11,embedding,dual/multiple POV structure,dual-multiple-pov-structure,0.809
+philosophical,10,embedding,philosophy,philosophy,0.896
+dark lord,10,embedding,the dark lord/ultimate evil,the-dark-lord-ultimate-evil,0.803
+fiction / fantasy / dark fantasy,10,embedding,dark fantasy,dark-fantasy,0.89
+Mythological Retelling,10,embedding,mythology retelling,mythology-retelling,0.951
+dystopian fiction,10,embedding,dystopian,dystopian,0.82
+fiction / literary,10,embedding,Literary Fiction,literary-fiction,0.986
+occult fiction,10,embedding,occult horror,occult-horror,0.823
+paranormal romance stories,10,embedding,paranormal romance,paranormal-romance,0.898
+psychology & philosophy,10,embedding,psychology,psychology,0.804
+mysteries,9,embedding,Mystery,mystery,0.843
+empire,9,embedding,galactic empire,galactic-empire,0.822
+Cowboy Romance,9,embedding,cowboy/western romance,cowboy-western-romance,0.896
+literature & fiction:genre fiction:literary fiction,9,embedding,Literary Fiction,literary-fiction,0.865
+ancient,9,embedding,ancient world,ancient-world,0.855
+emotions,9,embedding,emotional,emotional,0.884
+wellness,9,embedding,health & wellness,health-and-wellness,0.911
+detective and mystery fiction,9,embedding,detective fiction,detective-fiction,0.921
+athlete romance,9,embedding,sports romance,sports-romance,0.903
+space colonies,9,embedding,space colonization,space-colonization,0.816
+Social Commentary,8,embedding,class/social commentary,class-social-commentary,0.867
+Hard Science Fiction,8,embedding,Hard sci-fi,hard-sci-fi,0.864
+post-apocalyptic earth,8,embedding,post-apocalyptic,post-apocalyptic,0.899
+Single Parent,8,embedding,single dad/mom,single-dad-mom,0.825
+demon romance,8,embedding,demon/angel romance,demon-angel-romance,0.894
+apocalyptic & post-apocalyptic,8,embedding,post-apocalyptic,post-apocalyptic,0.946
+serial murderers,8,embedding,serial killer,serial-killer,0.84
+romance; fantasy,8,embedding,Romance,romance,0.837
+not dark romance,8,embedding,dark romance,dark-romance,0.897
+reflective and emotional,8,embedding,reflective,reflective,0.841
+supernatural thriller,7,embedding,supernatural horror,supernatural-horror,0.872
+exploration,7,embedding,space exploration,space-exploration,0.816
+colonialism,7,embedding,colonial/postcolonial,colonial-postcolonial,0.823
+apocalypse,7,embedding,apocalyptic,apocalyptic,0.855
+thriller & suspense|romance,7,embedding,romantic suspense,romantic-suspense,0.841
+love & romance,7,embedding,Romance,romance,0.9
+religion / spirituality,7,embedding,spirituality/religion,spirituality-religion,0.892
+military science fiction,7,embedding,military sci-fi,military-sci-fi,0.908
+fantasy games,7,embedding,Fantasy,fantasy,0.805
+crime & thriller,7,embedding,serial killer thriller,serial-killer-thriller,0.856
+cookbooks,7,embedding,food writing/cookbooks,food-writing-cookbooks,0.832
+forbidden romance,7,embedding,forbidden love,forbidden-love,0.815
+romance; fantasy; paranormal,7,embedding,paranormal romance,paranormal-romance,0.919
+grovel,7,embedding,grovel arc,grovel-arc,0.807
+hilarious,7,embedding,funny,funny,0.81
+tragic,6,embedding,tragic past,tragic-past,0.803
+biographies,6,embedding,biography,biography,0.834
+slightly dark romance,6,embedding,dark romance,dark-romance,0.891
+fiction / fantasy / paranormal,6,embedding,paranormal romance,paranormal-romance,0.809
+fairy tales.,6,embedding,fairy tale retelling,fairy-tale-retelling,0.816
+women's history,6,embedding,hidden history / untold women's history,hidden-history-untold-women-s-history,0.817
+fiction - science fiction,5,embedding,Literary Fiction,literary-fiction,0.803
+multiple worlds,5,embedding,different worlds,different-worlds,0.829
+mentor,5,embedding,mentor/mentee,mentor-mentee,0.809
+demoniac possession,5,embedding,demon/possession,demon-possession,0.837
+occult & supernatural,5,embedding,occult horror,occult-horror,0.835
+memoir-biography,5,embedding,Memoir,memoir,0.817
+fiction & literature,5,embedding,Literary Fiction,literary-fiction,0.953
+amnesiacs,5,embedding,amnesia,amnesia,0.856
+mystery; thrillers,5,embedding,Thriller,thriller,0.837
+fiction / science fiction / space opera,5,embedding,space opera,space-opera,0.866
+fiction / fantasy / urban,5,embedding,urban fantasy,urban-fantasy,0.886
+romance; paranormal; literature & fiction,5,embedding,paranormal romance,paranormal-romance,0.898
+One Bed,4,embedding,only one bed,only-one-bed,0.92
+polyamorous,4,embedding,polyamory,polyamory,0.918
+portal,4,embedding,portal fantasy,portal-fantasy,0.836
+medieval kingdom,4,embedding,medieval,medieval,0.809
+fantasy - epic,4,embedding,Epic/high fantasy,epic-high-fantasy,0.863
+light-hearted,4,embedding,lighthearted,lighthearted,0.808
+YA Mystery,4,embedding,Mystery,mystery,0.857
+horror; thrillers,4,embedding,Thriller,thriller,0.843
+biography & autobiography / personal memoirs,4,embedding,autobiography,autobiography,0.818
+narrative non-fiction,4,embedding,narrative nonfiction,narrative-nonfiction,0.82
+utopias,4,embedding,utopian,utopian,0.919
+fantasy; literary fiction,4,embedding,Literary Fiction,literary-fiction,0.846
+virtual reality,4,embedding,virtual reality world,virtual-reality-world,0.888
+dystopian present or future,4,embedding,dystopian,dystopian,0.818
+fiction / romance / romantic comedy,4,embedding,romantic comedy,romantic-comedy,0.896
+epic; dark fantasy,4,embedding,dark fantasy,dark-fantasy,0.922
+genre: sci-fi,4,embedding,Sci-Fi,sci-fi,0.834
+fiction / fairy tales,4,embedding,fairy tale retelling,fairy-tale-retelling,0.812
+fiction / romance / contemporary,4,embedding,Contemporary romance,contemporary-romance,0.897
+science fiction/fantasy,4,embedding,science fantasy,science-fantasy,0.86
+political | court intrigue,4,embedding,court intrigue,court-intrigue,0.87
+gay romance,4,embedding,LGBTQ+ romance,lgbtq-romance,0.809
+occultism,4,embedding,occult horror,occult-horror,0.816
+Dragon Mythology,3,embedding,dragon fantasy,dragon-fantasy,0.825
+Virtual Reality Universe,3,embedding,virtual reality world,virtual-reality-world,0.87
+general & literary fiction,3,embedding,Literary Fiction,literary-fiction,0.848
+Environmental Collapse,3,embedding,environmental collapse narrative,environmental-collapse-narrative,0.881
+Flintlock Fantasy,3,embedding,flintlock/gaslamp fantasy,flintlock-gaslamp-fantasy,0.839
+Deal with the Devil,3,embedding,deal with a devil/demon,deal-with-a-devil-demon,0.874
+dark academia romance,3,embedding,dark academia,dark-academia,0.853
+celebrity / rockstar romance,3,embedding,rockstar romance,rockstar-romance,0.843
+supernatural fiction,3,embedding,supernatural horror,supernatural-horror,0.842
+sci-fi / thriller,3,embedding,Thriller,thriller,0.885
+medieval history,3,embedding,medieval,medieval,0.857
+alien contact,3,embedding,first contact with aliens,first-contact-with-aliens,0.814
+adventure thriller,3,embedding,action thriller,action-thriller,0.837
+travel writing & commentary,3,embedding,travel writing,travel-writing,0.81
+thrillers; young adult,3,embedding,Thriller,thriller,0.811
+serial murders,3,embedding,serial killer,serial-killer,0.857
+cyberpunk fiction,3,embedding,cyberpunk,cyberpunk,0.861
+forced proximity tension,3,embedding,forced proximity,forced-proximity,0.809
+space opera; hard science fiction,3,embedding,space opera,space-opera,0.828
+fiction / gothic,3,embedding,Gothic horror,gothic-horror,0.84
+multiverse,3,embedding,parallel universe / multiverse,parallel-universe-multiverse,0.826
+medium dark romance,3,embedding,dark romance,dark-romance,0.896
+romance; contemporary; literature & fiction,3,embedding,Contemporary romance,contemporary-romance,0.841
+romance; urban; paranormal,3,embedding,paranormal romance,paranormal-romance,0.878
+cybernetics,2,embedding,cybernetic enhancement,cybernetic-enhancement,0.818
+['science fiction'],2,embedding,Sci-Fi,sci-fi,0.822
+clone,2,embedding,cloning,cloning,0.861
+victorian era,2,embedding,Victorian,victorian,0.892
+sci-fi; post-apocalypse,2,embedding,post-apocalyptic,post-apocalyptic,0.806
+spiritual,2,embedding,spirituality/religion,spirituality-religion,0.811
+parallel universe,2,embedding,parallel universe / multiverse,parallel-universe-multiverse,0.908
+urban fiction,2,embedding,urban fantasy,urban-fantasy,0.805
+epic; fantasy,2,embedding,Epic/high fantasy,epic-high-fantasy,0.885
+surveillance,2,embedding,surveillance state,surveillance-state,0.837
+fiction / occult & supernatural,2,embedding,occult horror,occult-horror,0.804
+Solarpunk Future,2,embedding,solarpunk,solarpunk,0.856
+Parallel Universes,2,embedding,parallel universe / multiverse,parallel-universe-multiverse,0.903
+Multiverse Theory,2,embedding,parallel universe / multiverse,parallel-universe-multiverse,0.816
+paranormal fantasy,2,embedding,paranormal romance,paranormal-romance,0.814
+co-parenting romance,2,embedding,single parent romance,single-parent-romance,0.844
+very dark romance,2,embedding,dark romance,dark-romance,0.928
+post-apocalypse,2,embedding,post-apocalyptic,post-apocalyptic,0.869
+coming-of-age story,2,embedding,Coming of age,coming-of-age,0.853
+lgbtq-fantasy,2,embedding,LGBTQ+ romance,lgbtq-romance,0.811
+teachers,2,embedding,teacher/student,teacher-student,0.807
+disappeared persons,2,embedding,missing person,missing-person,0.82
+authors > fiction,2,embedding,Literary Fiction,literary-fiction,0.845
+fantasy / ya,2,embedding,Fantasy,fantasy,0.906
+creative nonfiction,2,embedding,narrative nonfiction,narrative-nonfiction,0.811
+american western romance,2,embedding,cowboy/western romance,cowboy-western-romance,0.84
+graphic memoir,2,embedding,Memoir,memoir,0.808
+cookbook,2,embedding,food writing/cookbooks,food-writing-cookbooks,0.8
+hostage negotiations,2,embedding,hostage situation,hostage-situation,0.879
+conspiracy theories,2,embedding,conspiracy,conspiracy,0.811
+fiction / crime,2,embedding,true crime-adjacent fiction,true-crime-adjacent-fiction,0.805
+erotic art,2,embedding,erotica,erotica,0.831
+romantic suspense fiction,2,embedding,romantic suspense,romantic-suspense,0.925
+biographical,2,embedding,biography,biography,0.86
+cozy mystery stories,2,embedding,Cozy mystery,cozy-mystery,0.866
+non-fiction; history,2,embedding,Historical Fiction,historical-fiction,0.824
+timelines,2,embedding,alternate timeline,alternate-timeline,0.81
+nonfiction and memoir,2,embedding,narrative nonfiction,narrative-nonfiction,0.829
+contemporary sci-fi,2,embedding,Sci-Fi,sci-fi,0.854
+fairy tale,2,embedding,fairy tale retelling,fairy-tale-retelling,0.819
+colonialism & post-colonialism,2,embedding,colonial/postcolonial,colonial-postcolonial,0.869
+best friends to lovers,2,embedding,friends to lovers,friends-to-lovers,0.854
+paranormal erotic romance,2,embedding,paranormal romance,paranormal-romance,0.914
+fiction / classics,2,embedding,Historical Fiction,historical-fiction,0.814
+fiction / romance / lgbtq+ / gay,2,embedding,LGBTQ+ romance,lgbtq-romance,0.808
+modern romance,2,embedding,Contemporary romance,contemporary-romance,0.875
+space opera; adventure,2,embedding,space opera,space-opera,0.885
+ancient history,2,embedding,ancient world,ancient-world,0.812
+parallel universes,2,embedding,parallel universe / multiverse,parallel-universe-multiverse,0.903
+shapeshifting,2,embedding,shapeshifters,shapeshifters,0.883
+fantasy litrpg,2,embedding,LitRPG/GameLit,lit-rpg-game-lit,0.802
+romance; paranormal; literature & fiction; fantasy,2,embedding,paranormal romance,paranormal-romance,0.877
+thriller; crime,2,embedding,Thriller,thriller,0.849
+romance; paranormal; action & adventure,2,embedding,paranormal romance,paranormal-romance,0.885
+open door,2,embedding,Closed door,closed-door,0.861
+fast burn,2,embedding,slow burn,slow-burn,0.917
+office romance,1,embedding,category/office romance,category-office-romance,0.871
+friends to lovers (fanfic),1,embedding,friends to lovers,friends-to-lovers,0.811
+haunted,1,embedding,haunted house,haunted-house,0.842
+post-cyberpunk,1,embedding,cyberpunk,cyberpunk,0.87
+dystopiat,1,embedding,dystopian,dystopian,0.925
+literary science fiction,1,embedding,Literary Fiction,literary-fiction,0.897
+tournament,1,embedding,tournament/competition,tournament-competition,0.921
+Classic Sci-fi,1,embedding,Sci-Fi,sci-fi,0.829
+crime novel,1,embedding,true crime-adjacent fiction,true-crime-adjacent-fiction,0.8
+science-fiction et fantasy,1,embedding,science fantasy,science-fantasy,0.811
+fiction/fantasy / epic,1,embedding,Epic/high fantasy,epic-high-fantasy,0.801
+friends to lovers to enemies to lovers,1,embedding,friends to lovers,friends-to-lovers,0.911
+Totalitarian Regime,1,embedding,Dystopian government / totalitarian regime,dystopian-government-totalitarian-regime,0.829
+fake engagement,1,embedding,fake relationship/fake engagement,fake-relationship-fake-engagement,0.904
+angel romance,1,embedding,demon/angel romance,demon-angel-romance,0.857
+fiction; thrillers,1,embedding,Thriller,thriller,0.831
+horror thriller,1,embedding,psychological thriller,psychological-thriller,0.868
+thriller & suspense:thriller & suspense:psychological,1,embedding,psychological thriller,psychological-thriller,0.829
+adventurous; feel-good,1,embedding,adventurous,adventurous,0.874
+fiction / thrillers / domestic,1,embedding,domestic thriller,domestic-thriller,0.841
+biography: science,1,embedding,biography,biography,0.823
+science fiction; adventure; space opera,1,embedding,space opera,space-opera,0.849
+clinical psychology,1,embedding,psychology,psychology,0.823
+art and music,1,embedding,art & music,art-and-music,0.971
+romance: enemies to lovers,1,embedding,Enemies to lovers,enemies-to-lovers,0.875
+literature & fiction:historical fiction,1,embedding,Historical Fiction,historical-fiction,0.929
+fiction / romance - contemporary,1,embedding,Contemporary romance,contemporary-romance,0.897
+deal with the devil,1,embedding,deal with a devil/demon,deal-with-a-devil-demon,0.874
+fantasy; ya,1,embedding,Fantasy,fantasy,0.906
+human-animal communication,1,embedding,talking animals,talking-animals,0.843
+modern fae,1,embedding,fae fantasy,fae-fantasy,0.821
+child of a serial killer,1,embedding,serial killer,serial-killer,0.806
+food writers,1,embedding,food writing/cookbooks,food-writing-cookbooks,0.826
+historical fiction: war,1,embedding,Historical Fiction,historical-fiction,0.85
+fiction / war & military,1,embedding,War fiction,war-fiction,0.892
+historical fiction; mystery,1,embedding,Historical Fiction,historical-fiction,0.876
+animal genetic engineering,1,embedding,genetic engineering,genetic-engineering,0.844
+harems,1,embedding,reverse harem,reverse-harem,0.814
+fiction / thrillers / political,1,embedding,political thriller,political-thriller,0.871
+fiction / thrillers / espionage,1,embedding,spy/espionage thriller,spy-espionage-thriller,0.872
+serial murders - fiction,1,embedding,serial killer thriller,serial-killer-thriller,0.807
+fiction / thrillers / psychological,1,embedding,psychological thriller,psychological-thriller,0.856
+psychology of,1,embedding,psychology,psychology,0.908
+cowboy romance,1,embedding,cowboy/western romance,cowboy-western-romance,0.896
+best friend's love interest,1,embedding,best friend becomes love interest,best-friend-becomes-love-interest,0.925
+haunted house romance,1,embedding,haunted house,haunted-house,0.867
+epic; magical realism,1,embedding,magical realism,magical-realism,0.91
+realism,1,embedding,magical realism,magical-realism,0.824
+revenge -- fiction,1,embedding,revenge plot,revenge-plot,0.81
+medieval period,1,embedding,medieval,medieval,0.887
+alternative history; fantasy; fiction; historical,1,embedding,Historical Fiction,historical-fiction,0.813
+literature & fiction:horror,1,embedding,quiet horror/literary horror,quiet-horror-literary-horror,0.822
+psychology / applied psychology,1,embedding,psychology,psychology,0.806
+dystop,1,embedding,dystopian,dystopian,0.959
+fiction / mystery & detective / traditional,1,embedding,detective fiction,detective-fiction,0.806
+fiction / mystery & detective / amateur sleuth,1,embedding,serial detective,serial-detective,0.806
+gothic novels,1,embedding,Gothic horror,gothic-horror,0.806
+fiction / science fiction / time travel,1,embedding,time travel,time-travel,0.829
+'literary',1,embedding,Literary Fiction,literary-fiction,0.848
+literary thriller,1,embedding,psychological thriller,psychological-thriller,0.806
+literary horror,1,embedding,quiet horror/literary horror,quiet-horror-literary-horror,0.828
+thriller; mystery,1,embedding,Thriller,thriller,0.868
+war criminals -- fiction,1,embedding,War fiction,war-fiction,0.814
+fantasy; lgbtq+; romance,1,embedding,LGBTQ+ romance,lgbtq-romance,0.876
+fiction / science fiction / military,1,embedding,military sci-fi,military-sci-fi,0.872
+philosophical🪶,1,embedding,philosophy,philosophy,0.896
+biography & autobiography / historical,1,embedding,biographical historical fiction,biographical-historical-fiction,0.814
+fiction / romance / lgbtq+ / lesbian,1,embedding,LGBTQ+ romance,lgbtq-romance,0.811
+fantasy; science fiction,1,embedding,science fantasy,science-fantasy,0.844
+romance: entertainment,1,embedding,Romance,romance,0.811
+epic; classics; fantasy,1,embedding,Epic/high fantasy,epic-high-fantasy,0.815
+fantasy; historical fiction; literary fiction,1,embedding,Historical Fiction,historical-fiction,0.844
+biography & autobiography / business,1,embedding,autobiography,autobiography,0.813
+fiction / science fiction / hard science fiction,1,embedding,Hard sci-fi,hard-sci-fi,0.801
+science fiction.,1,embedding,Sci-Fi,sci-fi,0.822
+classic mystery,1,embedding,Mystery,mystery,0.846
+social commentary,1,embedding,class/social commentary,class-social-commentary,0.867
+space opera; adventure; movie,1,embedding,space opera,space-opera,0.801
+biographies & memoirs:historical,1,embedding,biographical historical fiction,biographical-historical-fiction,0.839
+vengeful spirit,1,embedding,Ghost/vengeful spirit,ghost-vengeful-spirit,0.86
+paranormal; contemporary; fantasy,1,embedding,paranormal romance,paranormal-romance,0.828
+romances,1,embedding,Romance,romance,0.932
+magical school,1,embedding,magical school/academy,magical-school-academy,0.905
+fiction / historical / ancient,1,embedding,Historical Fiction,historical-fiction,0.804
+light romance,1,embedding,dark romance,dark-romance,0.82
+flintlock fantasy,1,embedding,flintlock/gaslamp fantasy,flintlock-gaslamp-fantasy,0.839
+fae magic,1,embedding,fae fantasy,fae-fantasy,0.865
+'literary'],1,embedding,Literary Fiction,literary-fiction,0.848
+adventurous; mysterious,1,embedding,adventurous,adventurous,0.856
+alien war,1,embedding,alien invasion,alien-invasion,0.805
+friends to enemies to lovers,1,embedding,friends to lovers,friends-to-lovers,0.883
+soul mates,1,embedding,soulmates,soulmates,0.914
+adventurous; moving,1,embedding,adventurous,adventurous,0.819
+travel writers,1,embedding,travel writing,travel-writing,0.92
+literary fiction; romance,1,embedding,Literary Fiction,literary-fiction,0.812
+competitions,1,embedding,tournament/competition,tournament-competition,0.824
+fiction / romance / holiday,1,embedding,holiday romance,holiday-romance,0.881
+fiction / romance / sports,1,embedding,sports romance,sports-romance,0.865
+fae kingdom,1,embedding,fae fantasy,fae-fantasy,0.845
+royal court,1,embedding,royal court intrigue,royal-court-intrigue,0.804
+romance enemies to lovers,1,embedding,Enemies to lovers,enemies-to-lovers,0.875
+romance: second chance,1,embedding,second-chance romance,second-chance-romance,0.957
+cozy romance,1,embedding,cozy fantasy,cozy-fantasy,0.819
+necromancer,1,embedding,necromancy,necromancy,0.863
+family sagas,1,embedding,family saga across generations,family-saga-across-generations,0.841
+romance; paranormal; literature & fiction; romantic suspense,1,embedding,paranormal romance,paranormal-romance,0.839
+neurodivergent,1,embedding,neurodivergent protagonist,neurodivergent-protagonist,0.821
+lgbtq+fantasy,1,embedding,LGBTQ+ romance,lgbtq-romance,0.811
+fairytale & mythological retellings,1,embedding,mythology retelling,mythology-retelling,0.806
+spy novel,1,embedding,spy/espionage thriller,spy-espionage-thriller,0.833
+myth retelling,1,embedding,mythology retelling,mythology-retelling,0.878
+fiction / romance / suspense,1,embedding,romantic suspense,romantic-suspense,0.888
+supernatural romance,1,embedding,paranormal romance,paranormal-romance,0.824
+childhood friends to lovers,1,embedding,friends to lovers,friends-to-lovers,0.823
+fiction / romance / billionaires,1,embedding,billionaire romance,billionaire-romance,0.818
+fiction / romance / workplace,1,embedding,workplace romance,workplace-romance,0.83
+literary fiction -- relationships,1,embedding,Literary Fiction,literary-fiction,0.821
+romance; urban; paranormal; supernatural,1,embedding,paranormal romance,paranormal-romance,0.878
+sportswriters,1,embedding,sports writing,sports-writing,0.808
+abandoned houses,1,embedding,abandoned building,abandoned-building,0.821
+detective and mystery films,1,embedding,detective fiction,detective-fiction,0.812
+genre: sci fi,1,embedding,Sci-Fi,sci-fi,0.834
+books; thriller,1,embedding,Thriller,thriller,0.826
+romance; paranormal; romantic comedy; fantasy,1,embedding,paranormal romance,paranormal-romance,0.842
+romance: lessons,1,embedding,Romance,romance,0.804
+fiction and literature,1,embedding,Literary Fiction,literary-fiction,0.909
+fantasy; horror,1,embedding,supernatural horror,supernatural-horror,0.8
+romance; romantic comedy; literature & fiction,1,embedding,romantic comedy,romantic-comedy,0.841
+hostages,1,embedding,hostage situation,hostage-situation,0.828
+historical fiction; literary fiction; sci-fi,1,embedding,Historical Fiction,historical-fiction,0.865
+meaning (philosophy),1,embedding,philosophy,philosophy,0.821
+serial murder,1,embedding,serial killer,serial-killer,0.89
+single dad romance,1,embedding,single parent romance,single-parent-romance,0.869
+romance; paranormal; romantic suspense,1,embedding,paranormal romance,paranormal-romance,0.87
+road travel,1,embedding,road trip,road-trip,0.885
+fantasy; grimdark,1,embedding,grimdark,grimdark,0.87
+cozy dark academia,1,embedding,dark academia,dark-academia,0.855
+fantasy; space opera,1,embedding,space opera,space-opera,0.871
+young adult fiction / romance / paranormal,1,embedding,paranormal romance,paranormal-romance,0.869
+colonization,1,embedding,space colonization,space-colonization,0.855
+romance; paranormal; urban; romantic suspense,1,embedding,paranormal romance,paranormal-romance,0.856
+urban; literature & fiction; fantasy,1,embedding,urban fantasy,urban-fantasy,0.844
+post-apocalyptic science fiction,1,embedding,post-apocalyptic,post-apocalyptic,0.823
+football romance,1,embedding,sports romance,sports-romance,0.829
+romance; romantic suspense; private investigators,1,embedding,romantic suspense,romantic-suspense,0.803
+fiction / fantasy / historical,1,embedding,Historical Fiction,historical-fiction,0.854
+romance; fantasy; sports,1,embedding,sports romance,sports-romance,0.898
+fiction; poetry,1,embedding,Literary Fiction,literary-fiction,0.805
+romance; fantasy; historical fiction; historical,1,embedding,historical romance,historical-romance,0.878
+ya; fantasy,1,embedding,Fantasy,fantasy,0.862
+clones,1,embedding,cloning,cloning,0.82
+human cloning,1,embedding,cloning,cloning,0.919
+young adult fiction / romance / romantic comedy,1,embedding,romantic comedy,romantic-comedy,0.847
+literature & fiction - literature,1,embedding,Literary Fiction,literary-fiction,0.914
+romantic suspense novels,1,embedding,romantic suspense,romantic-suspense,0.875
+romance; fantasy; urban,1,embedding,urban fantasy,urban-fantasy,0.821
+fiction / dystopian,1,embedding,dystopian,dystopian,0.811
+lgbtqia+ romance,1,embedding,LGBTQ+ romance,lgbtq-romance,0.879
+romance; paranormal; literature & fiction; thriller & suspense; fantasy; supernatural,1,embedding,paranormal romance,paranormal-romance,0.822
+romance; paranormal; romantic comedy,1,embedding,paranormal romance,paranormal-romance,0.858
+romance; paranormal; literature & fiction; thriller & suspense; fantasy,1,embedding,paranormal romance,paranormal-romance,0.813
+sf_cyberpunk,1,embedding,cyberpunk,cyberpunk,0.91
+romance; fantasy; paranormal; literature & fiction,1,embedding,paranormal romance,paranormal-romance,0.874
+hostage,1,embedding,hostage situation,hostage-situation,0.919
+romance; paranormal; literature & fiction; fantasy; romantic suspense,1,embedding,paranormal romance,paranormal-romance,0.832
+romance; paranormal; literature & fiction; fantasy; science fiction,1,embedding,paranormal romance,paranormal-romance,0.872
+romance; romantic,1,embedding,Romance,romance,0.869
+romance; fantasy; romantic suspense,1,embedding,romantic suspense,romantic-suspense,0.882
+thriller; psychology,1,embedding,psychological thriller,psychological-thriller,0.876
+mystery-thriller,1,embedding,psychological thriller,psychological-thriller,0.842
+romance; contemporary; romantic comedy,1,embedding,romantic comedy,romantic-comedy,0.906

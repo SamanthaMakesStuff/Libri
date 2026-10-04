@@ -1,0 +1,97 @@
+[
+  {"id": "openlibrary_OL5706608W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "Nancy Lieberman, Admissions — social comedy of private-school admissions/bribery; kept modest.",
+   "tropes": ["class-social-commentary", "interpersonal-character-study"],
+   "tags": ["funny", "lighthearted", "contemporary"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL19330481W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "VanderMeer, Acceptance (Southern Reach #3).",
+   "tropes": ["environmental-collapse-narrative", "government-cover-up", "what-does-it-mean-to-be-human", "non-linear-timeline", "isolated-setting"],
+   "tags": ["sci-fi", "body-horror", "dark", "mysterious", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL17453058W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "VanderMeer, Authority (Southern Reach #2); bureaucratic paranoia.",
+   "tropes": ["government-cover-up", "conspiracy", "slow-descent-into-madness", "what-does-it-mean-to-be-human", "isolated-setting"],
+   "tags": ["sci-fi", "psychological-horror", "dark", "mysterious", "tense"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL17268007W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "VanderMeer, Annihilation (Southern Reach #1); Area X, the biologist, unreliable field journal.",
+   "tropes": ["environmental-collapse-narrative", "isolated-setting", "body-horror-transformation", "what-does-it-mean-to-be-human", "unreliable-narrator", "survival-narrative"],
+   "tags": ["sci-fi", "body-horror", "dark", "mysterious", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL17670692W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Emma Donoghue, Frog Music — based on the real 1876 San Francisco murder of Jenny Bonnet.",
+   "tropes": ["based-on-a-true-story-framing", "hidden-history-untold-women-s-history", "amateur-sleuth-stumbling-into-a-case", "class-social-commentary"],
+   "tags": ["historical-fiction", "historical-mystery", "dark", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL16695055W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "Heather Graham, The Uninvited (Krewe of Hunters) — paranormal romantic suspense, haunted mansion.",
+   "tropes": ["haunted-house-mansion", "ghost-vengeful-spirit", "secret-magical-society-hidden-in-the-mundane-world"],
+   "tags": ["paranormal", "paranormal-romance", "romantic-suspense", "tense", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL16571926W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Malinda Lo, Adaptation — sapphic YA sci-fi conspiracy; bisexual lead, love triangle.",
+   "tropes": ["government-cover-up", "conspiracy", "first-contact-with-aliens", "love-triangle", "queer-coming-of-age"],
+   "tags": ["young-adult", "sci-fi", "sapphic", "bisexual", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Tame"},
+
+  {"id": "verity", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Colleen Hoover, Verity — dark romantic thriller with a manuscript-within-the-book and a rug-pull ending.",
+   "tropes": ["unreliable-narrator", "twist-ending-rug-pull-reveal", "forbidden-love", "tragic-past"],
+   "tags": ["psychological-thriller", "romance", "dark", "tense", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Medium"},
+
+  {"id": "hardcover_466171", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Ninni Holmqvist, The Unit — Swedish literary dystopia; the childless/'dispensable' sent to a facility for organ donation.",
+   "tropes": ["dystopian-government-totalitarian-regime", "class-social-commentary", "ethics-of-scientific-progress", "forbidden-love", "sacrifice-for-the-greater-good"],
+   "tags": ["dystopian", "literary-fiction", "dark", "sad", "reflective"],
+   "pacing": "Slow", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL2810136W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Miriam Toews, A Complicated Kindness — teen chafing against a strict Mennonite community as her family fractures.",
+   "tropes": ["coming-of-age", "rebellion-against-an-oppressive-system", "identity-and-self-discovery", "grief-and-loss-as-central-theme", "small-town"],
+   "tags": ["literary-fiction", "emotional", "funny", "sad", "reflective"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20002259W", "known": true, "book_class": "childrens", "confidence": "high",
+   "_note": "Tamara Ireland Stone, Every Last Word — YA; Purely-Obsessional OCD, poetry club. childrens class forces spice N/A.",
+   "tropes": ["mental-health-narrative", "neurodivergent-protagonist", "coming-of-age", "first-love"],
+   "tags": ["young-adult", "contemporary", "emotional", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "N/A"},
+
+  {"id": "hardcover_127333", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Julie Murphy, Dumplin' — was classed ambiguous; fat-positive YA, Texas beauty pageant, self-acceptance.",
+   "tropes": ["coming-of-age", "identity-and-self-discovery", "first-love", "the-outcast-hero"],
+   "tags": ["young-adult", "contemporary", "funny", "hopeful", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL19727008W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Leni Zumas, Red Clocks — literary near-future where abortion/IVF are outlawed; five women, multiple POV.",
+   "tropes": ["dystopian-government-totalitarian-regime", "class-social-commentary", "multiple-pov", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "dystopian", "dark", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "hardcover_2021", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Misa Sugiura, It's Not Like It's a Secret — was classed ambiguous; sapphic YA, Japanese-American lead, first love with Jamie.",
+   "tropes": ["queer-coming-of-age", "first-love", "coming-of-age", "identity-and-self-discovery", "immigrant-experience"],
+   "tags": ["young-adult", "sapphic", "lesbian", "contemporary", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL16141983W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "Julie Kramer, Killing Kate — TV-reporter sleuth Riley Spartz vs a serial killer leaving chalk 'angel' outlines.",
+   "tropes": ["serial-killer", "amateur-sleuth-stumbling-into-a-case", "cat-and-mouse-pursuit", "killer-hiding-in-plain-sight"],
+   "tags": ["mystery", "serial-killer-thriller", "tense", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20034145W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "M-E Girard, Girl Mans Up — butch/gender-nonconforming lesbian lead (Pen), Portuguese immigrant family, loyalty & identity.",
+   "tropes": ["queer-coming-of-age", "identity-and-self-discovery", "coming-of-age", "the-outcast-hero"],
+   "tags": ["young-adult", "sapphic", "lesbian", "masculine", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"}
+]

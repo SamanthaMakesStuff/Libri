@@ -1,0 +1,4 @@
+[2026-07-25 01:59:46] supervisor up: range 2701-3700, delay 3s, cooldown 3600s, max 12 restarts / 11.0h
+[2026-07-25 01:59:46] cycle 1: starting scraper (0 of 1000 ids done)
+wn 3600s, max 12 restarts / 11.0h
+[2026-07-25 01:59:46] cycle 1: starting scraper (0 of 1000 ids done)

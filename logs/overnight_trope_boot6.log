@@ -1,0 +1,44 @@
+[2026-07-24 13:44:34] overnight orchestrator started
+[2026-07-24 13:56:04]   ...50/987 | 20 found
+[2026-07-24 14:08:01]   ...100/987 | 41 found
+[2026-07-24 14:19:03]   ...150/987 | 55 found
+[2026-07-24 14:31:17]   ...200/987 | 78 found
+[2026-07-24 14:42:14]   ...250/987 | 93 found
+[2026-07-24 14:52:14]   ...300/987 | 109 found
+[2026-07-24 15:02:20]   ...350/987 | 129 found
+[2026-07-24 15:15:18]   ...400/987 | 145 found
+[2026-07-24 15:27:06]   ...450/987 | 163 found
+[2026-07-24 15:37:06]   ...500/987 | 173 found
+[2026-07-24 15:46:17]   ...550/987 | 183 found
+[2026-07-24 15:58:20]   ...600/987 | 190 found
+[2026-07-24 16:08:23]   ...650/987 | 207 found
+[2026-07-24 16:19:03]   ...700/987 | 216 found
+[2026-07-24 16:31:09]   ...750/987 | 230 found
+[2026-07-24 16:39:15]   ...800/987 | 240 found
+[2026-07-24 16:51:20]   ...850/987 | 254 found
+[2026-07-24 17:01:10]   ...900/987 | 266 found
+[2026-07-24 17:12:15]   ...950/987 | 276 found
+[2026-07-24 17:21:22] fetch_all done: 286/987 descriptions from this pass
+[2026-07-24 17:21:22] phase 1 done: 286 new Wikipedia descriptions this run
+scanned 3,381 trope-less mystery fiction with descriptions (both)
+books with >=1 match: 235 (7%)
+total trope assignments: 257 | by tier (books): {'B': 117, 'A': 106, 'A+B': 12}
+   [B]   97  spy-espionage-thriller
+   [A]   50  legal-thriller
+   [A]   22  kidnapping
+   [A]   15  serial-killer
+   [B]   14  revenge-plot
+   [B]   13  missing-person
+   [A]   13  locked-room-mystery
+   [A]   12  heist
+   [A]    6  unsolvable-cold-case-reopened
+   [B]    4  blackmail
+   [A]    3  race-against-time
+   [B]    2  evil-twin-doppelganger
+   [B]    2  framed-protagonist
+   [A]    2  amateur-sleuth-stumbling-into-a-case
+   [A]    1  witness-protection
+   [A]    1  amnesia
+-> trope_review_mystery_2.csv
+[2026-07-24 17:22:32] phase 2: re-match complete - 235 books, 257 trope assignments -> trope_review_mystery_2.csv
+[2026-07-24 17:22:32] overnight orchestrator finished OK

@@ -1,0 +1,78 @@
+[
+  {"id": "hardcover_437423", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["opposites-attract", "identity-and-self-discovery", "queer-coming-of-age", "workplace-romance"],
+   "tags": ["sapphic", "lesbian", "contemporary-romance", "funny", "emotional"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL19996022W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "OL description was for an unrelated women's-literature anthology — WRONG MATCH; enriched from knowledge of Caldwell's 2014 novella",
+   "tropes": ["forbidden-love", "age-gap-may-december-romance", "identity-and-self-discovery", "interpersonal-character-study"],
+   "tags": ["sapphic", "lesbian", "literary-fiction", "emotional", "sad"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL4778031W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "author field reads 'Susan Childress'; description matches Susan Wiggs' The Firebrand (Great Chicago Fire) — metadata may be wrong",
+   "tropes": ["class-divide", "forbidden-love", "secret-baby", "tragic-past"],
+   "tags": ["historical-romance", "emotional", "tense"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "recursion", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["time-loop", "grief-and-loss-as-central-theme", "ethics-of-scientific-progress", "race-against-time", "twist-ending"],
+   "tags": ["techno-thriller", "tense", "challenging", "emotional"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17862776W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["secret-royalty", "dual-timeline", "hidden-history-untold-women-s-history", "secret-heir-lost-heir-secret-royalty"],
+   "tags": ["historical-fiction", "alternate-history", "mysterious", "emotional"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL18766691W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["coming-of-age", "isolated-setting", "small-town-with-a-dark-secret", "court-case-as-backbone-of-plot", "twist-ending"],
+   "tags": ["literary-fiction", "emotional", "mysterious", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "hardcover_449067", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'fantasy romance' — it is climate dystopia; OL description was in Spanish",
+   "tropes": ["dystopian-government-totalitarian-regime", "environmental-collapse-narrative", "survival-narrative", "class-social-commentary"],
+   "tags": ["dystopian", "dark", "tense", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "hardcover_427475", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "rebellion-against-an-oppressive-system", "class-social-commentary", "race-against-time", "surveillance-state"],
+   "tags": ["dystopian", "dark", "tense", "challenging"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL18144316W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["class-social-commentary", "tragic-past", "interpersonal-character-study", "survival-against-historical-injustice"],
+   "tags": ["literary-fiction", "dark", "sad", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "genesis", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["uploaded-consciousness-digital-immortality", "what-does-it-mean-to-be-human", "post-human-society", "generation-spanning-saga"],
+   "tags": ["hard-sci-fi", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL891942W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["kidnapping", "tragic-past", "dual-timeline", "court-case-as-backbone-of-plot", "identity-and-self-discovery"],
+   "tags": ["domestic-fiction", "emotional", "tense", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL918301W", "known": true, "book_class": "childrens", "confidence": "medium",
+   "tropes": ["found-family", "coming-of-age"],
+   "tags": ["funny", "lighthearted"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL134874W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["multi-generational-family-saga", "sibling-bond-as-central-relationship", "tragic-past", "small-town-secrets"],
+   "tags": ["dark", "emotional", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL14857996W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["second-chance", "tragic-past", "identity-and-self-discovery"],
+   "tags": ["contemporary-romance", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL15836370W", "known": false, "confidence": "unknown_book",
+   "_note": "OL description was for the Broadway musical 'Follies' — wrong match; subjects indicate a single-author short-story collection but too thin to trope",
+   "tropes": [], "tags": []}
+]

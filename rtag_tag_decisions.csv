@@ -1,0 +1,390 @@
+﻿decision,book_id,title
+approve,alien,Alien
+approve,alien_3,Alien 3
+approve,alien_covenant,Alien: Covenant
+approve,alien_covenant_origins,Alien Covenant - Origins
+approve,aliens,Aliens
+approve,aliens_earth_hive,Earth Hive
+approve,anathem,Anathem
+approve,before_mars,Before Mars
+approve,binti,Binti
+approve,bishop,Aliens: Bishop
+approve,clays_ark,Clay's Ark
+approve,code_of_the_lifemaker,Code of the Lifemaker
+approve,dungeon_crawler_carl,Dungeon Crawler Carl
+approve,enders_game,Enders Game
+approve,far_from_the_light_of_heaven,Far from the Light of Heaven
+approve,footfall,Footfall
+approve,garden_of_rama,Garden of Rama
+approve,hardcover_11855,The Goblin Emperor
+approve,hardcover_123384,Charlie And The Great Glass Elevator
+approve,hardcover_181557,Don't Panic: Douglas Adams & the Hitchhiker's Guide to the Galaxy
+approve,hardcover_339818,Infinity Welcomes Careful Drivers
+approve,hardcover_1120715,The Last One
+approve,hardcover_150638,The Simulacra
+approve,hardcover_201633,Yoda: Dark Rendezvous
+approve,hardcover_249537,"David Starr, Space Ranger"
+approve,hardcover_127957,Rally Cry
+approve,hardcover_1863683,A Rogue by Any Other Name
+approve,candle,Candle
+approve,hardcover_341379,First Meetings in Ender's Universe
+approve,an_echo_of_things_to_come,An Echo of Things to Come
+approve,colony114,Colony
+approve,dragon_wing,Dragon Wing
+approve,hardcover_228201,The Running Man
+approve,hardcover_216555,Dragons of Spring Dawning
+approve,hardcover_1494430,Juice
+approve,hardcover_185926,Oath of Swords
+approve,hardcover_204856,Jarka Ruus
+approve,hardcover_227629,Star Wars: Attack of the Clones
+approve,hardcover_337502,The Eyes of Darkness
+approve,hardcover_1421878,The New Rebellion
+approve,hardcover_36141,Witch World
+approve,hardcover_240754,Coin Locker Babies
+approve,hardcover_237705,The Vesuvius Club
+approve,grave_peril,Grave Peril
+approve,hardcover_1119008,Rumo & His Miraculous Adventures
+approve,hardcover_13,Personal Demon
+approve,hardcover_321049,Blood Beast
+approve,hardcover_334442,Doctor Faustus
+approve,hardcover_1807356,Yu Yu Hakusho 01
+approve,hardcover_255726,The Devouring
+approve,cottingley,Cottingley
+approve,hardcover_326042,The Wee Free Men
+approve,hardcover_199066,Lud-in-the-Mist
+approve,broken_harbour,Broken Harbour
+approve,doors_of_sleep,Doors of Sleep
+approve,gather_yourselves_together,Gather Yourselves Together
+approve,hardcover_270087,The Graveyard Book
+approve,hardcover_329662,Matilda
+approve,hardcover_1951278,Bat Eater and Other Names for Cora Zeng
+approve,hardcover_220772,Darth Bane: Path of Destruction
+approve,hardcover_240020,Greenglass House
+approve,hardcover_1494113,The Expert System’s Champion
+approve,hardcover_243770,Darkest Hour
+approve,hardcover_329686,Ninth Key
+approve,hardcover_1184962,Lunar New Year Love Story
+approve,hardcover_123284,The Castle in the Attic
+approve,hardcover_1185268,Ghost Season
+approve,hardcover_1226596,Joe Hill's Rain
+approve,hardcover_1356644,In The Shadows
+approve,hardcover_194649,Three tales
+approve,hardcover_1953428,Unbound
+approve,hardcover_212183,Jonathan Strange & Mr Norrell
+approve,hardcover_1239256,Brat: A Novel
+approve,hardcover_222977,Juliet Takes a Breath
+approve,all_the_white_spaces,All the White Spaces
+approve,hardcover_1470950,The Deep Dark
+approve,hardcover_153730,A Spy In the House of Love
+approve,hardcover_1765483,Luminous
+approve,hardcover_1202620,Lunar Boy
+approve,hardcover_1249516,Plain Jane and the Mermaid
+approve,a_blade_so_black,A Blade so Black
+approve,alien_out_of_the_shadows,Alien: Out of the Shadows
+approve,betrayal_at_falador,Betrayal at Falador
+approve,brittle,Brittle
+approve,eye_of_the_wolf,Eye of the Wolf
+approve,frankenstein_unbound,Frankenstein Unbound
+approve,half_blood,Half-Blood
+approve,hardcover_110688,Prodigal Son
+approve,hardcover_175945,The Stonekeeper
+approve,hardcover_228454,"This Book Is Full of Spiders: Seriously, Dude, Don't Touch It"
+approve,hardcover_234539,Pet
+approve,hardcover_11591,Sense and Sensibility and Sea Monsters
+approve,hardcover_1585547,Ushers
+approve,hardcover_224414,Tristan Strong Punches a Hole in the Sky
+approve,hardcover_1093901,We Are the Crisis
+approve,fury_of_the_queen,Fury of the Queen
+approve,hardcover_1097024,The God and the Gumiho
+approve,hardcover_169139,Secondhand Souls
+approve,hardcover_1046283,Turtle Recall: The Discworld Companion . . . So Far
+approve,hardcover_1071059,The Sandman: Book One
+approve,hardcover_1900794,Hole in the Sky
+approve,hardcover_1244645,What If... Loki Was Worthy?
+approve,hardcover_332691,Destiny Kills
+approve,credence,Credence
+approve,hardcover_302654,Wildwood Imperium
+approve,hardcover_1336110,"Blacksad #6: They All Fall Down, Part 1"
+approve,a_deadly_education,A Deadly Education
+approve,fire_sea,Fire Sea
+approve,hardcover_1096472,Blood of the Old Kings
+approve,hardcover_1403055,Grave Empire
+approve,hardcover_1207200,"Books of Blood, Volumes 1-3"
+approve,hardcover_296394,Which Witch?
+approve,hardcover_18400,Liber Null and Psychonaut: An Introduction to Chaos Magic
+approve,hardcover_191549,The Magician
+approve,bride,Bride
+approve,hardcover_350237,Peter Pan
+approve,hardcover_268734,The Scar
+approve,hardcover_286094,Honor among enemies
+approve,hardcover_33827,As You Wish: Inconceivable Tales from the Making of The Princess Bride
+approve,hardcover_236988,The secret of the unicorn
+approve,hardcover_239223,Tris's Book
+approve,hardcover_270360,The Last Theorem
+approve,hardcover_140746,Mrs. Piggle-Wiggle's Farm
+approve,hardcover_153779,Jedi Apprentice: The Rising Force
+approve,hardcover_348530,Mrs. Piggle-Wiggle's Magic
+approve,a_prayer_for_the_crown_shy,A Prayer for the Crown-Shy
+approve,day_zero,Day Zero
+approve,hardcover_1454839,Death of the Author
+approve,hardcover_17430,Saving the World and Other Extreme Sports
+approve,hardcover_265922,The Invincible
+approve,hardcover_1126484,Beyond the Aquila Rift: The Best of Alastair Reynolds
+approve,hardcover_221362,The Stonekeeper's Curse
+approve,hardcover_252714,Last Call
+approve,hardcover_1003564,Alien 3: The Unproduced Screenplay by William Gibson
+approve,hardcover_1220873,Second Variety: Short Story
+approve,after_atlas,After Atlas
+approve,children_of_god,Children of God
+approve,hardcover_108853,The Last Hero
+approve,hardcover_312460,Dune
+approve,hardcover_1467871,Under the Eye of the Big Bird
+approve,hardcover_339424,Cold Storage
+approve,hardcover_1496426,"Dune: The Graphic Novel, Book 2: Muad’Dib"
+approve,hardcover_338754,Star trek
+approve,captain_america_the_shield_of_sam_wilson,Captain America: The Shield of Sam Wilson
+approve,doctor_strange_dimension_war,Doctor Strange Dimension War
+approve,domino_strays,Domino: Strays
+approve,hardcover_1078404,X-Men: The Dark Phoenix Saga
+approve,hardcover_185940,Marvel Zombies
+approve,baptism_of_fire,Baptism of Fire
+approve,brimstone,Brimstone
+approve,coffin_moon,Coffin Moon
+approve,dracula_cha_cha_cha,Dracula Cha Cha Cha
+approve,hardcover_165884,Marked
+approve,hardcover_270888,Baptism of Fire
+approve,hardcover_102770,Bunnicula
+approve,hardcover_1813562,The Midnight Shift
+approve,hardcover_1433865,Morgana and Oz Volume One
+approve,fool_moon,Fool Moon
+approve,hardcover_144950,The Neverending Story
+approve,all_the_birds_in_the_sky,All the Birds in the Sky
+approve,hardcover_106026,The House of the Seven Gables
+approve,hardcover_1474,Lolly Willowes
+approve,hardcover_207651,George's Marvellous Medicine
+approve,hardcover_263787,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making
+approve,hardcover_293465,Belgarath the Sorcerer
+approve,hardcover_34176,Confessor
+approve,hardcover_108096,The Girl Who Fell Beneath Fairyland and Led the Revels There
+approve,hardcover_1156519,She Who Knows
+approve,hardcover_185251,A Tale of Magic...
+approve,hardcover_177850,The Girl Who Soared Over Fairyland and Cut the Moon in Two
+approve,hardcover_242272,"The Chronicles of Narnia - The Lion, the Witch, and the Wardrobe Official Illustrated Movie Companion"
+approve,hardcover_280800,Crusade In Jeans
+approve,hardcover_1183504,Brooms
+approve,fever_house,Fever House
+approve,hardcover_147494,The 5th Wave
+approve,hardcover_273279,Feed
+approve,hardcover_1289148,"The Walking Dead, Compendium 4"
+approve,hardcover_313768,The Zombie Survival Guide: Recorded Attacks
+approve,hardcover_1026922,The Walking Dead #1
+approve,babel,Babel
+approve,call_of_cthulhu,Call of Cthulhu
+approve,gleam,Gleam
+approve,gold,Gold
+approve,hardcover_154097,The Voyage of the Dawn Treader
+approve,hardcover_190337,The Housekeeper and the Professor
+approve,hardcover_332660,Revelation Space
+approve,hardcover_357003,Convenience Store Woman
+approve,hardcover_1078742,The Futurological Congress
+approve,hardcover_115335,We Are All Completely Beside Ourselves
+approve,hardcover_1250746,The Empusium: A Health Resort Horror Story
+approve,hardcover_133558,Harvest Home
+approve,hardcover_174799,Micro
+approve,hardcover_1200140,Saturation Point
+approve,hardcover_236811,The Bridge
+approve,hardcover_328808,The Unwanteds
+approve,hardcover_356804,She: A History of Adventure
+approve,hardcover_1488736,The Twenty-One Balloons
+approve,hardcover_178847,Delirium
+approve,hardcover_299677,Submission
+approve,hardcover_367907,Lost
+approve,hardcover_1123430,Mothtown
+approve,hardcover_1141252,The Recovery
+approve,goldfinch,Goldfinch
+approve,hardcover_29886,The Trial
+approve,hardcover_24193,The Danish Girl
+approve,hardcover_329151,Seiobo There Below
+approve,hardcover_2026772,Critical Role: Vox Machina Origins: Series I & II Collection
+approve,hardcover_287853,Gould's Book of Fish: a Novel in Twelve Fish
+approve,hardcover_270618,An Astronaut's Guide to Life on Earth
+approve,hardcover_355708,The Golden Compass
+approve,hardcover_156934,Have Space Suit—Will Travel
+approve,hardcover_19128,Out of the Easy
+approve,hardcover_149693,New Atlantis
+approve,hardcover_151235,Atlantis Rising
+approve,hardcover_1775698,Strange Bedfellows
+approve,hardcover_289088,Thirteen Reasons Why
+approve,hardcover_36624,Wicked Appetite
+approve,hardcover_1465502,Unwanted
+approve,hardcover_1482440,The Twisted Ones: Five Nights at Freddy’s
+approve,hardcover_154436,The Dragons of Krynn
+approve,hardcover_247586,Basil of Baker Street
+approve,hardcover_1255222," Words of Radiance, Part 2"
+approve,hardcover_1624454,"Oathbringer, Part 1"
+approve,hardcover_1624456,"Oathbringer, Part 2"
+approve,hardcover_1428184,The Hyperion Cantos
+approve,alpha_omega,Alpha Omega
+approve,beautiful,Beautiful
+approve,catching_fire,Catching Fire
+approve,hardcover_2127585,Days of Blood and Starlight
+approve,hardcover_232764,Daughter of Smoke & Bone
+approve,hardcover_311751,Middlemarch
+approve,hardcover_106739,Crescendo
+approve,hardcover_252369,The Great God Pan and The Hill of Dreams
+approve,hardcover_104128,Girl Online
+approve,hardcover_121907,The Cricket in Times Square
+approve,hardcover_13228,Between the Lines
+approve,hardcover_352853,Heretic
+approve,hardcover_101997,The Gum Thief
+approve,hardcover_104943,Chasing Vermeer
+approve,hardcover_1277661,Avatar the Last Airbender: North and South
+approve,hardcover_1463999,Nana 02
+approve,hardcover_337230,Emily's Quest
+approve,hardcover_1172931,The Betrayal of Thomas True
+approve,city_of_the_iron_fish,City of the Iron Fish
+approve,earthquake_weather,Earthquake Weather
+approve,hardcover_110498,The Silver Chair
+approve,hardcover_1408508,The Time of Contempt
+approve,hardcover_1617146,Cursed Bunny
+approve,hardcover_1133023,"Saga, Book One"
+approve,hardcover_17918,Daggerspell
+approve,hardcover_319920,The Dwarves
+approve,hardcover_326934,Dragons of Winter Night
+approve,hardcover_115096,The Forest House
+approve,hardcover_187395,The Akhenaten Adventure
+approve,hardcover_207480,Darth Maul: Shadow Hunter
+approve,hardcover_286273,Merlin
+approve,hardcover_335539,The Magic Finger
+approve,hardcover_342409,"Saga, Book Two"
+approve,hardcover_1043165,Bluebeard's Castle
+approve,hardcover_13981,Conan
+approve,hardcover_16360,Night Watch
+approve,hardcover_311013,A Universal History of Infamy
+approve,hardcover_1057289,Quest for the Well of Souls
+approve,hardcover_114829,Hellblazer: Stations of the Cross
+approve,hardcover_1194229,Sheine Lende
+approve,hardcover_1216141,The Rule of Names
+approve,hardcover_196388,Enchantress from the Stars
+approve,hardcover_22893,The Chocolate Touch
+approve,beautiful_player,Beautiful Player
+approve,hardcover_22349,After You
+approve,hardcover_1202622,Batman: Resurrection
+approve,hardcover_1584941,The Crow
+approve,dogs_of_war,Dogs of War
+approve,edge_of_the_known_world,Edge of the Known World
+approve,hardcover_208339,The Three-Body Problem
+approve,hardcover_293245,City of Thieves
+approve,hardcover_336562,Thrawn
+approve,hardcover_360347,Gravity's Rainbow
+approve,hardcover_367930,Prince Caspian
+approve,hardcover_1423630,Livesuit
+approve,hardcover_1765416,Angel Down
+approve,hardcover_225872,"Alas, Babylon"
+approve,hardcover_323001,The Infinite Sea
+approve,hardcover_110150,Kiss of the Spider Woman
+approve,hardcover_150303,Flashman
+approve,hardcover_198679,Santa Olivia
+approve,hardcover_281673,How I Live Now
+approve,hardcover_33500,Into the Storm
+approve,hardcover_103482,Glorious appearing
+approve,hardcover_1078492,The Handmaid's Tale: The Graphic Novel
+approve,hardcover_120818,Salammbô
+approve,hardcover_1279657,Hunt for Jade Dragon
+approve,hardcover_1804350,Battle Royale 1
+approve,hardcover_215563,Cradle
+approve,hardcover_1123752,The Bacchae and Other Plays
+approve,hardcover_1458444,Dungeons & Dragons Rpg: Players Handbook Hard Cover
+approve,hardcover_368144,Watch on the Rhine
+approve,hardcover_1080120,Alien Resurrection
+approve,hardcover_1169534,The Sands of Ammon
+approve,hardcover_1303679,Chasing Shadows
+approve,7_and_a_half_deaths,The 7 1/2 Deaths of Evelyn Hardcastle
+approve,a_drop_of_corruption,A Drop of Corruption
+approve,darkly_dreaming_dexter,Darkly Dreaming Dexter
+approve,dead_in_the_water,Dead in the Water
+approve,field_of_blood,Field of Blood
+approve,hardcover_293503,Confessions
+approve,hardcover_358061,The Girl Who Kicked the Hornet's Nest
+approve,hardcover_363651,Altered Carbon
+approve,hardcover_2060091,Crossroads of Ravens
+approve,hardcover_295020,Kraken
+approve,hardcover_1010828,Cahokia Jazz
+approve,hardcover_1933991,The Man Who Died Seven Times
+approve,hardcover_256582,Vagabond
+approve,hardcover_273217,The Book of the Dead
+approve,hardcover_1401626,Batman: Arkham Asylum - A Serious House on Serious Earth
+approve,hardcover_1474549,Written on the Dark
+approve,hardcover_1782,The Cross of Lead
+approve,hardcover_232506,The Whipping Boy
+approve,hardcover_103370,Daredevil Visionaries: Kevin Smith
+approve,hardcover_1056212,Carnival Row: Tangle in the Dark
+approve,hardcover_1152311,Tintin and Alph-Art
+approve,hardcover_206,The Somnambulist
+approve,hardcover_28518,Love in a Nutshell
+approve,a_memory_of_light,A Memory of Light
+approve,hardcover_1273102,Good Intentions
+approve,hardcover_1958682,The Eleventh Hour: A Quintet of Stories
+approve,a_legend_of_the_future,A Legend of the Future
+approve,batman_the_killing_joke,Batman: The Killing Joke
+approve,glow,Glow
+approve,hardcover_150531,The Memory Police
+approve,hardcover_2332122,The Strange Case of Dr Jekyll and Mr Hyde
+approve,hardcover_308,Watchmen
+approve,hardcover_1133701,I'm Starting to Worry About This Black Box of Doom
+approve,hardcover_133149,Batman: The Long Halloween
+approve,hardcover_144017,InterWorld
+approve,hardcover_1642741,Star Wars: Darth Plagueis
+approve,hardcover_279922,The Regulators
+approve,hardcover_111846,When the Sleeper Wakes
+approve,hardcover_1134792,Star Wars: The Truce at Bakura
+approve,hardcover_209182,Tick Tock
+approve,hardcover_362265,Splinter of the Mind's Eye
+approve,hardcover_132583,The New Girl
+approve,hardcover_1489232,The Strange Case of Jane O.
+approve,hardcover_208343,Islands in the Sky
+approve,hardcover_271405,The Key to Midnight
+approve,hardcover_342851,Legacy of the Force: Invincible
+approve,hardcover_25690,Han Solo at Stars' End
+approve,hardcover_296126,Lightsabers
+approve,hardcover_309089,Han Solo and the Lost Legacy
+approve,hardcover_335193,The Whale Rider
+approve,blood_of_empire,Blood of Empire
+approve,dune_series,Dune Series
+approve,godsgrave,Godsgrave
+approve,hardcover_254614,The Royal Ranger: A new Beginning
+approve,hardcover_25641,Star Wars: Episode III: Revenge of the Sith
+approve,hardcover_304641,Inkspell
+approve,hardcover_354686,The Cask of Amontillado - an Edgar Allan Poe Short Story
+approve,hardcover_229619,The White Plague
+approve,hardcover_241007,The Pride of Chanur
+approve,hardcover_1306104,"Zadig, and Other Stories"
+approve,hardcover_2017,Piper
+approve,a_new_darkness,Spooks: A New Darkness
+approve,cold_days,Cold Days
+approve,deity,Deity
+approve,hardcover_243968,The Day Watch
+approve,hardcover_31210,Futuristic Violence and Fancy Suits
+approve,hardcover_327531,Messenger
+approve,hardcover_1134388,The Spook's Destiny
+approve,hardcover_362287,The Spook's Battle
+approve,hardcover_1775681,The Dragon Wakes With Thunder
+approve,hardcover_1570314,Somadina
+approve,hardcover_154964,Mostly Harmless
+approve,hardcover_103990,The Gap Into Power: A Dark and Hungry God Arises
+approve,hardcover_146620,The Bromeliad Trilogy
+approve,hardcover_1215502,Bleach―ブリーチ― 48
+approve,hardcover_1223940,Bleach―ブリーチ― 72
+approve,hardcover_1223949,Bleach―ブリーチ― 71
+approve,hardcover_1223953,Bleach―ブリーチ― 73
+approve,hardcover_1230942,Bleach―ブリーチ― 74
+approve,hardcover_110801,The Mysterious Island
+approve,hardcover_1838734,The Shattering Peace
+approve,hardcover_1989375,The Faith of Beasts
+approve,hardcover_1083800,The Sleepwalkers
+approve,hardcover_212114,The Master Butchers Singing Club
+approve,hardcover_343364,Peter Pan in Scarlet
+approve,hardcover_110533,Tank Girl
+approve,hardcover_1666879,Wyatt
+approve,hardcover_314239,The hero's guide to saving your kingdom
+approve,hardcover_125118,Watchtower

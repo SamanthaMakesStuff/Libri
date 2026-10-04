@@ -1,0 +1,57 @@
+# Keep the Docker build context small and the image lean. The web app only
+# needs app.py, schema.sql, static/, requirements.txt, and frontend/ (source).
+
+# Database & large data seeds (served from the Fly volume, never the image)
+*.db
+*.db-shm
+*.db-wal
+bookCatalog*.json
+
+# Backups, snapshots, caches, progress, logs
+backups/
+archive/
+batches/
+review/
+logs/
+*_backup_*.json
+canonicalise_backup_*.json
+langdetect_cache.json
+verify_wiki_cache.json
+*_progress.json
+*.jsonl
+scrape_state.json
+hardcover_*.json
+moodreads_*.json
+inline_batch_*.json
+
+# Offline enrichment/pipeline scripts (not used by the running web app)
+_*.py
+enrich*.py
+reclassify.py
+sync_db.py
+status.py
+flag_doubts.py
+export_review.py
+scrapers/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node — the frontend is rebuilt inside the image
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Docs, git, secrets, tooling
+*.md
+.git/
+.gitignore
+.github/
+hardcover_token.txt
+.claude/
+fly.toml

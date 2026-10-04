@@ -1,0 +1,8 @@
+﻿decision,tier,suggestion,term,books,kind,genre_bucket,genre_mix,prior_decision,nearest_1,score_1,nearest_2,score_2,nearest_3,score_3,example_books
+Reject,new,activate,harry-fictitious-character,7,tag,crime,"crime 50%, mystery 30%, general-fiction 20%",,interpersonal-character-study,54,climate-fiction,53,real-historical-figure-as-secondary-character,53,"Rabbit, Run | Billion-dollar brain | The Concrete Blonde"
+merge:mystery,review,,mystery-fiction,7,tag,crime,"crime 53%, mystery 46%",,literary-fiction,70,cozy-mystery,66,historical-mystery,66,The Thirty-Nine Steps | Murder on the Links | The Right Attitude to Rain
+Accept,new,activate,african-american-police,4,tag,crime,"crime 66%, mystery 33%",,american,51,american,51,arranged-marriage,50,"London Bridges | Bluebird, Bluebird | Black Klansman"
+Reject,new,activate,inspector-fictitious-character,4,tag,crime,"crime 57%, mystery 42%",,real-historical-figure-as-secondary-character,56,interpersonal-character-study,54,climate-fiction,53,"Envious Casca | Behold, Here's Poison | Tooth and Nail"
+Accept,new,activate,hoaxes-and-deceptions,3,tag,crime,"crime 60%, mystery 40%",,addiction-narrative,55,fated-mates-destined-mates,53,redemption-arc,51,"Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World | Catch Me If You Can | AMORALMAN"
+Reject,review,,con-artists,3,tag,crime,"crime 60%, mystery 40%",,artist,70,artist,70,war-fiction,54,"Billion Dollar Whale: The Man Who Fooled Wall Street, Hollywood, and the World | Catch Me If You Can | AMORALMAN"
+Accept,new,activate,addicts,3,tag,crime,"crime 50%, literary-fiction 25%, mystery 25%",,magic-user,47,fae-courts,47,magic-user,47,Money | Phantom | Lying in Wait

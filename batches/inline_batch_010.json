@@ -1,0 +1,69 @@
+[
+  {"id": "openlibrary_OL675783W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'sci-fi romance / Romantasy' — it is feminist dystopia",
+   "tropes": ["dystopian-government-totalitarian-regime", "rebellion-against-an-oppressive-system", "class-social-commentary", "surveillance-state", "survival-narrative"],
+   "tags": ["dystopian", "dark", "tense", "challenging", "sad"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL8024260W", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "_note": "was classed fiction — it is a psychology study of the Stanford prison experiment",
+   "tropes": [],
+   "tags": ["psychology", "narrative-nonfiction", "challenging", "dark", "reflective"],
+   "pacing": "Slow", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL505001W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["queer-coming-of-age", "identity-and-self-discovery", "first-love", "coming-of-age"],
+   "tags": ["sapphic", "lesbian", "young-adult", "emotional", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL30838W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dual-timeline", "multiple-pov", "real-historical-figure-as-secondary-character", "mental-health-narrative", "interpersonal-character-study"],
+   "tags": ["sapphic", "literary-fiction", "reflective", "sad", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL59038W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["cloning", "what-does-it-mean-to-be-human", "ethics-of-scientific-progress", "coming-of-age", "sacrifice-for-the-greater-good"],
+   "tags": ["literary-fiction", "soft-sci-fi", "sad", "reflective", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL261794W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "mind-control-mind-reading-technology", "redemption-arc", "class-social-commentary", "unreliable-narrator"],
+   "tags": ["dystopian", "dark", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL82586W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said 'fantasy romance' — romance is not central",
+   "tropes": ["chosen-one", "prophecy", "found-family", "sacrifice-for-the-greater-good", "quest-journey-narrative", "war-between-good-and-evil"],
+   "tags": ["epic-high-fantasy", "young-adult", "adventurous", "emotional", "dark"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16803752W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-love", "coming-of-age", "class-divide", "the-outcast-hero", "identity-and-self-discovery"],
+   "tags": ["young-adult", "emotional", "sad", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Tame"},
+
+  {"id": "openlibrary_OL23204W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["class-divide", "class-social-commentary", "tragic-past", "sacrifice-for-the-greater-good"],
+   "tags": ["literary-fiction", "sad", "reflective", "emotional"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL3335245W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["coming-of-age", "unreliable-narrator", "identity-crisis-self-discovery", "mental-health-narrative", "grief-and-loss-as-central-theme"],
+   "tags": ["literary-fiction", "reflective", "sad", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19353452W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["survival-narrative", "coming-of-age", "tragic-past", "identity-and-self-discovery", "isolated-setting"],
+   "tags": ["literary-fiction", "dark", "tense", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL19969226W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["workplace-romance", "second-chance", "midlife-reckoning", "class-divide"],
+   "tags": ["contemporary-romance", "funny", "lighthearted"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL16701776W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["secret-heir-lost-heir-secret-royalty", "marriage-of-convenience", "forbidden-love", "class-divide"],
+   "tags": ["contemporary-romance", "tense", "emotional"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Explicit"}
+]

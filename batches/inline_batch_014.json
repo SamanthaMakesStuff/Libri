@@ -1,0 +1,82 @@
+[
+  {"id": "openlibrary_OL13591588W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "obscure; grounded on OL description — Alaskan black-comedy literary fiction (priest on a doomed island). Kept modest.",
+   "tropes": ["isolated-setting", "interpersonal-character-study", "class-social-commentary"],
+   "tags": ["literary-fiction", "dark", "funny", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16341229W", "known": false, "book_class": "fiction", "confidence": "low",
+   "_note": "OL description is the Jean Anouilh play 'The Lark' (Julie Harris/Lillian Hellman) — WRONG BOOK. Actual title is Tracey Porter's YA novel about grief. Escalate.",
+   "tropes": [], "tags": []},
+
+  {"id": "openlibrary_OL15836370W", "known": false, "book_class": "fiction", "confidence": "low",
+   "_note": "OL description is the Sondheim/Goldman musical 'Follies' — WRONG BOOK. Actual title is Ann Beattie's short-story collection. Escalate.",
+   "tropes": [], "tags": []},
+
+  {"id": "openlibrary_OL15179136W", "known": false, "book_class": "fiction", "confidence": "low",
+   "_note": "OL description (Houdini vs Conan Doyle life-after-death contest) contradicts the subjects (Arthurian / time-travel romance) — probable wrong-book metadata. Escalate rather than trope from either.",
+   "tropes": [], "tags": []},
+
+  {"id": "openlibrary_OL509183W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "YA (Laurie Halse Anderson, Speak); young-adult kept in tags, class stays fiction.",
+   "tropes": ["coming-of-age", "the-outcast-hero", "mental-health-narrative", "tragic-past", "identity-and-self-discovery"],
+   "tags": ["young-adult", "contemporary", "sad", "emotional", "challenging", "hopeful"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "dark_matter", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["parallel-universe-multiverse", "kidnapping", "race-against-time", "ethics-of-scientific-progress", "what-does-it-mean-to-be-human"],
+   "tags": ["sci-fi", "techno-thriller", "tense", "adventurous", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "time_war", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "sapphic epistolary time-war romance (El-Mohtar/Gladstone).",
+   "tropes": ["enemies-to-lovers-across-warring-factions", "epistolary-structure", "forbidden-love", "star-crossed-lovers", "slow-burn-romance"],
+   "tags": ["sapphic", "sci-fi", "romance", "time-travel", "lgbtq-romance", "emotional", "reflective"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20149336W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Ted Chiang short-story collection (Exhalation); idea-driven, so focus World.",
+   "tropes": ["ethics-of-scientific-progress", "what-does-it-mean-to-be-human", "human-ai-relationship", "causal-loop-paradox"],
+   "tags": ["sci-fi", "hard-sci-fi", "short-story-or-novella", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL19992878W", "known": true, "book_class": "nonfiction", "confidence": "medium",
+   "_note": "graphic-memoir NONFICTION (Bunjevac, Fatherland) — was classed fiction; reclassing nonfiction so tropes are correctly stripped. Taxonomy lacks graphic-novel/memoir tags, so only moods + political-intrigue apply.",
+   "tropes": [],
+   "tags": ["political-intrigue", "dark", "reflective", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "84k", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Claire North, 84K — dystopia where crime is paid off in cash.",
+   "tropes": ["corporate-dystopia", "dystopian-government-totalitarian-regime", "class-social-commentary", "surveillance-state", "revenge-plot"],
+   "tags": ["dystopian", "sci-fi", "dark", "tense", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL2810138W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genre said Romance/contemporary but it's literary fiction — road-trip family drama (Miriam Toews).",
+   "tropes": ["road-trip", "mental-health-narrative", "sibling-bond-as-central-relationship", "coming-of-age", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "emotional", "funny", "hopeful"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL19710414W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genre said sci-fi romance/Romantasy — it's feminist YA dystopia (Louise O'Neill, Only Ever Yours), not romance.",
+   "tropes": ["dystopian-government-totalitarian-regime", "class-social-commentary", "coming-of-age", "rebellion-against-an-oppressive-system", "identity-and-self-discovery"],
+   "tags": ["young-adult", "ya-dystopian", "dark", "challenging", "sad"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20017053W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Megan Hart, Hold Me Close — dark contemporary erotic romance between two childhood abduction survivors; subjects say erotic/erotica -> Explicit.",
+   "tropes": ["tragic-past", "angsty-romance", "forbidden-love", "mental-health-narrative", "second-chance"],
+   "tags": ["contemporary", "romance", "dark", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "High"},
+
+  {"id": "silent_patient", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "Alex Michaelides, The Silent Patient (ignored the spam PDF link in the OL description).",
+   "tropes": ["unreliable-narrator", "twist-ending-rug-pull-reveal", "mental-health-narrative", "tragic-past"],
+   "tags": ["psychological-thriller", "thriller", "tense", "dark", "mysterious"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "openlibrary_OL16607683W", "known": false, "book_class": "fiction", "confidence": "low",
+   "_note": "OL description is David Storey's stage play 'The Farm' — WRONG BOOK. Actual title is Emily McKay's YA vampire dystopia; not confident enough on details to enrich from memory. Escalate.",
+   "tropes": [], "tags": []}
+]

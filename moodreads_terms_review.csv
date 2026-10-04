@@ -1,0 +1,220 @@
+﻿decision,term,raw_term,books,kind,from_field,nearest_1,score_1,nearest_2,score_2,nearest_3,score_3,example_books
+Accept,abandonment,abandonment,39,warning,contentWarnings,environment,63,environment,63,abandoned-building,62,A Deadly Education | Wildfire | Her Viking Wolf
+merge:abandonment,abandonment,Abandonment,9,warning,contentWarnings,environment,63,environment,63,abandoned-building,62,The House of My Mother: A Daughter's Que | New Moon | Twisted Lies
+Accept,action-and-adventure,action & adventure,4,tag,tags,action-and-abenteuer,72,adventure,72,adventure,72,Furyborn | Curse of Shadows and Thorns | A Trial of Sorcerers
+Accept,adult,adult,2,tag,tags,adultery,76,adultery,76,new-adult,71,Book Lovers | The Jasmine Throne
+Accept,adult-minor-relationship,Adult/minor relationship,6,warning,contentWarnings,blackmail-into-relationship,74,human-ai-relationship,71,family-and-relationships,69,Girls of Paper and Fire | Revelation | Uprooted
+Accept,alcohol-use,alcohol use,32,warning,contentWarnings,alcohol,77,alcohol,77,alcoholics,76,Book of Night | Legendary | One Dark Window
+Accept,alien-romance,alien romance,26,tag,tropes,healing-romance,85,clean-romance,84,fae-romance,83,Torn | Capture the Sun | Ice Planet Barbarians
+Accept,amputation,amputation,6,warning,contentWarnings,automation,80,automation,80,meditation,70,A War of Wyverns | Finale | All the Stars and Teeth
+Accept,animal-abuse,animal abuse,10,warning,contentWarnings,child-abuse,69,animals,63,animals,63,Brimstone | The Winter of the Witch | The Ballad of Falling Dragons
+merge:animal-abuse,animal-cruelty,Animal cruelty,9,warning,contentWarnings,animal-rights,66,animal-welfare,64,animal-fiction,64,Graceling | Twisted Love | Paradise Lost
+Accept,animal-death,animal death,62,warning,contentWarnings,animal-welfare,69,animal-behavior,66,animal-rights,64,The Night Circus | A War of Wyverns | Brimstone
+Accept,anxiety-stress,Anxiety/Stress,2,warning,contentWarnings,stress-management,70,anxiety,66,anxiety,66,King of Pride | King of Greed
+Accept,assassin-romance,assassin romance,8,tag,tropes,healing-romance,70,lesbian-romance,70,caretaking-romance,70,Nevernight | A Shadow in the Ember | Leather & Lark
+Accept,attempted-sexual-assault,attempted sexual assault,44,warning,contentWarnings,attempted-murder,55,child-sexual-abuse,52,remote-research-facility,50,Shatter Me | A Language of Dragons | House of Earth and Blood
+reject,audible,audible,5,tag,tags,bible,66,bible,66,ableism,57,Aristotle and Dante discover the secrets | The Curse of Chalion | Brimstone
+Accept,best-friend-s-brother,best friend's brother,4,tag,tropes,brother-s-best-friend,90,best-friends,72,best-friends,66,Wild Love | Ugly Love | From Lukov with Love
+Accept,bet-wager-romance,bet/wager romance,9,tag,tropes,stalker-romance,68,single-parent-romance,68,heist-romance,66,Beach Read | Once Upon A Broken Heart | The Lineup
+Accept,blood,blood,300,warning,contentWarnings,body,66,food,66,body,66,Gideon the Ninth | The Cruel Prince | Malice
+merge:blood,blood,Blood,57,warning,contentWarnings,body,66,food,66,body,66,A Dowry of Blood | Her Soul for Revenge | Cemetery Boys
+Accept,body-shaming,body shaming,25,warning,contentWarnings,mating-bond,69,mind-and-body,69,body-language,64,The Hating Game | Icebreaker | The Empress of Scarred Secrets
+merge:body-shaming,body-shaming,Body shaming,5,warning,contentWarnings,mating-bond,69,mind-and-body,69,body-language,64,A Touch of Darkness | The House in the Cerulean Sea | Mile High
+reject,calibre-import,calibre import,5,tag,tags,air-pilots,58,pop-culture,56,popular-culture,55,The Familiar | The Space Between Worlds | Bloodfever
+reject,calibre-migration,calibre-migration,2,tag,tags,immigration,71,immigration,71,alien-invasion,64,Outlander | Amid Clouds and Bones
+Accept,car-accident,Car accident,3,warning,contentWarnings,accidents,76,accidents,76,aircraft-accidents,73,Aristotle and Dante discover the secrets | Bride | Ugly Love
+merge:car-accident,car-accident-crash,car accident / crash,12,warning,contentWarnings,aircraft-accidents,77,accidents,66,accidents,66,With This Kiss | Ugly Love | Reminders of Him
+Accept,caretaker-romance,caretaker romance,3,tag,tropes,caretaking-romance,85,caretaking-romance,80,dark-romance,75,All the Ugly and Wonderful Things | A Whisper of Chaos and Crowns | Paladin's Grace
+merge:infidelity,cheating,cheating,20,warning,contentWarnings,healing,80,healing,80,haunting,75,Circe | The Atlas Six | The Queen of Nothing
+Accept,child-abuse-referenced,child abuse (referenced),112,warning,contentWarnings,abused-children,75,abused-children,70,child-abuse,66,Six of Crows | Beach Read | The Jasmine Throne
+Accept,child-death,child death,41,warning,contentWarnings,child-rearing,66,chilean,66,childbirth,66,Verity | A Fire Endless | A Game of Thrones
+Accept,child-neglect,child neglect,16,warning,contentWarnings,past-child-neglect,77,past-child-neglect,77,creepy-child,64,The Wicked King | All the Ugly and Wonderful Things | The Morning Wood Tree
+Accept,child-trafficking,child trafficking,3,warning,contentWarnings,child-rearing,73,ticking-clock,66,child-rearing,66,Haunting Adeline | Wild Sign | Sick Fux
+Accept,childhood-trauma,childhood trauma,49,warning,contentWarnings,childhood,72,childhood,72,childhood-sweethearts,64,Bride | Hell Bent | Queen of Shadows
+Accept,chronic-illness,chronic illness,20,warning,contentWarnings,consciousness,64,consciousness,64,crime-thrillers,60,The Mime Order | Heartsong | Assistant to the Villain
+merge:chronic-illness,chronic-illness,Chronic illness,2,warning,contentWarnings,consciousness,64,consciousness,64,crime-thrillers,60,Happy Place | Maybe Now
+Accept,classism,classism,28,warning,contentWarnings,classics,87,classics,87,classic,80,Pride and Prejudice | A Language of Dragons | The Last Graduate
+merge:classism,classism,Classism,12,warning,contentWarnings,classics,87,classics,87,classic,80,The Kiss Quotient | Paradise Lost | The Ten Thousand Doors of January
+Accept,claustrophobia-confined-spaces,claustrophobia / confined spaces,2,warning,contentWarnings,astronomy-and-space-science,61,asteroid-field-peril,56,one-last-scare,54,Happy Place | Hate
+Accept,co-parenting-romance,co-parenting romance,3,tag,tropes,caretaking-romance,84,caretaking-romance,78,competition-romance,76,Slap Shot Surprise | Out on a Limb | Aurelian
+Accept,coach-athlete,coach/athlete,4,tag,tropes,college-athletes,68,alternate-earth,57,antihero-romance,55,The Problem with Players | Seducing Cinderella | Kulti
+Accept,coercive-control,coercive control,11,warning,contentWarnings,power-and-control,60,control-psychology,55,detective-fiction,54,"Her Hidden Fire | Sir Jasper | Nightshade (Nightshade Series, Book 1)"
+Accept,colonisation,Colonisation,3,warning,contentWarnings,space-colonization,73,space-colonization,73,communication,72,Final Strife | The Unbroken | Furyborn
+Accept,confinement,confinement,29,warning,contentWarnings,environment,63,investments,63,environment,63,Outlander | Layla | Signs of Cupidity
+Accept,corruption-arc,corruption arc,3,tag,tropes,corruption,83,corruption,83,redemption-arc,71,Heartless Heathens | Enthralled | Oleander
+Accept,cult-themes,cult themes,6,warning,contentWarnings,social-themes,75,country-homes,66,social-themes,66,"Beach Read | Her Soul to Take | Nightshade (Nightshade Series, Book 1)"
+Accept,cursing,Cursing,11,warning,contentWarnings,cousins,71,cousins,71,courtship,62,Role Playing | King of Battle and Blood | All your perfects
+merge:,death-of-a-child,death of a child,18,warning,contentWarnings,children-of-clergy,58,child-sexual-abuse,58,death-and-dying,58,Tower of Dawn | The Crown of Gilded Bones | Hemlock & Silver
+Accept,death-of-a-parent,death of a parent,75,warning,contentWarnings,absent-dead-parents,61,pet-parent,59,adult-children-of-aging-parents,58,Book Lovers | Beach Read | The Blighted Stars
+Accept,death-of-a-partner,death of a partner,5,warning,contentWarnings,author-writer,60,death-row-inmates,57,fathers-and-daughters,56,Crown of Midnight | A Touch of Darkness | Reminders of Him
+Accept,death-of-loved-one,death of loved one,175,warning,contentWarnings,possession-of-a-loved-one,65,hate-to-love,60,one-main-love-interest,60,Crier's War | A Court of Wings and Ruin | A Curse Carved in Bone
+merge:death-of-a-parent,death-of-parent,Death of parent,46,warning,contentWarnings,pet-parent,64,mentor-s-death,62,absent-dead-parents,58,Sabriel | Cemetery Boys | An ember in the ashes
+Accept,death-of-sibling,death of sibling,3,warning,contentWarnings,best-friend-s-sibling,64,siblings,58,siblings,58,Divine Rivals | Sorcery of Thorns | The Baby Dragon Cafe
+Accept,decapitation,decapitation,2,warning,contentWarnings,deception,76,meditation,72,meditation,72,Silver in the Bone | Paladin's Grace
+Accept,dementia,dementia,2,warning,contentWarnings,mental,71,mental,71,developmental,66,Runaway Groomsman | By a Thread
+merge:dementia,dementia,Dementia,2,warning,contentWarnings,mental,71,mental,71,developmental,66,Bewitched | The Rose Bargain
+Accept,divorce-separation-romance,divorce/separation romance,2,tag,tropes,vacation-romance,66,sports-romance,60,divorced-women,60,King of Greed | Home to the Outer Banks
+merge:domestic-violence,domestic-abuse,Domestic abuse,11,warning,contentWarnings,domestic,72,domestic,72,abused-women,69,Graceling | Winter's Orbit | Archer's Voice
+Accept,domestic-violence,domestic violence,47,warning,contentWarnings,domestic-thriller,70,domestic-fiction,66,graphic-violence,66,Tithe | The Bear and The Nightingale | The Dragon's Bride
+Accept,drowning,drowning,16,warning,contentWarnings,cloning,66,cloning,66,yearning,62,A Fire Endless | Legendary | A Dark and Drowning Tide
+Accept,drug-use,drug use,43,warning,contentWarnings,drug-abuse,77,drugs,76,drugs,76,Tithe | Book of Night | Ironside
+merge:drug-use,drug-use,Drug use,11,warning,contentWarnings,drug-abuse,77,drugs,76,drugs,76,Her Soul to Take | Aristotle and Dante discover the secrets | The Maddest Obsession
+Accept,drugging,drugging,30,warning,contentWarnings,aging,61,drugs,61,aging,61,The Cruel Prince | Insurgent | A Court of Thorns and Roses
+Accept,dubious-consent,dubious consent,183,warning,contentWarnings,ancient-ruins,57,consciousness,57,consciousness,57,Enchantra | Valiant | A Touch of Chaos
+Accept,eating-disorders,eating disorders,5,warning,contentWarnings,diverse-representation,63,isolated-setting,62,isolated-setting,62,Tithe | Icebreaker | Black Knight
+Accept,emotional-abuse,emotional abuse,196,warning,contentWarnings,emotional,75,emotional,75,emotional-bonds,66,The Hating Game | Malice | Circe
+merge:emotional-abuse,emotional-abuse,Emotional abuse,32,warning,contentWarnings,emotional,75,emotional,75,emotional-bonds,66,The House of My Mother: A Daughter's Que | Role Playing | A Dowry of Blood
+Accept,execution,execution,7,warning,contentWarnings,education,66,deception,66,evolution,66,Red Queen | The Familiar | Falling Kingdoms
+SPICE,explicit-sexual-content,Explicit sexual content,7,warning,contentWarnings,child-sexual-abuse,53,serial-detective,51,political-corruption,51,Quicksilver | The Coven | Blood & Steel
+Accept,fake-marriage-becomes-real,fake marriage becomes real,10,tag,tropes,fake-marriage,66,fake-marriage,61,best-friend-becomes-love-interest,57,Dark Skies | Leather & Lark | The Wall of Winnipeg and Me
+Accept,famine,famine,2,warning,contentWarnings,fame,80,fame,80,families,71,She Who Became the Sun | Deathless
+Accept,fast-paced,fast-paced,5,tag,tags,space,66,space,66,action-packed,60,Can You Keep A Secret? | Magic Burns | Magic Strikes
+Accept,fatphobia,fatphobia,14,warning,contentWarnings,black-author,57,faith,57,faith,57,The Hating Game | Sacrificed to the Dragon | A Merry Little Meet Cute
+reject,fiction-romance-fantasy,fiction / romance / fantasy,2,tag,tags,romance-fanfic,71,science-fantasy,68,reincarnation-romance,68,Throne of the Fallen | The Throne of Broken Gods
+merge:fire-fire-injury,fire,fire,23,warning,contentWarnings,fairies,72,fairies,72,fairytale,61,Finale | Burn for Me | A Thousand Steps into Night
+Accept,fire-fire-injury,Fire/Fire injury,13,warning,contentWarnings,firefighter,59,firefighter,59,mentor-figure,55,King of Battle and Blood | Paradise Lost | Legends & Lattes
+Accept,forced-institutionalization,Forced institutionalization,3,warning,contentWarnings,motivational-and-inspirational,61,civilization,56,civilization,56,The Ten Thousand Doors of January | The Familiar | Satan's Affair
+Accept,generational-trauma,generational trauma,2,warning,contentWarnings,emotional-trauma,74,mental-trauma,68,mental-trauma,68,When Oceans Rise | Great Big Beautiful Life
+Accept,grooming,grooming,6,warning,contentWarnings,brooding,75,brooding,75,gaming,71,All the Ugly and Wonderful Things | The Girls | Hunting Adeline
+Accept,gun-violence,gun violence,31,warning,contentWarnings,violence,80,violence,80,graphic-violence,71,Insurgent | The Blighted Stars | Book of Night
+merge:gun-violence,gun-violence,Gun violence,23,warning,contentWarnings,violence,80,violence,80,graphic-violence,71,Twisted Lies | Layla | Shiver
+Accept,hate-crime,Hate crime,4,warning,contentWarnings,true-crime,80,climate,70,climate,70,Aristotle and Dante discover the secrets | The House in the Cerulean Sea | The Familiar
+Accept,haunted-house-romance,haunted house romance,2,tag,tropes,haunted-house,76,haunted-house-mansion,71,haunted-house-mansion,71,Wicked Beasts | The Antiquarian's Object of Desire
+Accept,heartbreaking,heartbreaking,43,tag,tags,heartwarming,72,heartwarming,72,first-heartbreak,68,Crown of Midnight | Kingdom of Ash | Aicha
+Accept,heist-and-rebellions,Heist & Rebellions,5,tag,tropes,rebellion,72,rebellion,72,heist-romance,62,Six of Crows | Ignite Me | Shatter Me
+SPICE,high-heat,high heat,4,tag,tags,health,66,health,66,healing,62,Rain of Shadows and Endings | Bonds of Hercules | The Female
+Accept,high-school-romance,high school romance,5,tag,tropes,high-schools,70,healing-romance,64,high-schools,64,Twisted Kingdom | Black Knight | Bully
+merge:homophobia-transphobia,homophobia,Homophobia,7,warning,contentWarnings,somnophilia,66,somnophilia,66,colombia,55,Role Playing | Aristotle and Dante discover the secrets | Heated Rivalry
+merge:homophobia-transphobia,homophobia,homophobia,2,warning,contentWarnings,somnophilia,66,somnophilia,66,colombia,55,The Dare | The Friend Zone
+Accept,homophobia-transphobia,homophobia/transphobia,19,warning,contentWarnings,photography,48,somnophilia,48,photography,48,"Red, White & Royal Blue | Cemetery Boys | Aristotle and Dante discover the secrets"
+Accept,horror-romance,Horror Romance,2,tag,tropes,rockstar-romance,73,antihero-romance,73,monster-horror,71,Anathema | Eldritch
+Accept,hospitalization,hospitalization,2,warning,contentWarnings,hostage-situation,68,hostage-situation,68,civilization,66,After You | Protecting What's Mine
+Accept,human-trafficking,human trafficking,26,warning,contentWarnings,drug-traffic,62,talking-animals,56,haunting,56,Six of Crows | The Mime Order | The Dragon's Bride
+Accept,imprisonment,imprisonment,44,warning,contentWarnings,environment,69,environment,69,self-improvement,64,Shatter Me | The Mime Order | Throne of Glass
+Accept,incest,incest,8,warning,contentWarnings,princes,76,princes,76,alliances,66,Book of Night | The Morning Wood Tree | Juniper & Thorn
+Accept,infertility,infertility,10,warning,contentWarnings,immortality,63,immortality,63,identity,63,Kaikeyi | All your perfects | Barbarian Lover
+merge:infertility,infertility,Infertility,4,warning,contentWarnings,immortality,63,immortality,63,identity,63,All your perfects | The Right Move | Fairydale
+Accept,infidelity,infidelity,16,warning,contentWarnings,individuality,69,individuality,69,identity,66,Beach Read | Verity | The Rogue Crown
+merge:infidelity,infidelity,Infidelity,11,warning,contentWarnings,individuality,69,individuality,69,identity,66,The Kiss Quotient | Signs of Cupidity | All your perfects
+merge:injury-injury-detail,injury-detail,injury detail,30,warning,contentWarnings,destiny,60,destiny,60,visionary-and-metaphysical,54,A Fire Endless | Legendary | Queen of the Night Sky
+Accept,injury-injury-detail,Injury/Injury detail,37,warning,contentWarnings,visionary-and-metaphysical,50,diet-and-nutrition,50,automobile-industry-and-trade,48,The Kiss Quotient | New Moon | An ember in the ashes
+reject,kindle-unlimited,kindle unlimited,11,tag,tags,united-kingdom,73,united-states,55,mistaken-identity,54,Assistant to the Villain | Spark of the Everflame | Throne in the Dark
+Accept,knife-play-cw,knife play (CW),3,warning,contentWarnings,space-colonies,51,economic-policy,50,cosplay,50,Of Song and Scepter | The Dare | Sick Fux
+Accept,later-in-life-romance,later in life romance,4,tag,tropes,interspecies-romance,73,male-male-romance,68,interspecies-romance,68,The Emma Project | Royal Holiday | In Her Own League
+merge:literary-fiction,literature-and-fiction,literature & fiction,15,tag,tags,literary-fiction,76,american-literature,75,supernatural-fiction,73,The Night Circus | Bared to You | A Discovery of Witches
+Accept,magical-coercion,magical coercion,2,warning,contentWarnings,resurrection-magic,64,forbidden-magic,64,magic-bond,61,The Red Witch | Kingdom of Briars and Roses
+Accept,manipulation,manipulation,80,warning,contentWarnings,translation,69,translation,69,isolation,66,The Love Hypothesis | Verity | The Night Circus
+Accept,matchmaker-falls,matchmaker falls,4,tag,tropes,he-falls-first,60,farmer-rancher,53,climate-change,53,The Emma Project | Emma | Can't Fix Cupid
+Accept,medical-content,Medical content,11,warning,contentWarnings,medical,63,medical,63,comedians,58,The Kiss Quotient | Cemetery Boys | Aristotle and Dante discover the secrets
+Accept,medical-experimentation,medical experimentation,7,warning,contentWarnings,experimental-fiction,69,experimental-fiction,69,animal-experimentation,66,Blaze of Memory | Shield of winter | The Floating World
+merge:medical-trauma,medical-trauma,Medical trauma,5,warning,contentWarnings,mental-trauma,74,mental-trauma,74,medical-thriller,66,All your perfects | The Once and Future Witches | Ruthless Vows
+Accept,medical-trauma,medical trauma,2,warning,contentWarnings,mental-trauma,74,mental-trauma,74,medical-thriller,66,The Lady is a Vamp | My Blood Is Yours
+Accept,medium-paced,medium-paced,6,tag,tags,medicine,60,medicine,60,haunted-places,53,Sabriel | The Ten Thousand Doors of January | Gallant
+Accept,mentor-student-dynamics,mentor/student dynamics,6,tag,tropes,power-dynamics,59,teacher-student,57,teacher-student,57,Uprooted | The Beautiful Ones | Daughter of the Drowned Empire
+Accept,mermaid-romance,mermaid romance,4,tag,tropes,period-romance,82,mafia-romance,78,period-romance,75,Of Song and Scepter | In the Veins of the Drowning | The Wicked Sea
+Accept,mind-control,mind control,7,warning,contentWarnings,scotland,60,scotland,60,country-life,58,Moonshade | Shield of winter | Demons in My Bed
+Accept,miscarriage,miscarriage,6,warning,contentWarnings,marriage,84,marriage,84,fake-marriage,66,"Beach Read | Pride, Prejudice, and Other Flavors | A Madness So Discreet"
+Accept,misogyny,misogyny,45,warning,contentWarnings,money,61,money,61,history,53,The Wendy | A Thousand Steps into Night | Below Zero
+Accept,misunderstanding,misunderstanding,12,tag,tropes,misunderstanding-big-mis,80,misunderstanding-big-mis,80,investing,64,Pride and Prejudice | Emma | All your perfects
+merge:morally-grey-male-protagonist,morally-grey-mmc,morally grey mmc,5,tag,tags,morally-gray-antihero,59,morally-gray-love-interest,57,morally-grey-choices,55,Gild | A Shadow in the Ember | The Games Gods Play
+Accept,nanny-guardian-romance,nanny/guardian romance,3,tag,tropes,bodyguard-romance,66,pregnancy-romance,66,reincarnation-romance,65,Credence | Caught Up | Love Unwritten
+merge:medical-content,needles-medical-procedures,needles / medical procedures,4,warning,contentWarnings,medical-professional,56,police-procedural,55,american-literature,53,Deep End | Wicked Beasts | Barbarian Lover
+Accept,neighbor-romance,neighbor romance,4,tag,tropes,antihero-romance,75,period-romance,73,monster-romance,70,Twisted Love | Garden Spells | Protecting What's Mine
+Accept,new-adult-adult-romance,new adult/adult romance,2,tag,tags,male-male-romance,70,male-female-romance,66,low-angst-romance,65,King of Pride | King of Greed
+Accept,non-consensual,non-consensual,17,warning,contentWarnings,consensual-non-consent,77,consensual-non-consent,72,chosen-one,66,Bred by the Wolfman | Carving for Cara | Within Her Magic
+reject,none,none,4,warning,contentWarnings,money,66,money,66,nonlinear,61,Dead Poets Sorority | The Baby Dragon Bookshop | Dancing with Draco
+reject,novel,novel,3,tag,tags,love,66,love,66,graphic-novel,55,Sabriel | Outlander | Gallant
+Accept,obsession,obsession,3,tag,tags,oppression,73,oppression,73,demon-possession,64,Bred by the Wolfman | Quicksilver | Haunting Adeline
+Accept,omegaverse-abo,omegaverse / ABO,19,tag,tropes,omegaverse,83,omegaverse,83,reverse-harem,59,Mate | Psycho Shifters | The Tyrant Alpha's Rejected Mate
+Accept,one-night-stand-to-lovers,one-night stand to lovers,4,tag,tropes,one-night-to-forever,75,neighbors-to-lovers,72,strangers-to-lovers,63,Wildfire | Knocked Up by the Dom | Out on a Limb
+SPICE,open-door-spice,open-door spice,6,tag,tags,moderate-spice,62,space-opera,61,slow-burn-spice,60,Kingdom of the Feared | A Promise of Fire | The Games Gods Play
+Accept,orc-romance,orc romance,6,tag,tropes,rescue-romance,80,dark-romance,78,romance,77,The Lady and the Orc | The Company of Fiends | The Midwife and the Orc
+Accept,outing,Outing,2,warning,contentWarnings,haunting,71,haunting,71,evolution,66,Role Playing | Aristotle and Dante discover the secrets
+reject,p-and-w-pre-order,p&w pre-order,2,tag,tags,moderate-spice,51,space-opera,50,divorced-people,50,Hideaway | Nightfall
+Accept,panic-attacks,panic attacks,45,warning,contentWarnings,urban-fantasy,53,opposites-attract,53,antarctica,52,"Red, White & Royal Blue | Book Lovers | The Hating Game"
+merge:panic-attacks,panic-attacks-disorders,Panic attacks/disorders,18,warning,contentWarnings,antisocial-personality-disorders,61,bipolar-disorder,51,interpersonal-attraction,51,The House of My Mother: A Daughter's Que | The Kiss Quotient | New Moon
+Accept,parental-abandonment,parental abandonment,31,warning,contentWarnings,abandoned-children,63,absent-dead-parents,61,personal-development,60,"Red, White & Royal Blue | Bride | Legendary"
+Accept,parental-abuse,parental abuse,29,warning,contentWarnings,absent-dead-parents,66,abusive-men,64,abused-children,62,The Night Circus | Ignite Me | Bride
+merge:death-of-a-parent,parental-death,parental death,75,warning,contentWarnings,mental-health,74,pet-parent,66,mentor-s-death,64,Gideon the Ninth | The Cruel Prince | Hogfather
+Accept,pedophilia,Pedophilia,3,warning,contentWarnings,somnophilia,66,somnophilia,66,dystopian,52,Graceling | Captive Prince | Satan's Affair
+Accept,physical-abuse,physical abuse,50,warning,contentWarnings,child-abuse,72,physical-disability,66,child-sexual-abuse,62,Circe | Kingdom of Ash | Tortured Souls
+merge:physical-abuse,physical-abuse,Physical abuse,23,warning,contentWarnings,child-abuse,72,physical-disability,66,child-sexual-abuse,62,Her Soul to Take | Girls of Paper and Fire | Hunting Adeline
+Accept,plague,plague,3,warning,contentWarnings,language,71,language,71,playful,61,The Last Starborn Seer | The Raven and the Rush | A Wild Radiance
+Accept,poisoning,poisoning,9,warning,contentWarnings,single-pov,63,cloning,62,cooking,62,Deathbringer | The Legend of the Nine-Tailed Fox | Sisters of the Snake
+Accept,poverty,poverty,12,warning,contentWarnings,poetry,76,poetry,76,power,66,Dirty Daddies | The Luminaries | Filthy Beautiful Lies
+Accept,pregnancy-childbirth,pregnancy / childbirth,17,warning,contentWarnings,accidental-pregnancy,70,childbirth,66,childbirth,66,Bred by the Wolfman | Mother of Rome | Kaikeyi
+Accept,pregnancy-loss-miscarriage,pregnancy loss / miscarriage,14,warning,contentWarnings,accidental-pregnancy,56,accidental-pregnancy,52,pregnancy,51,The Forest of Hands and Teeth | All your perfects | Fall
+Accept,princess-x-bodyguard,princess x bodyguard,5,tag,tropes,bodyguard-romance,75,bodyguard-romance,70,bodyguards,66,The Rogue Crown | Winter's Fate | Reforged
+Accept,psychosis,psychosis,2,warning,contentWarnings,psychoanalysis,78,psychoanalysis,78,psychological,63,Dark needs at night's edge | Comfort Food
+Accept,ptsd,PTSD,79,warning,contentWarnings,pets,75,pets,75,poets,66,Insurgent | A Court of Silver Flames | Heir of Fire
+Accept,quirky,quirky,2,tag,tags,uk,50,uk,50,history,46,Assistant to the Villain | The Corpse in the Closet
+Accept,racism-bigotry,racism/bigotry,37,warning,contentWarnings,racism,60,racism,60,immortalism,56,"Red, White & Royal Blue | A Dark and Drowning Tide | Aicha"
+Accept,rape,rape,49,warning,contentWarnings,race,75,race,75,apple,66,A Touch of Chaos | Mother of Rome | The Dragon Queen
+merge:rape,rape,Rape,26,warning,contentWarnings,race,75,race,75,apple,66,The Hacienda | An ember in the ashes | Strange the Dreamer
+Accept,redemption-romance,redemption romance,2,tag,tropes,competition-romance,75,redemption-arc,75,revenge-romance,72,Dragon Marked | Things We're All Too Young to Know
+Accept,rejected-mate,rejected mate,10,tag,tropes,amateur-detectives,64,amateur-detectives,64,ancient-greece,59,Reclaimed | Carnal Secrets | The Night Prince
+merge:religious-bigotry,religious-bigotry,Religious Bigotry,6,warning,contentWarnings,religion,56,religion,56,spirituality-religion,52,The Hacienda | The House in the Cerulean Sea | Ruthless Vows
+Accept,religious-bigotry,religious bigotry,3,warning,contentWarnings,religion,56,religion,56,spirituality-religion,52,The Faithful Dark | The Forest of Hands and Teeth | The Raven and the Rush
+Accept,religious-trauma,religious trauma,15,warning,contentWarnings,trauma-and-healing,58,religion,58,religion,58,The Bear and The Nightingale | The Knight and the Moth | The Songbird and the Heart of Stone
+reject,romance-science-fiction-and-fantasy,romance|science fiction & fantasy,3,tag,tags,sweet-romance-fanfic,67,science-fantasy,65,astronomy-and-space-science,62,A Discovery of Witches | Gild | Space Vampire
+Accept,scars,scars,5,warning,contentWarnings,scary,80,scary,80,charms,72,The Legend of the Nine-Tailed Fox | Nova | The Duchess Deal
+Accept,secretive,secretive,7,tag,tags,seductive,77,seductive,77,secrets,75,"The Atlas Paradox | Nightshade (Nightshade Series, Book 1) | The Mask of Mirrors"
+Accept,self-harm,self-harm,45,warning,contentWarnings,farm-life,66,charms,66,charms,66,The Jasmine Throne | A Curse for True Love | A Fire Endless
+merge:self-harm,self-harm,Self harm,10,warning,contentWarnings,farm-life,66,charms,66,charms,66,Lady Midnight | Emily Wilde's Encyclopaedia of Faeries | Bride
+Accept,serene,serene,4,tag,tags,reference,66,reference,66,science,61,Silver in the Wood | Garden Spells | The Enchanted Greenhouse
+Accept,sex-work,sex work,5,warning,contentWarnings,sex-worker,88,sex-worker,77,work,66,Possession | A Merry Little Meet Cute | The Court of Miracles
+Accept,sexism,sexism,56,warning,contentWarnings,sex,66,exiles,66,sex,66,The Love Hypothesis | Pride and Prejudice | The Hating Game
+Accept,sexual-abuse,sexual abuse,15,warning,contentWarnings,child-sexual-abuse,80,bisexual,70,bisexual,70,Eldritch | Warrior Princess Assassin | Daughter of the Blood
+Accept,sexual-assault,sexual assault,114,warning,contentWarnings,child-sexual-abuse,62,asexuality,58,asexuality,58,The Hating Game | A Court of Thorns and Roses | A Game of Thrones
+merge:sexual-assault,sexual-assault,Sexual assault,37,warning,contentWarnings,child-sexual-abuse,62,asexuality,58,asexuality,58,The House of My Mother: A Daughter's Que | The Kiss Quotient | Her Body and Other Parties
+Accept,sexual-assault-referenced,sexual assault (referenced),105,warning,contentWarnings,child-sexual-abuse,55,class-difference,53,reference,52,"Red, White & Royal Blue | The Love Hypothesis | Anathema"
+Accept,sexual-content-explicit-scenes,Sexual Content/Explicit Scenes,2,warning,contentWarnings,politics-and-social-sciences,57,slow-descent-into-madness,50,resource-scarcity-conflict,50,King of Pride | King of Greed
+Accept,sexual-harassment,sexual harassment,26,warning,contentWarnings,dark-suspenseful,60,dark-suspenseful,58,sensual,58,The House of My Mother: A Daughter's Que | With This Kiss | An ember in the ashes
+Accept,sexual-trauma,sexual trauma,15,warning,contentWarnings,mental-trauma,69,mental-trauma,69,bisexual-or-pansexual,64,Wait for You | Sabotage | Daughter of the Blood
+Accept,sexual-violence,Sexual violence,16,warning,contentWarnings,violence,69,violence,69,graphic-violence,64,Her Body and Other Parties | Haunting Adeline | Gild
+Accept,shaming,shaming,3,warning,contentWarnings,gaming,76,gaming,76,healing,71,To All the Boys I've Loved Before | Bridget Jones's Diary | The Eagle's Nest
+reject,signed-tip,*signed tip,2,tag,tags,genetics,55,genetics,55,business-writing,53,Ensnared | Bound
+Accept,slow-burn-tension,slow burn tension,3,tag,tags,slow-burn,69,chosen-one-burden,58,translation,57,The Games Gods Play | The Contortionist | The Curse of Ophelia
+Accept,slut-shaming,slut shaming,9,warning,contentWarnings,coming-out,63,angsty,55,gaming,55,A Merry Little Meet Cute | A Kingdom of Venom and Vows | Jock Row
+Accept,snowed-in-stranded,snowed in / stranded,5,tag,tropes,snowed-in-trapped-together,65,soulmate-destined-bond,55,isolated-setting,52,Below Zero | Any Trope but You | Cold Hearted
+SPICE,spice-2,spice-2,4,tag,tags,space,66,spicy,66,spies,66,A Deal with the Elf King | Mother of Death and Dawn | Lord of the Fading Lands
+SPICE,spice-3,spice-3,11,tag,tags,space,66,spicy,66,spies,66,Serpent & Dove | Trial of the Sun Queen | Throne of the Fallen
+SPICE,spice-4,spice-4,16,tag,tags,space,66,spicy,66,spies,66,King of Battle and Blood | Queen of Myth and Monsters | A Touch of Malice
+SPICE,spice-level-4,spice level 4,4,tag,tags,moderate-spice,59,love-stories,56,heat-spice,56,What Lies Beyond the Veil | The Wolf King | Lady of Darkness
+Accept,stalking,stalking,107,warning,contentWarnings,talking-animals,69,australian,66,healing,66,Enchantra | Siege and Storm | Emily Wilde's Compendium of Lost Tales
+merge:stalking,stalking,Stalking,12,warning,contentWarnings,talking-animals,69,australian,66,healing,66,The House of My Mother: A Daughter's Que | The Kiss Quotient | Her Soul to Take
+Accept,starvation,starvation,3,warning,contentWarnings,vacation,66,translation,66,transportation,66,Ruined Wings | Deathless | The Thorn Queen
+Accept,stillbirth,stillbirth,2,warning,contentWarnings,childbirth,70,childbirth,70,thriller,55,A River Enchanted | King of Flesh and Bone
+Accept,stranded-together,stranded together,8,tag,tropes,trapped-together,78,stuck-together,70,snowed-in-trapped-together,65,The Blighted Stars | The Road of Bones | Ensnared
+merge:drug-us,substance-abuse,substance abuse,45,warning,contentWarnings,resistance,64,resistance,64,chase-sequence,62,A Court of Silver Flames | Crooked Kingdom | Hell Bent
+Accept,suicidal-ideation,suicidal ideation,54,warning,contentWarnings,historical-fiction,62,international,60,international,60,The Jasmine Throne | Shatter Me | A Court of Silver Flames
+merge:suicidal-ideation,suicidal-thoughts,suicidal thoughts,11,warning,contentWarnings,social-themes,60,civil-rights,55,daughters,53,The House of My Mother: A Daughter's Que | New Moon | Twisted Lies
+Accept,suicide-attempt,suicide attempt,13,warning,contentWarnings,attempted-murder,70,attempted-murder,64,suicide,63,A Rose of Blood and Binding | Wait for You | Half Sick of Shadows
+merge:suicide-attempt,suicide-attempt,Suicide attempt,5,warning,contentWarnings,attempted-murder,70,attempted-murder,64,suicide,63,God of Malice | Belladonna | What Lies Beyond the Veil
+Accept,suicide-mentioned,suicide (mentioned),2,warning,contentWarnings,generation-ship-society,60,suicide,58,suicide,58,Born of Blood and Ash | Heated Rivalry
+Accept,summer-fling,summer fling,5,tag,tropes,summer-romance,61,mentor-figure,56,healing-romance,51,Wildfire | Heart Bones | One Golden Summer
+Accept,teacher-student-adult,teacher/student (adult),8,tag,tropes,alternate-earth,55,includes-adult-toys,55,college-teachers,54,Blood Orange | Prince of the Sorrows | This Girl
+Accept,terminal-illness,terminal illness,30,warning,contentWarnings,mental-illness,80,serial-killer,68,international,62,The Atlas Six | Wild Love | Deep End
+merge:terminal-illness,terminal-illness,Terminal illness,3,warning,contentWarnings,mental-illness,80,serial-killer,68,international,62,The Fault in Our Stars | The Kiss Quotient | Maybe Now
+Accept,time-spanning-love,time-spanning love,8,tag,tropes,love-stories,60,strangers-to-lovers,59,time-loop,59,The Invisible Life of Addie LaRue | When the Moon Hatched | Lucy Undying
+Accept,time-travel-romance,time travel romance,9,tag,tropes,time-travel,73,summer-romance,66,time-travel,66,Her Viking Wolf | Outlander | Timeless (Timeless #1)
+reject,to-read,to-read,5,tag,tags,road-trip,62,resistance-to,60,revelatory,58,Girls of Paper and Fire | The Ministry of Time | Heated Rivalry
+Accept,torture,torture,231,warning,contentWarnings,nature,61,future,61,nature,61,Six of Crows | The Jasmine Throne | Insurgent
+merge:torture,torture,Torture,33,warning,contentWarnings,nature,61,future,61,nature,61,Her Soul to Take | An ember in the ashes | Outlander
+Accept,toxic-friendship,Toxic friendship,3,warning,contentWarnings,friendship,76,friendship,76,male-friendship,70,Twice Shy | Revelation | Punk 57
+Accept,toxic-relationship,Toxic relationship,28,warning,contentWarnings,relationships,77,relationships,77,secret-relationship,75,The House of My Mother: A Daughter's Que | A Dowry of Blood | New Moon
+merge:toxic-relationship,toxic-relationships,toxic relationships,41,warning,contentWarnings,relationships,81,relationships,81,secret-relationship,73,Daydream | When Oceans Rise | Bully
+Accept,trafficking,Trafficking,5,warning,contentWarnings,terraforming,60,drug-traffic,60,terraforming,60,Hunting Adeline | Haunting Adeline | The Wren in the Holly Library
+merge:homophobia-transphobia,transphobia,Transphobia,3,warning,contentWarnings,transportation,64,transportation,64,transhumanism,58,Cemetery Boys | Aristotle and Dante discover the secrets | Praise
+Accept,undercover-spy-romance,undercover/spy romance,10,tag,tropes,sports-romance,66,summer-romance,66,survival-romance,63,A Court of Wings and Ruin | From Blood and Ash | Heartless Hunter
+reject,unsigned,unsigned,2,tag,tags,sunshine,75,unhinged,75,sunshine,75,A Light in the Flame | A Fire in the Flesh
+SPICE,very-explicit,very explicit,3,tag,tags,policier,66,policier,66,political-theory,55,Credence | Rain of Shadows and Endings | Kiss the Fae
+merge:vomiting-emesis,vomit,Vomit,11,warning,contentWarnings,community,57,community,57,comics,54,The Fault in Our Stars | Signs of Cupidity | Emily Wilde's Encyclopaedia of Faeries
+Accept,vomiting-emesis,vomiting / emesis,8,warning,contentWarnings,domestic-fiction,58,feminist-fiction,58,business-writing,58,Hogfather | The Knight and the Moth | The Curse of the Crow
+Accept,wake-up-married-vegas-wedding,wake up married / Vegas wedding,3,tag,tropes,married-people,51,uploaded-digital-afterlife,47,ancient-evil-awakening,47,Marrying My Billionaire Boss | Play Along | Woke Up Like This
+Accept,war-academy,war academy,2,tag,tags,dark-academia,75,academia,73,academia,73,Blood of Hercules | Bonds of Hercules
+Accept,weapon-play-cw,weapon play (CW),2,warning,contentWarnings,biological-weapons,56,sports-player,51,war-and-military,50,Learn My Lesson | Anarchy
+Accept,wedding-setting,wedding setting,2,tag,tropes,space-station-setting,61,single-women,59,investing-and-trading,58,A Long Time Coming | The Midnight Bargain
+Accept,weird-quirky,weird/quirky,3,tag,tags,weird-girl-lit,61,weird-fiction,56,iraq-war,50,Three Kinds of Lucky | Strange Love | Elanie & the Empath
+merge:xenophobia,xenophobia,Xenophobia,5,warning,contentWarnings,somnophilia,57,somnophilia,57,colombia,55,The watchmaker of Filigree Street | The House in the Cerulean Sea | Legends & Lattes
+Accept,xenophobia,xenophobia,5,warning,contentWarnings,somnophilia,57,somnophilia,57,colombia,55,A Witch's Guide to Magical Innkeeping | A Fragile Enchantment | Muscles & Monsters

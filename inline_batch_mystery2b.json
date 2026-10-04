@@ -1,0 +1,1460 @@
+[
+ {
+  "id": "hardcover_437737",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "amateur-sleuth-stumbling-into-a-case"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_280187",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "amateur-sleuth-stumbling-into-a-case"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_467332",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "amnesia"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL18083611W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL167161W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_149896",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_430268",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping",
+   "serial-killer",
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_438253",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_436070",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "evil-twin-doppelganger",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_427896",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_239738",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_436046",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_430308",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_470787",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_434849",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_510449",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_542626",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping",
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_536466",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_492669",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_552568",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_433925",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_442060",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_278724",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "unsolvable-cold-case-reopened",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_343494",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "kidnapping",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_443945",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "kidnapping"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17937105W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17358381W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL76972W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL111746W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL77001W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL52953W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL1881771W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL20890978W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL5692807W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL30552W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL2234905W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL40661W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL134360W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL15150293W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL18165867W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL19995244W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL111709W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL19722217W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL16028034W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL4212428W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL14932862W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17858237W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17582786W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL24462297W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17827661W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL9958355W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL4298264W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL5833357W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL15703650W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "court-case-as-backbone-of-plot",
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "openlibrary_OL5713339W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL20156992W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL19711736W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL20038669W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL134433W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17308089W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_526732",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_434854",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_437466",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_192185",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_490228",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_890598",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_538126",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_197748",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_175176",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_100858",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_483109",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_603700",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_2440715",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_469730",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_172838",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "court-case-as-backbone-of-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL472074W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL261552W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17639376W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL4092550W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL8266374W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL9760019W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_437709",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects",
+   "race-against-time"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_462781",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_1402045",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_440502",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_447182",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_139047",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_301100",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "closed-circle-of-suspects"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL894069W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "race-against-time"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_222090",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "race-against-time",
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL17216130W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer",
+   "witness-protection"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL5730204W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL19761909W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "openlibrary_OL5718431W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_669164",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_431265",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "serial-killer",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_357938",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_331467",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_484922",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_242928",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_663994",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "serial-killer"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_477022",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "serial-killer",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "openlibrary_OL19742706W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_510410",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_429786",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "high",
+  "tropes": [
+   "unsolvable-cold-case-reopened"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A)"
+ },
+ {
+  "id": "hardcover_435478",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "unsolvable-cold-case-reopened",
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers A/B)"
+ },
+ {
+  "id": "hardcover_429973",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "blackmail"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_476553",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "blackmail"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_274322",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "blackmail"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_435295",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "blackmail"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_435610",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "evil-twin-doppelganger"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_715078",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "framed-protagonist"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_435134",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "framed-protagonist"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "squeeze_me",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_440675",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_773806",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_465025",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person",
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_470793",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_284204",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "missing-person"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL3020911W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "openlibrary_OL894062W",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_436443",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_59245",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_464981",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_302701",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_325603",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_436138",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_460429",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_1998150",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_442646",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ },
+ {
+  "id": "hardcover_2079917",
+  "known": true,
+  "book_class": "fiction",
+  "confidence": "medium",
+  "tropes": [
+   "revenge-plot"
+  ],
+  "tags": [],
+  "_note": "deterministic trope-match from description (tiers B)"
+ }
+]

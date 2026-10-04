@@ -1,0 +1,359 @@
+
+### [A] post-apocalyptic-wasteland  (39 matches)
+  - I Have No Mouth and I Must Scream / Harlan Ellison
+      phrase: 'post-apocalyptic'
+      ...This is a story set in a post-apocalyptic future. The Cold War progressed until i...
+  - No blade of grass / Sam Youd
+      phrase: 'post-apocalyptic'
+      ...Grass (aka No Blade of Grass) is a 1956 post-apocalyptic science fiction novel written by the En...
+  - Shovel Ready / Adam Sternbergh
+      phrase: 'the wasteland'
+      ...must navigate between these two worlds—the wasteland reality and the slick fantasy—to finish...
+
+### [A] genetic-engineering  (26 matches)
+  - In Search of Schrödinger's Cat / John Gribbin
+      phrase: 'genetic engineer'
+      ...ar biology, no understanding of DNA, no genetic engineering. In Search of Schrödinger's Cat t...
+  - Misspent Youth / Peter F Hamilton
+      phrase: 'genetic engineer'
+      ...rch and experimentation in the field of genetic engineering, scientists of the European Union be...
+  - Prey / Michael Crichton
+      phrase: 'genetic engineer'
+      ...chnology; in this case, nanotechnology, genetic engineering, and distributed artificial intellig...
+
+### [A] parallel-universe-multiverse  (24 matches)
+  - Voyage / Stephen Baxter
+      phrase: 'parallel world'
+      ...In a parallel world where JFK survived the assassination at...
+  - The Blood Red City / Justin Richards
+      phrase: 'alternate reality'
+      ...as transformed it into a groundbreaking alternate reality thriller....
+  - The Journal Of Curious Letters / James Dashner
+      phrase: 'alternate reality'
+      ...t had a significant consequence, a new, alternate reality was created — the life that would’ve be...
+
+### [B] mind-control-mind-reading-technology  (23 matches)
+  - To Ride Pegasus / Anne McCaffrey
+      phrase: 'read minds'
+      ...*They were four extraordinary women who read minds, healed bodies, diverted disasters, for...
+  - City / Clifford D Simak
+      phrase: 'Telepathy'
+      ...Keeps. Hiveminds. Matter transmission. Telepathy. Parallel worlds. Paranormal empathy. M...
+  - Crosstalk / Connie Willis
+      phrase: 'telepathy'
+      ...o the crushing societal implications of telepathy. In a not-too-distant future, a simple...
+
+### [A] cybernetic-enhancement  (22 matches)
+  - Dark days / Kate Ormand
+      phrase: 'cyborg'
+      ...has is no way in and no way out. Yet a cyborg army penetrates each sector, picking of...
+  - Veteran / Gavin Smith
+      phrase: 'cyborg'
+      ...ds, city sized orbital elevators, and a cyborg pirate king who believes himself to be...
+  - Reality 36 / Guy Haley
+      phrase: 'cyborg'
+      ...Klein, a decommissioned German military cyborg, are on the trail of a murderer in the...
+
+### [A] virtual-reality-world  (22 matches)
+  - Ghost in the Shell / Masamune Shirow
+      phrase: 'virtual world'
+      ...ng the physical world and existing in a virtual world of networks, Motoko is a fusion of mult...
+  - The Bastard Legion / Gavin Smith
+      phrase: 'virtual reality'
+      ...n ships and "rehabilitated" in a shared virtual reality environment. But Miska Corbin, a thief...
+  - The artificial paradise / S. Ben-Tov
+      phrase: 'virtual reality'
+      ...tegic Defense Initiative, robotics, and virtual reality; and to cultural psychology....
+
+### [A] cloning  (18 matches)
+  - Cain's blood / Geoffrey Girard
+      phrase: 'clone'
+      ...with a boy who has just learned he is a clone of Jeffrey Dahmer to try to capture oth...
+  - Victories Greater Than Death / Charlie Jane Anders
+      phrase: 'clone'
+      ...all, is intergalactic—she is the hidden clone of a famed alien hero, left on Earth di...
+  - Where Late the Sweet Birds Sang / Kate Wilhelm
+      phrase: 'cloning'
+      ...tself, through a perilous experiment in cloning. Sweeping, dramatic, rich with humanity...
+
+### [A] space-station-setting  (17 matches)
+  - Star Trek Deep Space Nine - The Search / Diane Carey, Ira S. Behr, Ro
+      phrase: 'space station'
+      ...face. At the edge of the wormhole, the space station Deep Space Nine and the planet Bajor si...
+  - Hammajang Luck / Makana Yamamoto
+      phrase: 'space station'
+      ...skybridges and neon catacombs of Kepler space station—of home—to spend the best part of a dec...
+  - Legacy / Greg Bear
+      phrase: 'space station'
+      ...be reached through Axis City, the only space station of Thistledown. The ruling body of Axis...
+
+### [A] terraforming  (17 matches)
+  - Starhawk / Jack McDevitt
+      phrase: 'terraforming'
+      ...corporation that is responsible for the terraforming. Her working conditions include bomb th...
+  - The Future of Humanity: Terraforming Mars, Interstellar Trav / Michio Kaku
+      phrase: 'terraform'
+      ...logy, and biotechnology may allow us to terraform and build habitable cities on Mars. He...
+  - This shattered world / Amie Kaufman, Meagan Spooner
+      phrase: 'terraformed'
+      ...captain of the forces sent to crush the terraformed planet's rebellious colonists, but late...
+
+### [B] alternate-timeline  (15 matches)
+  - Stories of Your Life and Others / Ted Chiang
+      phrase: 'alternate history'
+      ...orial Award, and the Sidewise Award for alternate history. He won the John W. Campbell Award for...
+  - The Human Front / Ken Mcleod
+      phrase: 'alternate history'
+      ...h the arrival of an alien species. This alternate history and poignant political satire flips her...
+  - Resurrection Day / Brendan DuBois
+      phrase: 'alternate timeline'
+      ...t Brendan DuBois makes a foray into the alternate timeline realm and gives us a gripping and chill...
+
+### [A] intergalactic-war  (12 matches)
+  - Defy the Stars / Claudia Gray
+      phrase: 'interstellar war'
+      ...on. Noemi and Abel are enemies in an interstellar war, forced by chance to work together as t...
+  - The IDIC Epidemic / Jean Lorrah
+      phrase: 'Interstellar war'
+      ...replace it with an even older concept: Interstellar war....
+  - The Currents of Space / Isaac Asimov
+      phrase: 'galactic war'
+      ...destabilizing trade and resulting in a galactic war. So the Trantorian Empire, whose grand...
+
+### [B] galactic-empire  (12 matches)
+  - The empire strikes back / Emma Grange
+      phrase: 'Galactic Empire'
+      ...ws the rebels as they fight against the Galactic Empire....
+  - Pebble in the Sky / Isaac Asimov
+      phrase: 'Galactic Empire'
+      ...tive and is a low-status part of a vast Galactic Empire. There is both a mystery and a power-st...
+  - A confusion of princes / Garth Nix
+      phrase: 'galactic Empire'
+      ...out the hidden workings of a vast, intergalactic Empire, and about himself"--...
+
+### [A] teleportation  (11 matches)
+  - All the Myriad Ways / Larry Niven
+      phrase: 'Teleportation'
+      ...Speculation: The Theory and Practice of Teleportation" "The Theory and Practice of Time Trav...
+  - Glasshouse / Charles Stross
+      phrase: 'teleport'
+      ...century, when interstellar travel is by teleport gate and conflicts are fought by networ...
+  - Jumper: Griffin's Story / Steven Gould
+      phrase: 'teleportation'
+      ...ured childhood to explore the world via teleportation and find his long lost mother....
+
+### [A] cryosleep-suspended-animation  (10 matches)
+  - Frankissstein / Jeanette Winterson
+      phrase: 'cryogenic'
+      ...ss the Atlantic, in Phoenix, Arizona, a cryogenics facility houses dozens of bodies of me...
+  - The Bastard Legion / Gavin Smith
+      phrase: 'suspended animation'
+      ...he most dangerous criminals are kept in suspended animation aboard prison ships and "rehabilitated"...
+  - When we wake / Karen Healey
+      phrase: 'cryogenic'
+      ...owing first government guinea pig to be cryogenically frozen and successfully revived. Th...
+
+### [A] first-contact-with-aliens  (10 matches)
+  - Earth Awakens / Orson Scott Card, Aaron John
+      phrase: 'First Contact'
+      ...ce-faring races; everyone expected that First Contact, if it came, would happen in the future...
+  - Star Trek Voyager - A Pocket Full of Lies / Kirsten Beyer
+      phrase: 'first contact'
+      ...rkas of the USS Vesta makes a promising first contact with the Nihydron—humanoid aliens that...
+  - Infinity Beach / Jack McDevitt
+      phrase: 'first contact'
+      ...ng" now threatens them all. A gripping "first contact" thriller from one of science fiction's...
+
+### [A] nanotechnology  (10 matches)
+  - Moonwar / Ben Bova
+      phrase: 'nanotech'
+      ...oug Stavenger, thanks to the wonders of nanotechnology: virus-size machines that can bui...
+  - Slant / Greg Bear
+      phrase: 'Nanotech'
+      ...ormed by rapid technological advances. Nanotechnology has been refined and perfected, a...
+  - BZRK / Michael Grant
+      phrase: 'nanobots'
+      ...reate their own version of utopia using nanobots, while a guerilla group known as BZRK d...
+
+### [A] dystopian-government-totalitarian-regime  (9 matches)
+  - Batman: Year 100 / Paul Pope
+      phrase: 'dystopian world'
+      ...tery of epic proportions set in a dark, dystopian world devoid of privacy and filled with gover...
+  - The Pillowman / Martin McDonagh
+      phrase: 'totalitarian state'
+      ...**A writer in a totalitarian state is interrogated about the gruesome cont...
+  - The Wild Dead / Carrie Vaughn
+      phrase: 'dystopian future'
+      ...at the murder isn't their problem. In a dystopian future of isolated communities, can our moral...
+
+### [A] alien-invasion  (8 matches)
+  - Soon I will be invincible / Austin Grossman
+      phrase: 'Alien invasion'
+      ...ngus army. Army of fish. Of rodents. Alien invasions. All failures. But not this time. T...
+  - Dead Dead Demon's Dededede Destruction / Inio Asano
+      phrase: 'aliens invade'
+      ...yday apocalypse. Three years ago the aliens invaded Tokyo. Nothing was ever the same ag...
+  - Star Trek The Next Generation - Starfleet Academy - Haunted  / Brad Ferguson, Kathi Ferguso
+      phrase: 'alien invasion'
+      ...it mean? Is the ship haunted? Is it an alien invasion? The cadets are about to make history t...
+
+### [A] wormhole-hyperspace-travel  (8 matches)
+  - The Cold Between / Elizabeth Bonesteel
+      phrase: 'wormhole'
+      ...losion of a Central Corps starship at a wormhole near Volhynia. For twenty-five years, t...
+  - A rising Thunder / David Weber
+      phrase: 'wormhole'
+      ...or Honor is to shut down and secure the wormhole network that is the source of the Star...
+  - Parallel Worlds: A Journey through Creation, Higher Dimensio / Michio Kaku
+      phrase: 'Hyperspace'
+      ...erse.In his first book of physics since Hyperspace, Michio Kaku begins by describing the e...
+
+### [B] space-exploration  (8 matches)
+  - Spock's World / Diane Duane
+      phrase: 'exploration of space'
+      ...re to medieval court intrigue, from the exploration of space to the development of c'thia - the ruli...
+  - The Great Dune Trilogy / Frank Herbert
+      phrase: 'interstellar travel'
+      ...pice, a mind-enhancing drug which makes interstellar travel possible; it is the most valuable subst...
+  - Natural history / Justina Robson
+      phrase: 'interstellar voyage'
+      ...ironment we cannot conquer. But when an interstellar voyager meets a piece of alien technology in a...
+
+### [A] surveillance-state  (7 matches)
+  - The Golden City / John Twelve Hawks
+      phrase: 'Big Brother'
+      ...ost wrote that The Traveler "portrays a Big Brother with powers far beyond anything Orwell...
+  - Gnomon / Nick Harkaway
+      phrase: 'surveillance state'
+      ...w novel set in a near-future, high-tech surveillance state, that is equal parts dark comedy, gripp...
+  - The Program / Suzanne Young
+      phrase: 'constant surveillance'
+      ...one—but so are their memories. Under constant surveillance at home and at school, Sloane puts on a...
+
+### [A] what-does-it-mean-to-be-human  (7 matches)
+  - Exultant / Stephen Baxter
+      phrase: 'what it means to be human'
+      ...of all that he is fighting for, even of what it means to be human. Pirius Blue, meanwhile, will learn tru...
+  - The book of M / Peng Shepherd
+      phrase: 'what it means to be human'
+      ...al questions of memory, connection, and what it means to be human in a world turned upside down"--...
+  - Tankborn / Karen Sandler
+      phrase: 'what it means to be human'
+      ...bout the creation of GENs, and find out what it means to be human....
+
+### [A] generation-ship  (5 matches)
+  - Fleet of Knives / Gareth L. Powell
+      phrase: 'generation ship'
+      ...have sought refuge aboard an abandoned generation ship launched ten thousand years before by a...
+  - Terms of Enlistment / Marko Kloos
+      phrase: 'colony ship'
+      ...win the lottery and draw a ticket on a colony ship settling off-world, or you can join the...
+  - The Worst of All Possible Worlds / Alex White
+      phrase: 'colony ship'
+      ...akes off on a journey to find the first colony ship … and power that could bring down gods....
+
+### [A] rogue-sentient-ai  (5 matches)
+  - Medusa Uploaded / Emily Devenport
+      phrase: 'sentient AI'
+      ...k on suspicion of being an insurgent. A sentient AI, a Medusa unit, rescues Oichi and begin...
+  - Catfishing on CatNet / Naomi Kritzer
+      phrase: 'sentient AI'
+      ...ictures and the admin is CheshireCat, a sentient AI who loves cat pictures. When a threat f...
+  - Old Twentieth / Joe Haldeman
+      phrase: 'sentient machine'
+      ...rewer finds himself face-to-face with a sentient machine obsessed with humanity. It has put itse...
+
+### [A] environmental-collapse-narrative  (4 matches)
+  - The Lost Cause / Cory Doctorow
+      phrase: 'rising seas'
+      ...cities are being moved inland from the rising seas. Vast clean-energy projects are springi...
+  - Marked / Sarah Fine
+      phrase: 'environmental collapse'
+      ...In a broken landscape carved by environmental collapse, Boston paramedic Cacia Ferry risks lif...
+  - What We Can Know / Ian McEwan
+      phrase: 'rising seas'
+      ...the western world has been submerged by rising seas following a catastrophic nuclear accide...
+
+### [A] faster-than-light-travel  (3 matches)
+  - Pandora's Star / Peter F Hamilton
+      phrase: 'faster-than-light'
+      ...is too distant to reach by wormhole, a faster-than-light starship, the Second Chance, is dispatc...
+  - Starhawk / Jack McDevitt
+      phrase: 'Faster-than-light'
+      ...er timing is far from optimal, however. Faster-than-light travel has only recently become a reali...
+  - Nemesis / Isaac Asimov
+      phrase: 'FTL'
+      ...time just before the discovery of true FTL travel becomes possible....
+
+### [A] hive-mind  (3 matches)
+  - The Last Question / Isaac Asimov
+      phrase: 'collective consciousness'
+      ...dark and humanity long dissolved into a collective consciousness, the last mind poses the question one f...
+  - Diamond Dogs, Turquoise Days / Alastair Reynolds
+      phrase: 'collective consciousness'
+      ...es of any human swimmer who joins their collective consciousness. Naqi Okpik devoted her life to studyin...
+  - The skinner / Neal L. Asher
+      phrase: 'Hive-mind'
+      .... Janer is directed there by the hornet Hive-mind; Erlin comes to find the sea captain wh...
+
+### [B] transhumanism  (3 matches)
+  - Down and Out in the Magic Kingdom / Cory Doctorow
+      phrase: 'Transhuman'
+      ...nd Distraction **On The Skids In The Transhuman Future** Jules is a young man barely...
+  - Frankissstein / Jeanette Winterson
+      phrase: 'transhuman'
+      ...disparate lives into an exploration of transhumanism, artificial intelligence, and queer...
+  - Ghosts of time / Steve White
+      phrase: 'transhuman'
+      ...s of the American Civil War to combat a transhumanist threat. Sequel to Pirates of the Tim...
+
+### [A] uploaded-consciousness-digital-immortality  (2 matches)
+  - Red Planet Blues / Robert J Sawyer
+      phrase: 'upload their mind'
+      ...o, after striking paleontological gold, upload their minds into immortal android bodies. But when...
+  - Old Man's War / John Scalzi
+      phrase: 'consciousness transferred'
+      ..., in exchange for which they have their consciousness transferred into a young body, cloned from their DN...
+
+### [B] resource-scarcity-conflict  (2 matches)
+  - Gold Fame Citrus / Claire Vaye Watkins
+      phrase: 'water rations'
+      ...nd Ray are not leaving. They survive on water rations, black market fruit and each other's ne...
+  - The Terror / Dan Simmons
+      phrase: 'dwindling supplies'
+      ...hite or the flesh-numbing temperatures, dwindling supplies or the vessels being slowly crushed by...
+
+### [A] deep-space-mission  (1 matches)
+  - Noumenon / Marina J. Lostetter
+      phrase: 'deep-space mission'
+      ...physics, and proposes the creation of a deep-space mission to find out whether the star is a weird...
+
+### [A] robot-uprising  (1 matches)
+  - Robot Uprisings / Daniel H. Wilson, John Josep
+      phrase: 'Robot Uprising'
+      ...bbott, Robin Wasserman, and Anna North, Robot Uprisings contains meticulously described, exhil...
+
+### [A] space-colonization  (1 matches)
+  - Lord of Light / Roger Zelazny
+      phrase: 'the First Colonists'
+      ...A colony of humankind is subjugated by the First Colonists, the crew of the starship that brought...
+
+### [A] time-loop  (1 matches)
+  - Time and Time Again / Ben Elton
+      phrase: 'time loop'
+      ...she woke up to find herself stuck in a time loop. And for nearly a month of August 6ths...
+
+### [A] warp-speed  (1 matches)
+  - The Wounded Sky / Diane Duane
+      phrase: 'warp drive'
+      ...Drive, an engine system that transcends warp drive and the Enterprise will be the first to...
+
+### [B] class-stratification-in-a-future-society  (1 matches)
+  - The Book that Held Her Heart / Mark Lawrence
+      phrase: 'divided into factions'
+      ...scattered across time and space, lost, divided into factions, in mortal peril. Somehow, she must bri...
+
+### [B] simulated-reality  (1 matches)
+  - Eve & Adam / Michael Grant, Katherine App
+      phrase: 'simulation'
+      ...creating the perfect boy using detailed simulation technologies....

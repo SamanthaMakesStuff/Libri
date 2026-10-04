@@ -1,0 +1,76 @@
+Collecting sentence-transformers
+  Downloading sentence_transformers-5.6.0-py3-none-any.whl (596 kB)
+Collecting scipy>=1.0.0
+  Downloading scipy-1.15.3-cp310-cp310-win_amd64.whl (41.3 MB)
+Collecting transformers<6.0.0,>=4.41.0
+  Downloading transformers-5.14.1-py3-none-any.whl (11.6 MB)
+Collecting huggingface-hub>=0.23.0
+  Downloading huggingface_hub-1.24.0-py3-none-any.whl (771 kB)
+Collecting scikit-learn>=0.22.0
+  Downloading scikit_learn-1.7.2-cp310-cp310-win_amd64.whl (8.9 MB)
+Collecting torch>=1.11.0
+  Downloading torch-2.13.0-cp310-cp310-win_amd64.whl (122.0 MB)
+Collecting tqdm>=4.0.0
+  Downloading tqdm-4.69.0-py3-none-any.whl (676 kB)
+Collecting numpy>=1.20.0
+  Downloading numpy-2.2.6-cp310-cp310-win_amd64.whl (12.9 MB)
+Requirement already satisfied: typing_extensions>=4.5.0 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from sentence-transformers) (4.16.0)
+Requirement already satisfied: click<9.0.0,>=8.4.2 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from huggingface-hub>=0.23.0->sentence-transformers) (8.4.2)
+Collecting fsspec>=2023.5.0
+  Downloading fsspec-2026.6.0-py3-none-any.whl (203 kB)
+Collecting filelock>=3.10.0
+  Downloading filelock-3.31.0-py3-none-any.whl (96 kB)
+Requirement already satisfied: httpx<1,>=0.23.0 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from huggingface-hub>=0.23.0->sentence-transformers) (0.28.1)
+Collecting packaging>=20.9
+  Downloading packaging-26.2-py3-none-any.whl (100 kB)
+Collecting hf-xet<2.0.0,>=1.5.1
+  Downloading hf_xet-1.5.2-cp38-abi3-win_amd64.whl (4.0 MB)
+Requirement already satisfied: pyyaml>=5.1 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from huggingface-hub>=0.23.0->sentence-transformers) (6.0)
+Collecting joblib>=1.2.0
+  Downloading joblib-1.5.3-py3-none-any.whl (309 kB)
+Collecting threadpoolctl>=3.1.0
+  Downloading threadpoolctl-3.6.0-py3-none-any.whl (18 kB)
+Collecting jinja2
+  Downloading jinja2-3.1.6-py3-none-any.whl (134 kB)
+Collecting setuptools>=77.0.3
+  Downloading setuptools-83.0.0-py3-none-any.whl (1.0 MB)
+Collecting networkx>=2.5.1
+  Downloading networkx-3.4.2-py3-none-any.whl (1.7 MB)
+Collecting sympy>=1.13.3
+  Downloading sympy-1.14.0-py3-none-any.whl (6.3 MB)
+Requirement already satisfied: colorama in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from tqdm>=4.0.0->sentence-transformers) (0.4.4)
+Collecting tokenizers<=0.23.0,>=0.22.0
+  Downloading tokenizers-0.22.2-cp39-abi3-win_amd64.whl (2.7 MB)
+Collecting safetensors>=0.8.0
+  Downloading safetensors-0.8.0-cp310-abi3-win_amd64.whl (355 kB)
+Collecting regex>=2025.10.22
+  Downloading regex-2026.7.19-cp310-cp310-win_amd64.whl (277 kB)
+Collecting typer
+  Downloading typer-0.27.0-py3-none-any.whl (122 kB)
+Requirement already satisfied: anyio in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (4.14.2)
+Requirement already satisfied: httpcore==1.* in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (1.0.9)
+Requirement already satisfied: certifi in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (2026.6.17)
+Requirement already satisfied: idna in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (3.18)
+Requirement already satisfied: h11>=0.16 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from httpcore==1.*->httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (0.16.0)
+Collecting mpmath<1.4,>=1.1.0
+  Downloading mpmath-1.3.0-py3-none-any.whl (536 kB)
+Collecting MarkupSafe>=2.0
+  Downloading markupsafe-3.0.3-cp310-cp310-win_amd64.whl (15 kB)
+Collecting shellingham>=1.3.0
+  Downloading shellingham-1.5.4-py2.py3-none-any.whl (9.8 kB)
+Collecting rich>=13.8.0
+  Downloading rich-15.0.0-py3-none-any.whl (310 kB)
+Requirement already satisfied: annotated-doc>=0.0.2 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from typer->transformers<6.0.0,>=4.41.0->sentence-transformers) (0.0.4)
+Collecting markdown-it-py>=2.2.0
+  Downloading markdown_it_py-4.2.0-py3-none-any.whl (91 kB)
+Collecting pygments<3.0.0,>=2.13.0
+  Downloading pygments-2.20.0-py3-none-any.whl (1.2 MB)
+Requirement already satisfied: exceptiongroup>=1.0.2 in c:\users\samantha\appdata\local\programs\python\python310\lib\site-packages (from anyio->httpx<1,>=0.23.0->huggingface-hub>=0.23.0->sentence-transformers) (1.3.1)
+Collecting mdurl~=0.1
+  Downloading mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Installing collected packages: mdurl, tqdm, pygments, packaging, markdown-it-py, hf-xet, fsspec, filelock, shellingham, rich, numpy, mpmath, MarkupSafe, huggingface-hub, typer, tokenizers, threadpoolctl, sympy, setuptools, scipy, safetensors, regex, networkx, joblib, jinja2, transformers, torch, scikit-learn, sentence-transformers
+  Attempting uninstall: setuptools
+    Found existing installation: setuptools 58.1.0
+    Uninstalling setuptools-58.1.0:
+      Successfully uninstalled setuptools-58.1.0
+Successfully installed MarkupSafe-3.0.3 filelock-3.31.0 fsspec-2026.6.0 hf-xet-1.5.2 huggingface-hub-1.24.0 jinja2-3.1.6 joblib-1.5.3 markdown-it-py-4.2.0 mdurl-0.1.2 mpmath-1.3.0 networkx-3.4.2 numpy-2.2.6 packaging-26.2 pygments-2.20.0 regex-2026.7.19 rich-15.0.0 safetensors-0.8.0 scikit-learn-1.7.2 scipy-1.15.3 sentence-transformers-5.6.0 setuptools-83.0.0 shellingham-1.5.4 sympy-1.14.0 threadpoolctl-3.6.0 tokenizers-0.22.2 torch-2.13.0 tqdm-4.69.0 transformers-5.14.1 typer-0.27.0

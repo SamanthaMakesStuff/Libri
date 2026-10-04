@@ -1,0 +1,19 @@
+horror: skipped 7 contents-list descriptions
+
+=== horror ===
+scanned 905 trope-less horror fiction with descriptions (both)
+books with >=1 match: 72 (8%)
+total trope assignments: 76 | by tier (books): {'A': 70, 'B': 2}
+   [A]   32  ghost-vengeful-spirit
+   [A]   22  haunted-house-mansion
+   [A]    5  cannibalistic-backwoods-threat
+   [A]    4  demon-possession
+   [A]    3  final-girl
+   [A]    3  remote-isolated-location
+   [A]    2  slow-descent-into-madness
+   [B]    1  parasite-infection-horror
+   [A]    1  sole-survivor
+   [A]    1  woods-forest-as-threat
+   [B]    1  folk-horror-ritual-community
+   [A]    1  home-invasion
+-> trope_review_horror.csv

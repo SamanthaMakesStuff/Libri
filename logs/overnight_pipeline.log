@@ -1,0 +1,95 @@
+[2026-07-25 04:39:28] ============================================================
+[2026-07-25 04:39:28] overnight pipeline START
+[2026-07-25 04:39:28] START phase1-lang: _lang_archive.py
+[2026-07-25 10:50:09]   phase1-lang stdout tail:
+  ...63,000/96,797 archive=639 uncertain=5,867
+  ...66,000/96,797 archive=643 uncertain=6,073
+  ...69,000/96,797 archive=650 uncertain=6,291
+  ...72,000/96,797 archive=660 uncertain=6,510
+  ...75,000/96,797 archive=671 uncertain=6,721
+  ...78,000/96,797 archive=691 uncertain=6,938
+  ...81,000/96,797 archive=707 uncertain=7,162
+  ...84,000/96,797 archive=724 uncertain=7,372
+  ...87,000/96,797 archive=754 uncertain=7,657
+  ...90,000/96,797 archive=786 uncertain=7,939
+  ...93,000/96,797 archive=821 uncertain=8,228
+  ...96,000/96,797 archive=866 uncertain=8,507
+  ...96,797/96,797 archive=866 uncertain=8,551
+[lang] archived 866 books -> backup lang_archive_backup_20260725_043937.json
+[lang] DONE keep=87,380 archive=866 uncertain=8,551 -> lang_uncertain.csv
+[2026-07-25 10:50:09] END phase1-lang rc=0 in 22242s
+[2026-07-25 10:50:09] START phase2-class: _class_mark.py
+[2026-07-25 11:04:58]   phase2-class stdout tail:
+  ...60,000/95,931
+  ...63,000/95,931
+  ...66,000/95,931
+  ...69,000/95,931
+  ...72,000/95,931
+  ...75,000/95,931
+  ...78,000/95,931
+  ...81,000/95,931
+  ...84,000/95,931
+  ...87,000/95,931
+  ...90,000/95,931
+  ...93,000/95,931
+  ...95,931/95,931
+[class] class changes=4,050 trope-strips=346 -> backup class_mark_backup_20260725_105019.json
+[class] DONE {'unchanged': 22971, 'uncertain': 68357, 'fiction->nonfiction': 2225, 'nonfiction->fiction': 483, 'childrens->fiction': 198, 'poetry_drama->nonfiction': 615, 'childrens->nonfiction': 90, 'ambiguous->fiction': 58, 'poetry_drama->fiction': 62, 'ambiguous->nonfiction': 94} uncertain-logged=4,289 -> class_uncertain.csv
+[2026-07-25 11:04:58] END phase2-class rc=0 in 889s
+[2026-07-25 11:04:58] START phase3-match: _trope_match_mystery.py --out trope_review_overnight.csv --both
+[2026-07-25 11:07:58]   phase3-match stdout tail:
+books with >=1 match: 57 (2%)
+total trope assignments: 59 | by tier (books): {'B': 55, 'A+B': 1, 'A': 1}
+   [B]   14  stalker-unhinged-ex-as-red-herring-or-real-threat
+   [B]    8  criminal-mastermind
+   [B]    7  perfect-crime
+   [B]    5  twist-ending
+   [B]    5  detective-who-becomes-a-suspect
+   [B]    5  it-was-suicide-or-was-it
+   [B]    4  corrupt-cop-official
+   [B]    4  killer-hiding-in-plain-sight
+   [B]    4  wrong-person-convicted
+   [A]    1  unsolvable-cold-case-reopened
+   [B]    1  revenge-plot
+   [A]    1  kidnapping
+-> trope_review_overnight.csv
+[2026-07-25 11:07:58] END phase3-match rc=0 in 180s
+[2026-07-25 11:07:58] START phase3-apply: _apply_trope_review.py trope_review_overnight.csv overnight
+[2026-07-25 11:08:03]   phase3-apply stdout tail:
+books: 57  (high=1, medium=56)
+rows dropped by a reject decision: 0
+wrote inline_batch_overnight.json + overnight_trope_decisions.csv
+[2026-07-25 11:08:03] END phase3-apply rc=0 in 5s
+[2026-07-25 11:08:03] START phase3-ingest: -c import enrich_inline; enrich_inline.ingest('inline_batch_overnight.json')
+[2026-07-25 11:08:14]   phase3-ingest stdout tail:
+ingested 57 results
+  enriched                          57
+  confidence_medium                 56
+  confidence_high                    1
+[2026-07-25 11:08:14] END phase3-ingest rc=0 in 11s
+[2026-07-25 11:08:14] START phase3-promote: enrich.py promote --decisions overnight_trope_decisions.csv
+[2026-07-25 11:08:21]   phase3-promote stdout tail:
+loaded 57 human decisions from overnight_trope_decisions.csv
+
+run run_20260725_110821
+  promoted                     57
+  left_pending                  4
+
+  values added:
+    tropes                   59
+
+  rollback with:  python enrich.py promote --rollback run_20260725_110821
+[2026-07-25 11:08:21] END phase3-promote rc=0 in 7s
+[2026-07-25 11:08:21] START phase3-clean: enrich.py clean
+[2026-07-25 11:16:01]   phase3-clean stdout tail:
+scanning 64,772 books that have tropes/tags...
+
+books changed: 0 of 64,772
+  books_scanned          64,772
+
+=== diff sample (0) ===
+
+non-slug terms remaining in books: 0
+books with pacing: 3,009
+[2026-07-25 11:16:02] END phase3-clean rc=0 in 461s
+[2026-07-25 11:16:02] overnight pipeline deterministic phases DONE

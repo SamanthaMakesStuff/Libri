@@ -1,0 +1,35 @@
+reusing 85,828 work->book mappings from book_metadata
+editions pass...
+    ...editions 4,000,000 lines
+    ...editions 8,000,000 lines
+    ...editions 12,000,000 lines
+    ...editions 16,000,000 lines
+    ...editions 20,000,000 lines
+    ...editions 24,000,000 lines
+    ...editions 28,000,000 lines
+    ...editions 32,000,000 lines
+    ...editions 36,000,000 lines
+    ...editions 40,000,000 lines
+    ...editions 44,000,000 lines
+    ...editions 48,000,000 lines
+    ...editions 52,000,000 lines
+    ...editions 56,000,000 lines
+    ...editions 60,000,000 lines
+    ...editions 64,000,000 lines
+    ...editions 68,000,000 lines
+    ...editions 72,000,000 lines
+    ...editions 76,000,000 lines
+    ...editions 80,000,000 lines
+    ...editions 84,000,000 lines
+    ...editions 88,000,000 lines
+    ...editions 92,000,000 lines
+    ...editions 96,000,000 lines
+    ...editions 100,000,000 lines
+    ...editions 104,000,000 lines
+    ...editions 108,000,000 lines
+    ...editions 112,000,000 lines
+    ...editions 116,000,000 lines
+  56,442,419 editions scanned (skipped 0 malformed); ISBNs for 79,439 books, years 78,792, pages 64,398
+  books.isbn             now non-NULL: 79,439
+  books.published_year   now non-NULL: 78,792
+  books.page_count       now non-NULL: 64,398

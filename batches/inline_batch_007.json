@@ -1,0 +1,85 @@
+[
+  {"id": "hardcover_429528", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "was classed ambiguous/Young Adult — landmark adult lesbian coming-of-age novel",
+   "tropes": ["queer-coming-of-age", "coming-of-age", "identity-and-self-discovery", "class-divide", "the-outcast-hero"],
+   "tags": ["sapphic", "lesbian", "literary-fiction", "funny", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL1918804W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["queer-coming-of-age", "coming-of-age", "forbidden-love", "identity-and-self-discovery", "rebellion-against-an-oppressive-system"],
+   "tags": ["sapphic", "lesbian", "literary-fiction", "reflective", "funny", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL1918801W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["forbidden-love", "grief-and-loss-as-central-theme", "interpersonal-character-study", "quiet-literary-slow-burn"],
+   "tags": ["sapphic", "literary-fiction", "emotional", "reflective", "sad"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Medium"},
+
+  {"id": "the_man_in_the_high_castle", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["alternate-timeline", "dystopian-government-totalitarian-regime", "multiple-pov", "simulated-reality", "resistance-movement-rebellion-against-the-state"],
+   "tags": ["alternate-history", "dark", "reflective", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "Low"},
+
+  {"id": "i_robot", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "novel-in-stories-linked-short-stories-structure", "ethics-of-scientific-progress"],
+   "tags": ["hard-sci-fi", "reflective", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "foundation", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["galactic-empire", "generation-spanning-saga", "prophecy", "multiple-pov", "rebellion-against-an-oppressive-system"],
+   "tags": ["space-opera", "hard-sci-fi", "challenging", "reflective"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL8383188W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["found-family", "identity-and-self-discovery", "small-town-secrets", "second-chance"],
+   "tags": ["magical-realism", "lighthearted", "hopeful", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17821431W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Romance — it is literary domestic fiction",
+   "tropes": ["domestic-fiction", "class-social-commentary", "small-town-secrets", "multiple-pov", "interpersonal-character-study"],
+   "tags": ["literary-fiction", "tense", "emotional", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL461302W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["immortal-mortal-romance", "the-last-of-their-kind", "first-contact-with-aliens", "shapeshifters"],
+   "tags": ["soft-sci-fi", "mysterious", "reflective"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL11999891W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["survival-against-historical-injustice", "hidden-history-untold-women-s-history", "multiple-pov", "class-divide", "class-social-commentary"],
+   "tags": ["historical-fiction", "emotional", "inspiring", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL83535W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "was classed ambiguous/Young Adult — it is literary adult fiction",
+   "tropes": ["interpersonal-character-study", "grief-and-loss-as-central-theme", "identity-and-self-discovery", "tragic-past"],
+   "tags": ["literary-fiction", "reflective", "sad", "challenging"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "the_push", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["domestic-fiction", "unreliable-narrator", "mental-health-narrative", "tragic-past", "multi-generational-family-saga"],
+   "tags": ["domestic-thriller", "dark", "tense", "sad"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL3140822W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["coming-of-age", "survival-against-historical-injustice", "class-social-commentary", "court-case-as-backbone-of-plot", "mentor-figure"],
+   "tags": ["literary-fiction", "reflective", "emotional", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "n_space", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["novel-in-stories-linked-short-stories-structure", "space-exploration", "first-contact-with-aliens"],
+   "tags": ["hard-sci-fi", "adventurous", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "hardcover_254147", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["first-contact-with-aliens", "space-exploration", "parallel-universe-multiverse", "ancient-ruins", "what-does-it-mean-to-be-human"],
+   "tags": ["hard-sci-fi", "challenging", "adventurous"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "hardcover_159870", "known": true, "book_class": "fiction", "confidence": "medium",
+   "_note": "OL description was junk ('About the significance of the time is described....') — enriched from knowledge of Baxter's Manifold: Time",
+   "tropes": ["parallel-universe-multiverse", "ethics-of-scientific-progress", "space-exploration", "what-does-it-mean-to-be-human"],
+   "tags": ["hard-sci-fi", "challenging", "dark"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"}
+]

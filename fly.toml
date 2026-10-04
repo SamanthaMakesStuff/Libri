@@ -1,0 +1,44 @@
+# Fly.io config for the BookRec (Lumina) app.
+# One machine serves BOTH the FastAPI API and the built frontend.
+#
+# `app` must be globally unique. On first setup run `fly launch --no-deploy`
+# (it reuses this file and lets you pick/confirm a name), or edit the name below.
+app = "bookrec-lumina"
+primary_region = "lhr"   # London — closest to you
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  DB_PATH = "/data/book_rec.db"
+  # Behind Fly's HTTPS the session cookie should be Secure. Single-origin
+  # (API + frontend same host) so SameSite=lax is correct — do NOT use none here.
+  COOKIE_SECURE = "1"
+  COOKIE_SAMESITE = "lax"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  # Scale to zero: suspend the machine when idle, resume on the next request
+  # (~1-2s cold start). You then only pay compute while it's actually serving.
+  auto_stop_machines = "suspend"
+  auto_start_machines = true
+  min_machines_running = 0
+
+  # Health check hits "/", which serves the static frontend and needs no DB —
+  # so a fresh deploy is healthy even before the DB is uploaded to the volume.
+  [[http_service.checks]]
+    interval = "30s"
+    timeout = "5s"
+    grace_period = "10s"
+    method = "GET"
+    path = "/"
+
+# Persistent SSD for the SQLite database. Survives deploys, restarts, crashes.
+[[mounts]]
+  source = "book_data"
+  destination = "/data"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"   # ~$3.32/mo running 24/7; drop to 256mb if metrics look roomy

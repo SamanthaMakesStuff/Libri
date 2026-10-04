@@ -1,0 +1,9 @@
+[
+  {"id": "the_passage", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "author corrected from 'Orion' (publisher) to Justin Cronin per orionbooks.co.uk listing",
+   "tropes": ["post-apocalyptic-wasteland", "ancient-evil-awakening", "survival-narrative",
+              "multiple-pov", "generation-spanning-saga", "found-family",
+              "government-cover-up", "sacrifice-for-the-greater-good"],
+   "tags": ["post-apocalyptic", "dark", "tense", "emotional", "challenging"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"}
+]

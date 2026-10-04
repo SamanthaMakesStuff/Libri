@@ -1,0 +1,95 @@
+[
+  {"id": "openlibrary_OL1892617W", "known": true, "book_class": "nonfiction", "confidence": "high",
+   "_note": "was classed fiction/Sci-Fi — it is popular science nonfiction",
+   "tropes": [],
+   "tags": ["popular-science", "challenging", "reflective", "inspiring"],
+   "pacing": "Slow", "focus": "Plot", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL22089746W", "known": true, "book_class": "childrens", "confidence": "high",
+   "tropes": ["coming-of-age", "class-social-commentary", "identity-and-self-discovery"],
+   "tags": ["reflective", "challenging", "sad"],
+   "pacing": "Fast", "focus": "Character", "spice_level": "N/A"},
+
+  {"id": "openlibrary_OL16811862W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Romantasy — this is post-apocalyptic romance, no fantasy element",
+   "tropes": ["post-apocalyptic-wasteland", "survival-narrative", "multiple-pov", "single-dad-mom", "found-family"],
+   "tags": ["post-apocalyptic", "dark", "tense", "emotional"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Medium"},
+
+  {"id": "openlibrary_OL675696W", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Romantasy — it is literary feminist fiction",
+   "tropes": ["identity-and-self-discovery", "class-social-commentary", "interpersonal-character-study", "midlife-reckoning"],
+   "tags": ["literary-fiction", "reflective", "funny", "challenging"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "martian", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["survival-narrative", "space-exploration", "race-against-time", "unlikely-hero", "sole-survivor"],
+   "tags": ["hard-sci-fi", "funny", "tense", "hopeful", "adventurous"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "None"},
+
+  {"id": "ready_player_one", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["virtual-reality-world", "corporate-dystopia", "quest-journey-narrative", "unlikely-hero", "competition-tournament-structure"],
+   "tags": ["dystopian", "adventurous", "funny", "tense"],
+   "pacing": "Fast", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL1911334W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "dystopian-government-totalitarian-regime", "discovery-of-hidden-powers", "rebellion-against-an-oppressive-system", "coming-of-age"],
+   "tags": ["post-apocalyptic", "dystopian", "tense", "challenging"],
+   "pacing": "Medium", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL8110269W", "known": true, "book_class": "fiction", "confidence": "medium",
+   "tropes": ["revenge-plot", "missing-person", "quest-journey-narrative"],
+   "tags": ["adventurous", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL17038327W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["post-apocalyptic-wasteland", "parasite-infection-horror", "coming-of-age", "survival-narrative", "what-does-it-mean-to-be-human"],
+   "tags": ["post-apocalyptic", "dark", "tense", "emotional", "sad"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "the_carhullan_army", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["dystopian-government-totalitarian-regime", "rebellion-against-an-oppressive-system", "class-social-commentary", "survival-narrative", "identity-and-self-discovery"],
+   "tags": ["dystopian", "dark", "challenging", "tense"],
+   "pacing": "Medium", "focus": "World", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL20883297W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "class-stratification-in-a-future-society", "grief-and-loss-as-central-theme"],
+   "tags": ["literary-fiction", "reflective", "sad", "emotional"],
+   "pacing": "Slow", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL17782786W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["witch-romance", "vampire-romance", "forbidden-love", "court-intrigue", "forbidden-knowledge"],
+   "tags": ["romantasy", "paranormal-romance", "adventurous", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Medium"},
+
+  {"id": "hardcover_470914", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["missing-person", "forbidden-knowledge", "tragic-past", "twist-ending", "secret-magical-society-hidden-in-the-mundane-world"],
+   "tags": ["magical-realism", "mysterious", "tense"],
+   "pacing": "Medium", "focus": "Plot", "spice_level": "Low"},
+
+  {"id": "openlibrary_OL21916301W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["amnesia", "secret-identity", "found-family", "discovery-of-hidden-powers", "unlikely-hero"],
+   "tags": ["soft-sci-fi", "funny", "hopeful", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "None"},
+
+  {"id": "openlibrary_OL20642211W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["space-exploration", "deep-space-mission", "genetic-engineering", "first-contact-with-aliens", "sacrifice-for-the-greater-good"],
+   "tags": ["hard-sci-fi", "reflective", "hopeful", "challenging"],
+   "pacing": "Slow", "focus": "World", "spice_level": "None"},
+
+  {"id": "openlibrary_OL468431W", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["class-divide", "tragic-past", "love-triangle", "unreliable-narrator", "class-social-commentary"],
+   "tags": ["literary-fiction", "reflective", "sad", "emotional"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "a_closed_and_common_orbit", "known": true, "book_class": "fiction", "confidence": "high",
+   "tropes": ["human-ai-relationship", "what-does-it-mean-to-be-human", "found-family", "identity-and-self-discovery", "secret-identity"],
+   "tags": ["soft-sci-fi", "hopeful", "emotional", "reflective"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"},
+
+  {"id": "long_way_small_angry_planet", "known": true, "book_class": "fiction", "confidence": "high",
+   "_note": "genres said Romantasy — it is character-driven space opera",
+   "tropes": ["found-family", "first-contact-with-aliens", "deep-space-mission", "interpersonal-character-study", "multiple-pov"],
+   "tags": ["space-opera", "soft-sci-fi", "hopeful", "emotional", "relaxing"],
+   "pacing": "Medium", "focus": "Character", "spice_level": "Low"}
+]

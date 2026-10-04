@@ -1,0 +1,63 @@
+[2026-07-23 23:48:43] overnight orchestrator started
+[2026-07-23 23:48:46] phase 1 pass 1: 200 candidates
+[2026-07-24 00:29:01]   pass 1: +22 descriptions (running total 22)
+[2026-07-24 00:29:01] phase 1 pass 2: 200 candidates
+[2026-07-24 01:09:13]   pass 2: +6 descriptions (running total 28)
+[2026-07-24 01:09:14] phase 1 pass 3: 200 candidates
+[2026-07-24 01:50:13]   pass 3: +0 descriptions (running total 28)
+[2026-07-24 01:50:13] phase 1 pass 4: 200 candidates
+[2026-07-24 02:30:19]   pass 4: +0 descriptions (running total 28)
+[2026-07-24 02:30:20] phase 1 pass 5: 200 candidates
+[2026-07-24 03:10:21]   pass 5: +0 descriptions (running total 28)
+[2026-07-24 03:10:21] phase 1 pass 6: 200 candidates
+[2026-07-24 03:50:05]   pass 6: +0 descriptions (running total 28)
+[2026-07-24 03:50:06] phase 1 pass 7: 200 candidates
+[2026-07-24 04:30:06]   pass 7: +0 descriptions (running total 28)
+[2026-07-24 04:30:07] phase 1 pass 8: 200 candidates
+[2026-07-24 05:10:12]   pass 8: +0 descriptions (running total 28)
+[2026-07-24 05:10:12] phase 1 pass 9: 200 candidates
+[2026-07-24 05:50:22]   pass 9: +0 descriptions (running total 28)
+[2026-07-24 05:50:22] phase 1 pass 10: 200 candidates
+[2026-07-24 06:30:05]   pass 10: +0 descriptions (running total 28)
+[2026-07-24 06:30:06] phase 1 pass 11: 200 candidates
+[2026-07-24 07:10:11]   pass 11: +0 descriptions (running total 28)
+[2026-07-24 07:10:11] phase 1 pass 12: 200 candidates
+[2026-07-24 07:50:14]   pass 12: +0 descriptions (running total 28)
+[2026-07-24 07:50:15] phase 1 pass 13: 200 candidates
+[2026-07-24 08:30:26]   pass 13: +0 descriptions (running total 28)
+[2026-07-24 08:30:27] phase 1 pass 14: 200 candidates
+[2026-07-24 10:17:23] overnight orchestrator started
+[2026-07-24 10:28:11]   ...50/1278 | 0 found
+[2026-07-24 10:37:08]   ...100/1278 | 0 found
+[2026-07-24 10:46:08]   ...150/1278 | 0 found
+[2026-07-24 10:57:09]   ...200/1278 | 0 found
+[2026-07-24 11:15:13] overnight orchestrator started
+[2026-07-24 11:29:34] overnight orchestrator started
+[2026-07-24 11:40:15]   ...50/1078 | 12 found
+[2026-07-24 11:51:11]   ...100/1078 | 37 found
+[2026-07-24 12:03:33] overnight orchestrator started
+[2026-07-24 12:14:21]   ...50/1033 | 17 found
+[2026-07-24 13:44:34] overnight orchestrator started
+[2026-07-24 13:56:04]   ...50/987 | 20 found
+[2026-07-24 14:08:01]   ...100/987 | 41 found
+[2026-07-24 14:19:03]   ...150/987 | 55 found
+[2026-07-24 14:31:17]   ...200/987 | 78 found
+[2026-07-24 14:42:14]   ...250/987 | 93 found
+[2026-07-24 14:52:14]   ...300/987 | 109 found
+[2026-07-24 15:02:20]   ...350/987 | 129 found
+[2026-07-24 15:15:18]   ...400/987 | 145 found
+[2026-07-24 15:27:06]   ...450/987 | 163 found
+[2026-07-24 15:37:06]   ...500/987 | 173 found
+[2026-07-24 15:46:17]   ...550/987 | 183 found
+[2026-07-24 15:58:20]   ...600/987 | 190 found
+[2026-07-24 16:08:23]   ...650/987 | 207 found
+[2026-07-24 16:19:03]   ...700/987 | 216 found
+[2026-07-24 16:31:09]   ...750/987 | 230 found
+[2026-07-24 16:39:15]   ...800/987 | 240 found
+[2026-07-24 16:51:20]   ...850/987 | 254 found
+[2026-07-24 17:01:10]   ...900/987 | 266 found
+[2026-07-24 17:12:15]   ...950/987 | 276 found
+[2026-07-24 17:21:22] fetch_all done: 286/987 descriptions from this pass
+[2026-07-24 17:21:22] phase 1 done: 286 new Wikipedia descriptions this run
+[2026-07-24 17:22:32] phase 2: re-match complete - 235 books, 257 trope assignments -> trope_review_mystery_2.csv
+[2026-07-24 17:22:32] overnight orchestrator finished OK
