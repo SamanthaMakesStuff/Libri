@@ -13,6 +13,9 @@ frontend/.env.local
 *.db-wal
 bookCatalog.json
 bookCatalog.backup.json
+*.gz
+book_rec.live.db
+book_rec.backup.db
 
 # === Backups, snapshots, caches (regenerable, bulky) =========================
 backups/
