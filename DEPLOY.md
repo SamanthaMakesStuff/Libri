@@ -193,7 +193,7 @@ fly tokens create deploy
 
 2. Copy the whole token it prints (starts with `FlyV1 ...`).
 3. In your browser, go to
-   **https://github.com/SamanthaMakesStuff/Libri/settings/secrets/actions** →
+   **https://github.com/SamanthaMakesStuff/Lumina/settings/secrets/actions** →
    **New repository secret**. Name it exactly `FLY_API_TOKEN`, paste the token,
    save.
 
@@ -288,7 +288,7 @@ the small file, unpack it on the server.**
 
 5. **Restart** so the app opens the fresh database cleanly:
    ```powershell
-   fly apps restart libri
+   fly apps restart lumina
    ```
 
 ### "database disk image is malformed" (Internal Server Error on every page)

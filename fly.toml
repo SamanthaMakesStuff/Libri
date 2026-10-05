@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for libri on 2026-10-04T18:03:00+01:00
+# fly.toml app configuration file for lumina
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'libri'
+app = 'lumina'
 primary_region = 'lhr'
 
 [build]
