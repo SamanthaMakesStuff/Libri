@@ -337,3 +337,71 @@ imports, the per-user "not in catalog yet" list, recommendations — is written 
   ```powershell
   fly ssh sftp get /data/book_rec.db book_rec.live.db
   ```
+
+---
+
+## Seeding the database via the deploy (when sftp keeps dropping)
+
+Both uploads *and* downloads over `fly ssh sftp` can fail repeatedly on a bad
+day — even the compressed ~62 MB file. When that happens, skip the tunnel
+entirely and ship the database **inside the deploy image**, which travels over
+Fly's reliable build uploader. It unpacks itself onto the volume on first boot.
+
+This is a **temporary** change — you bundle the DB, deploy once, then revert so
+you're not shipping a 62 MB image forever. The seed only runs if the volume is
+empty, so it never clobbers live data.
+
+1. Make sure `book_rec.db.gz` exists locally (`gzip -c book_rec.db > book_rec.db.gz`).
+
+2. Add a tiny startup script `docker-entrypoint.sh` that seeds an empty volume
+   then starts the app:
+   ```sh
+   #!/bin/sh
+   set -e
+   SEED=/app/seed_book_rec.db.gz
+   DB=/data/book_rec.db
+   size=$(wc -c < "$DB" 2>/dev/null || echo 0)
+   if [ "$size" -lt 1000000 ] && [ -f "$SEED" ]; then
+     rm -f "$DB" "$DB-wal" "$DB-shm"
+     python -c "import gzip,shutil; shutil.copyfileobj(gzip.open('$SEED','rb'), open('$DB','wb'), 1024*1024)"
+   fi
+   exec uvicorn app:app --host 0.0.0.0 --port 8080
+   ```
+
+3. Temporarily add to the end of the `Dockerfile` (after the other `COPY`s),
+   replacing the `CMD` line:
+   ```dockerfile
+   COPY book_rec.db.gz /app/seed_book_rec.db.gz
+   COPY docker-entrypoint.sh /app/docker-entrypoint.sh
+   RUN chmod +x /app/docker-entrypoint.sh
+   ENTRYPOINT ["/app/docker-entrypoint.sh"]
+   ```
+
+4. `fly deploy`. On boot the logs show `[entrypoint] Seed complete: … bytes`.
+   Verify the app shows your data.
+
+5. **Revert**: restore the original `Dockerfile` (`git checkout -- Dockerfile`),
+   delete `docker-entrypoint.sh`, and `fly deploy` again. The volume keeps the
+   seeded database; the image goes back to lean. `book_rec.db.gz` stays local
+   (it's git-ignored).
+
+---
+
+## The feedback form
+
+Site feedback is collected via a **Google Form**, linked from a "Feedback" item
+in the top nav (`frontend/src/main.jsx` — an `<a>` opening the form in a new
+tab). To change the form, edit that link's `href`. Responses live in Google
+(Forms dashboard / linked Sheet), not in the app database.
+
+> Note on screenshots: the form's **File upload** question requires respondents
+> to sign in with a Google account (uploads land in the form owner's Drive).
+> That's fine here since app users already sign in with Google, but it does mean
+> the form itself isn't fully anonymous. Drop that question if you want it open
+> to everyone with no sign-in.
+
+A native in-app form was considered instead (the app already has a `feedback`
+table and `/api/feedback` for *recommendation* ratings). Google Forms was chosen
+for its zero-build responses dashboard. If you ever want to switch to a native
+general-feedback form, add a `site_feedback` table + POST endpoint (copy the
+`submit_feedback` pattern in `app.py`) and an owner-only read endpoint.
