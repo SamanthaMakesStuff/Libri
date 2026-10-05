@@ -788,12 +788,18 @@ def submit_feedback(feedback: FeedbackRequest, user_id: str = Depends(current_us
 
 
 @app.get("/api/pending-books")
-def get_pending_books(user_id: str = Depends(current_user)):
+def get_pending_books(limit: int = 100, user_id: str = Depends(current_user)):
+    """Unmatched ('not in catalog') books for the user. Newest-of-equal-count
+    first so freshly flagged mismatches surface. Pass limit=0 for the full list."""
     init_db()
     conn = get_db()
-    books = [dict(r) for r in conn.execute(
-        "SELECT id, raw_title, raw_author, seen_count FROM pending_books "
-        "WHERE user_id = ? ORDER BY seen_count DESC LIMIT 25", (user_id,))]
+    q = ("SELECT id, raw_title, raw_author, seen_count FROM pending_books "
+         "WHERE user_id = ? ORDER BY seen_count DESC, first_seen_at DESC")
+    params = [user_id]
+    if limit and limit > 0:
+        q += " LIMIT ?"
+        params.append(limit)
+    books = [dict(r) for r in conn.execute(q, params)]
     conn.close()
     return books
 
