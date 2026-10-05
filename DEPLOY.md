@@ -405,3 +405,39 @@ table and `/api/feedback` for *recommendation* ratings). Google Forms was chosen
 for its zero-build responses dashboard. If you ever want to switch to a native
 general-feedback form, add a `site_feedback` table + POST endpoint (copy the
 `submit_feedback` pattern in `app.py`) and an owner-only read endpoint.
+
+---
+
+## How Goodreads books are matched to the catalog
+
+When a Goodreads CSV is imported (`/api/upload-csv` in `app.py`), each read book
+is matched to a catalog book in two tiers:
+
+1. **Exact ISBN first.** The row's `ISBN13` then `ISBN` are compared against the
+   catalog's stored ISBNs (`normalize_isbn` strips Goodreads' `="…"` Excel
+   wrapper and any hyphens). ~82% of the catalog carries an ISBN-13, so this
+   catches most books precisely.
+2. **Fuzzy fallback.** If no ISBN hit, `fuzzy_match` scores normalized
+   title (70%) + author (30%). A confident "matched" needs title ≥ 88 **and**
+   author ≥ 75; "ambiguous" needs a combined ≥ 65; else "unmatched".
+
+ISBN-first matching prevents fuzzy false positives (e.g. "The Many" →
+"Mandy") **when the correct book is in the catalog**. If a book isn't in the
+catalog at all, the fuzzy fallback can still mis-grab a similar title — that's
+what the "wrong match?" control (below) is for.
+
+> Matching runs at **import time**, so changes only affect *future* uploads.
+> Re-uploading a CSV replaces the previous import and re-matches it.
+
+## The "wrong match?" control
+
+Each row in a user's matched-books list has a **"Wrong match?"** button
+(`frontend/src/main.jsx`). It calls `POST /api/matched-books/{id}/flag`, which
+**detaches** the bad match: the entry's `book_id` is cleared and its
+`match_status` set back to `unmatched` (so the wrong book stops skewing the
+taste profile), and it's added to the user's `pending_books` ("not in catalog")
+list. The user's recommendation cache is invalidated so recs refresh.
+
+Note: re-uploading a Goodreads CSV replaces `user_books`, which clears any
+"wrong match?" flags — so use the button for one-off corrections, or re-upload
+for a full, more accurate (ISBN-first) re-match.
