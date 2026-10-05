@@ -260,6 +260,13 @@ import './styles.css';
         try { const d = await api('/api/matched-books?window='+win); setMatched(d.books||[]); setMatchedOpen(true); }
         catch(e) { if (e.name!=='AuthError') throw e; }
       };
+      const flagMismatch = async (b) => {
+        if (!window.confirm(`Mark "${b.title}" as a wrong match? It'll be removed from your matched list and your taste profile.`)) return;
+        try {
+          await xfetch('/api/matched-books/'+b.id+'/flag', {method:'POST'});
+          setMatched(prev => prev.filter(x => x.id !== b.id));
+        } catch(e) { if (e.name!=='AuthError') throw e; }
+      };
       const toggleFilter = (slug, kind) => {
         const S = kind==='trope' ? new Set(selTropes) : new Set(selTags);
         S.has(slug) ? S.delete(slug) : S.add(slug);
@@ -379,13 +386,15 @@ import './styles.css';
                 <div className="card" style={{padding:0, marginBottom:0}}>
                   <div className="matched">
                     <table>
-                      <thead><tr><th>Title</th><th>Author</th><th>Genre</th><th>Rating</th><th>Read</th></tr></thead>
+                      <thead><tr><th>Title</th><th>Author</th><th>Genre</th><th>Rating</th><th>Read</th><th></th></tr></thead>
                       <tbody>
                         {matched.map((b,i)=>(
-                          <tr key={i}><td>{b.title}</td><td>{b.author}</td>
+                          <tr key={b.id ?? i}><td>{b.title}</td><td>{b.author}</td>
                             <td className="muted">{(b.genres||[]).slice(0,2).join(' · ')}</td>
                             <td className="stars">{b.rating?'★'.repeat(b.rating):'—'}</td>
-                            <td className="muted">{b.date_read||'—'}</td></tr>
+                            <td className="muted">{b.date_read||'—'}</td>
+                            <td>{b.id!=null && <button className="btn-ghost" style={{padding:'2px 8px',fontSize:12}}
+                              onClick={()=>flagMismatch(b)} title="Report this as a wrong match">Wrong match?</button>}</td></tr>
                         ))}
                       </tbody>
                     </table>

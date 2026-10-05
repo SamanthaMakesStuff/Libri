@@ -277,6 +277,17 @@ def normalize_author(author):
     return re.sub(r"\s+", " ", a).strip()
 
 
+def normalize_isbn(s):
+    """Clean an ISBN for exact comparison. Goodreads exports them Excel-wrapped
+    like `="9780439023481"`, so strip the wrapper, hyphens and spaces. Returns
+    "" when there's nothing usable (so blanks never match each other)."""
+    s = (s or "").strip()
+    if s.startswith('="') and s.endswith('"'):
+        s = s[2:-1]
+    s = re.sub(r"[^0-9Xx]", "", s).upper()
+    return s if len(s) in (10, 13) else ""
+
+
 def derive_tags(tropes, tags, spice, pacing):
     # spice is its own dimension (spice_level field), never a tag
     extra = [TROPE_TAG_MAP[t] for t in tropes if t in TROPE_TAG_MAP]
@@ -379,6 +390,15 @@ async def upload_csv(file: UploadFile = File(...),
 
     catalog_books = conn.execute("SELECT id, norm_title, norm_author FROM books").fetchall()
 
+    # ISBN -> book_id lookup for exact matching before the fuzzy fallback. ~82%
+    # of the catalog carries an ISBN-13, so this catches most books precisely and
+    # avoids fuzzy false positives like "The Many" -> "Mandy".
+    isbn_index = {}
+    for r in conn.execute("SELECT id, isbn FROM books WHERE isbn IS NOT NULL AND TRIM(isbn) <> ''"):
+        key = normalize_isbn(r["isbn"])
+        if key:
+            isbn_index.setdefault(key, r["id"])
+
     counts = {"matched": 0, "ambiguous": 0, "unmatched": 0}
     total_read = 0
 
@@ -396,7 +416,17 @@ async def upload_csv(file: UploadFile = File(...),
             rating = None
         date_read = parse_date(row.get("Date Read")) or parse_date(row.get("Date Added"))
 
-        status, book_id = fuzzy_match(title, author, catalog_books)
+        # Exact ISBN match first (ISBN13 then ISBN10 from the Goodreads row);
+        # fall back to fuzzy title/author only when no ISBN hit.
+        book_id = None
+        for col in ("ISBN13", "ISBN"):
+            key = normalize_isbn(row.get(col))
+            if key and key in isbn_index:
+                book_id = isbn_index[key]
+                break
+        status = "matched" if book_id else None
+        if not book_id:
+            status, book_id = fuzzy_match(title, author, catalog_books)
         counts[status] += 1
 
         if status == "unmatched":
@@ -518,7 +548,7 @@ def get_matched_books(window: str = "all", user_id: str = Depends(current_user))
     if window in WINDOW_DAYS:
         cutoff = (datetime.now() - timedelta(days=WINDOW_DAYS[window])).date().isoformat()
     rows = conn.execute("""
-        SELECT ub.raw_title, ub.user_rating, ub.date_read, ub.match_status,
+        SELECT ub.id, ub.raw_title, ub.user_rating, ub.date_read, ub.match_status,
                b.title, b.author, b.genres
         FROM user_books ub JOIN books b ON ub.book_id = b.id
         WHERE ub.user_id = ? AND ub.shelf = 'read'
@@ -530,12 +560,42 @@ def get_matched_books(window: str = "all", user_id: str = Depends(current_user))
         if cutoff and (not r["date_read"] or r["date_read"] < cutoff):
             continue
         books.append({
+            "id": r["id"],
             "title": r["title"], "author": r["author"],
             "rating": r["user_rating"], "date_read": r["date_read"],
             "match_status": r["match_status"],
             "genres": json.loads(r["genres"] or "[]"),
         })
     return {"window": window, "count": len(books), "books": books}
+
+
+@app.post("/api/matched-books/{ub_id}/flag")
+def flag_mismatch(ub_id: int, user_id: str = Depends(current_user)):
+    """User reports this catalog match is wrong. Detach it — set the entry back
+    to 'unmatched' so the wrong book stops skewing the taste profile — and add it
+    to the per-user pending ('not in catalog') list."""
+    conn = get_db()
+    row = conn.execute(
+        "SELECT raw_title, raw_author, book_id FROM user_books WHERE id = ? AND user_id = ?",
+        (ub_id, user_id)).fetchone()
+    if not row or row["book_id"] is None:
+        conn.close()
+        raise HTTPException(status_code=404, detail="No such matched book")
+    conn.execute("UPDATE user_books SET book_id = NULL, match_status = 'unmatched' WHERE id = ?",
+                 (ub_id,))
+    existing = conn.execute(
+        "SELECT id FROM pending_books WHERE raw_title = ? AND raw_author = ? AND user_id = ?",
+        (row["raw_title"], row["raw_author"], user_id)).fetchone()
+    if existing:
+        conn.execute("UPDATE pending_books SET seen_count = seen_count + 1 WHERE id = ?",
+                     (existing["id"],))
+    else:
+        conn.execute("INSERT INTO pending_books (user_id, raw_title, raw_author) VALUES (?, ?, ?)",
+                     (user_id, row["raw_title"], row["raw_author"]))
+    invalidate_user_recs(conn, user_id)
+    conn.commit()
+    conn.close()
+    return {"status": "ok"}
 
 
 # ---------------------------------------------------------------------------
