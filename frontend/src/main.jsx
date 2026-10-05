@@ -297,6 +297,8 @@ import './styles.css';
             {me && me.demo && <span className="chip">Demo mode</span>}
             {me && me.authenticated && me.oauth_enabled &&
               <button className="btn-ghost" onClick={logout}>Log out</button>}
+            <a className="btn-ghost" href="https://forms.gle/mArZYB7mwoJjA5TE9"
+               target="_blank" rel="noopener noreferrer" title="Share feedback">Feedback</a>
             <ThemeSwitcher theme={theme} mode={mode} setTheme={setTheme} setMode={setMode} />
           </div>
         </div>
